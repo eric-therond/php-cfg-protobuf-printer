@@ -31,7 +31,6 @@ use ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand
 use ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel as PBMapLabel;
 use ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\OneLabelType as PBOneLabelType;
 use ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\ChildBlock as PBChildBlock;
-
 use Google\Protobuf\Internal\GPBUtil;
 
 class Protobuf extends Printer
