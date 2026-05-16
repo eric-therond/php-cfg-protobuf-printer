@@ -1,0 +1,608 @@
+<?php
+
+[$a, $b, [$c]] = $array;
+-----
+{
+    "functions": [
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 7
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 12
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 20
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_ArrayDimFetch"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 1,
+                                                "original": {
+                                                    "name": "$array",
+                                                    "reference": false
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "dim": {
+                                        "operand": {
+                                            "literal": {
+                                                "value": {
+                                                    "int": 0
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 2
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 7
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 12
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 20
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_Assign"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 3,
+                                                "original": {
+                                                    "name": "$a",
+                                                    "reference": false
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "expr": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 2
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 4
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 7
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 12
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 20
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_ArrayDimFetch"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 1,
+                                                "original": {
+                                                    "name": "$array",
+                                                    "reference": false
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "dim": {
+                                        "operand": {
+                                            "literal": {
+                                                "value": {
+                                                    "int": 1
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 5
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 7
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 12
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 20
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_Assign"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 6,
+                                                "original": {
+                                                    "name": "$b",
+                                                    "reference": false
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "expr": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 5
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 7
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 7
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 12
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 20
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_ArrayDimFetch"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 1,
+                                                "original": {
+                                                    "name": "$array",
+                                                    "reference": false
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "dim": {
+                                        "operand": {
+                                            "literal": {
+                                                "value": {
+                                                    "int": 2
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 8
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 9
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 16
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 11
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 19
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_ArrayDimFetch"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 8
+                                            }
+                                        }
+                                    },
+                                    "dim": {
+                                        "operand": {
+                                            "literal": {
+                                                "value": {
+                                                    "int": 0
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 9
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 9
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 16
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 11
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 19
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_Assign"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 10,
+                                                "original": {
+                                                    "name": "$c",
+                                                    "reference": false
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "expr": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 9
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 11
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "{main}",
+            "returnType": "void"
+        }
+    ]
+}

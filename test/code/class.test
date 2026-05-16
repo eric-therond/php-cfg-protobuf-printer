@@ -1,0 +1,1056 @@
+<?php
+namespace NS;
+interface Iface extends \A, \B {
+}
+class NameOfClass extends \X implements Iface {
+    function doSomething() {
+        echo "Hello World";
+    }
+
+    private function method1() {
+    }
+
+    protected function method2() {
+    }
+
+    private static function method3() {
+    }
+
+    final private function method4() {
+    }
+
+    abstract private function method5() {
+    }
+
+    abstract static protected function method6() {
+    }
+}
+$obj = new NameOfClass();
+-----
+{
+    "functions": [
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 3
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 6
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 20
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 4
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 19
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 53
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_Interface"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "NS\\Iface"
+                                        }
+                                    },
+                                    "extends": {
+                                        "map": {
+                                            "value": {
+                                                "0": {
+                                                    "primitive": {
+                                                        "string": "A"
+                                                    }
+                                                },
+                                                "1": {
+                                                    "primitive": {
+                                                        "string": "B"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "childBlocks": {
+                                "stmts": 2
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 5
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 21
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 55
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 27
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 132
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 448
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_Class"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "NS\\NameOfClass"
+                                        }
+                                    },
+                                    "extends": {
+                                        "primitive": {
+                                            "string": "X"
+                                        }
+                                    },
+                                    "implements": {
+                                        "map": {
+                                            "value": {
+                                                "0": {
+                                                    "primitive": {
+                                                        "string": "NS\\Iface"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "childBlocks": {
+                                "stmts": 3
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 28
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 138
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 457
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 28
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 142
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 473
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_New"
+                                        }
+                                    },
+                                    "class": {
+                                        "operand": {
+                                            "literal": {
+                                                "value": {
+                                                    "string": "NS\\NameOfClass"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "args": {
+                                        "map": {}
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 28
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 134
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 450
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 28
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 142
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 473
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Expr_Assign"
+                                        }
+                                    },
+                                    "var": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 2,
+                                                "original": {
+                                                    "name": "$obj",
+                                                    "reference": false
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "expr": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 1
+                                            }
+                                        }
+                                    },
+                                    "result": {
+                                        "operand": {
+                                            "temporary": {
+                                                "id": 3
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 6
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 35
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 107
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 8
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 48
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 164
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_ClassMethod"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "doSomething"
+                                        }
+                                    },
+                                    "flags": {
+                                        "primitive": {
+                                            "string": "public"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 10
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 50
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 171
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 11
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 60
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 204
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_ClassMethod"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "method1"
+                                        }
+                                    },
+                                    "flags": {
+                                        "primitive": {
+                                            "string": "private"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 13
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 62
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 211
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 14
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 72
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 246
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_ClassMethod"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "method2"
+                                        }
+                                    },
+                                    "flags": {
+                                        "primitive": {
+                                            "string": "protected"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 16
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 74
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 253
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 17
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 86
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 293
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_ClassMethod"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "method3"
+                                        }
+                                    },
+                                    "flags": {
+                                        "primitive": {
+                                            "string": "static|private"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 19
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 88
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 300
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 20
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 100
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 339
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_ClassMethod"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "method4"
+                                        }
+                                    },
+                                    "flags": {
+                                        "primitive": {
+                                            "string": "final|private"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 22
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 102
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 346
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 23
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 114
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 388
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_ClassMethod"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "method5"
+                                        }
+                                    },
+                                    "flags": {
+                                        "primitive": {
+                                            "string": "abstract|private"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 25
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 116
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 395
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 26
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 130
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 446
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Stmt_ClassMethod"
+                                        }
+                                    },
+                                    "name": {
+                                        "primitive": {
+                                            "string": "method6"
+                                        }
+                                    },
+                                    "flags": {
+                                        "primitive": {
+                                            "string": "abstract|static|protected"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 3
+                }
+            ],
+            "name": "{main}",
+            "returnType": "void"
+        },
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "attribute": {
+                                        "map": {
+                                            "value": {
+                                                "filename": {
+                                                    "primitive": {
+                                                        "string": "foo.php"
+                                                    }
+                                                },
+                                                "startLine": {
+                                                    "primitive": {
+                                                        "int": 7
+                                                    }
+                                                },
+                                                "startTokenPos": {
+                                                    "primitive": {
+                                                        "int": 45
+                                                    }
+                                                },
+                                                "startFilePos": {
+                                                    "primitive": {
+                                                        "int": 145
+                                                    }
+                                                },
+                                                "endLine": {
+                                                    "primitive": {
+                                                        "int": 7
+                                                    }
+                                                },
+                                                "endTokenPos": {
+                                                    "primitive": {
+                                                        "int": 45
+                                                    }
+                                                },
+                                                "endFilePos": {
+                                                    "primitive": {
+                                                        "int": 157
+                                                    }
+                                                },
+                                                "kind": {
+                                                    "primitive": {
+                                                        "int": 2
+                                                    }
+                                                },
+                                                "rawValue": {
+                                                    "primitive": {
+                                                        "string": "\"Hello World\""
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Echo"
+                                        }
+                                    },
+                                    "expr": {
+                                        "operand": {
+                                            "literal": {
+                                                "value": {
+                                                    "string": "Hello World"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "doSomething",
+            "class": "NS\\NameOfClass",
+            "returnType": "mixed"
+        },
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "method1",
+            "class": "NS\\NameOfClass",
+            "returnType": "mixed"
+        },
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "method2",
+            "class": "NS\\NameOfClass",
+            "returnType": "mixed"
+        },
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "method3",
+            "class": "NS\\NameOfClass",
+            "returnType": "mixed"
+        },
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "method4",
+            "class": "NS\\NameOfClass",
+            "returnType": "mixed"
+        },
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "method5",
+            "class": "NS\\NameOfClass",
+            "returnType": "mixed"
+        },
+        {
+            "blocks": [
+                {
+                    "ops": [
+                        {
+                            "label": {
+                                "value": {
+                                    "kind": {
+                                        "primitive": {
+                                            "string": "Terminal_Return"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "id": 1
+                }
+            ],
+            "name": "method6",
+            "class": "NS\\NameOfClass",
+            "returnType": "mixed"
+        }
+    ]
+}
