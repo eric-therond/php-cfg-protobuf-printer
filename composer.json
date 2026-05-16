@@ -1,0 +1,34 @@
+{
+    "name": "eric-therond/php-cfg-protobuf-printer",
+    "description": "A Protobuf printer for PHP-CFG",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Therond",
+            "email": "eric.therond.fr@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/eric-therond/php-cfg.git"
+        }
+    ],
+    "require": {
+        "php": ">=8.3",
+        "ircmaxell/php-cfg": "dev-remove_protobuf",
+        "google/protobuf": "^5.34.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=10.0",
+        "friendsofphp/php-cs-fixer": ">=3.95.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ProtobufPrinter\\": "lib/ProtobufPrinter/"
+        }
+    },
+    "bin": [
+        "bin/printer"
+    ]
+}
