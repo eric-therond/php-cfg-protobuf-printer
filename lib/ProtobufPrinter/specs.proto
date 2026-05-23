@@ -1,3 +1,4 @@
+
 syntax = "proto3";
 
 package protos;
@@ -84,9 +85,10 @@ message Script {
             Operand.OneOperand operand = 3;
           }
         }
-
-        MapLabel label = 1;
-        map<string, uint32> childBlocks = 2;
+        
+        string kind = 1;
+        MapLabel label = 2;
+        map<string, uint32> childBlocks = 3;
       }
     }
   }
