@@ -15,6 +15,7 @@ var_dump($c);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -94,6 +95,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -173,6 +175,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_Closure",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -261,6 +264,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -338,6 +342,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -423,6 +428,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -508,6 +514,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -530,6 +537,7 @@ var_dump($c);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Param",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -610,6 +618,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_Mul",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -691,6 +700,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_Plus",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -768,6 +778,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -845,6 +856,7 @@ var_dump($c);
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

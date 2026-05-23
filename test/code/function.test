@@ -10,6 +10,7 @@ function foo($a) {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Function",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -70,6 +71,7 @@ function foo($a) {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -92,6 +94,7 @@ function foo($a) {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Param",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -172,6 +175,7 @@ function foo($a) {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "attribute": {

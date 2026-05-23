@@ -9,6 +9,7 @@ $a = $b ? $c : $d;
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -81,6 +82,7 @@ $a = $b ? $c : $d;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -158,6 +160,7 @@ $a = $b ? $c : $d;
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -221,6 +224,7 @@ $a = $b ? $c : $d;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -298,6 +302,7 @@ $a = $b ? $c : $d;
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -361,6 +366,7 @@ $a = $b ? $c : $d;
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -399,6 +405,7 @@ $a = $b ? $c : $d;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -476,6 +483,7 @@ $a = $b ? $c : $d;
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

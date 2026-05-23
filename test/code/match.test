@@ -12,6 +12,7 @@ echo match(10) {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_MatchTable",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -116,6 +117,7 @@ echo match(10) {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -150,6 +152,7 @@ echo match(10) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -213,6 +216,7 @@ echo match(10) {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -247,6 +251,7 @@ echo match(10) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -310,6 +315,7 @@ echo match(10) {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Concat",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -387,6 +393,7 @@ echo match(10) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -450,6 +457,7 @@ echo match(10) {
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -495,6 +503,7 @@ echo match(10) {
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -554,6 +563,7 @@ echo match(10) {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

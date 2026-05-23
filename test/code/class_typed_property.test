@@ -12,6 +12,7 @@ $obj = new NameOfClass();
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -78,6 +79,7 @@ $obj = new NameOfClass();
                             }
                         },
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -149,6 +151,7 @@ $obj = new NameOfClass();
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -226,6 +229,7 @@ $obj = new NameOfClass();
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -242,6 +246,7 @@ $obj = new NameOfClass();
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {

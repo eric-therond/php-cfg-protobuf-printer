@@ -19,6 +19,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Equal",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -100,6 +101,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -127,6 +129,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -198,6 +201,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -222,6 +226,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Equal",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -303,6 +308,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -333,6 +339,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -404,6 +411,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -468,6 +476,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Equal",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -549,6 +558,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -579,6 +589,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -650,6 +661,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -670,6 +682,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Equal",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -751,6 +764,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -781,6 +795,7 @@ echo "D";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -852,6 +867,7 @@ echo "D";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {

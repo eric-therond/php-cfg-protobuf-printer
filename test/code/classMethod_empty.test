@@ -10,6 +10,7 @@ class NameOfClass {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -76,6 +77,7 @@ class NameOfClass {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -92,6 +94,7 @@ class NameOfClass {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -168,6 +171,7 @@ class NameOfClass {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

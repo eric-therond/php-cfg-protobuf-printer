@@ -39,6 +39,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Trait",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -102,6 +103,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Stmt_Trait",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -165,6 +167,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -231,6 +234,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -297,6 +301,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -313,6 +318,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -378,6 +384,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -448,6 +455,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -513,6 +521,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -583,6 +592,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_TraitUse",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -760,6 +770,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_TraitUse",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -987,6 +998,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1058,6 +1070,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -1081,6 +1094,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1152,6 +1166,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -1175,6 +1190,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1246,6 +1262,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -1269,6 +1286,7 @@ class Aliased_Talker {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1340,6 +1358,7 @@ class Aliased_Talker {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

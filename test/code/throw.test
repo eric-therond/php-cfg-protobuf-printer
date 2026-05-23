@@ -10,6 +10,7 @@ throw new \InvalidArgumentException("foo");
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -41,6 +42,7 @@ throw new \InvalidArgumentException("foo");
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -81,6 +83,7 @@ throw new \InvalidArgumentException("foo");
                             }
                         },
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -164,6 +167,7 @@ throw new \InvalidArgumentException("foo");
                             }
                         },
                         {
+                            "kind": "Terminal_Throw",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -231,6 +235,7 @@ throw new \InvalidArgumentException("foo");
                 {
                     "ops": [
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -314,6 +319,7 @@ throw new \InvalidArgumentException("foo");
                             }
                         },
                         {
+                            "kind": "Terminal_Throw",
                             "label": {
                                 "value": {
                                     "attribute": {

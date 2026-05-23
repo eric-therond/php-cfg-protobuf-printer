@@ -9,6 +9,7 @@ x: goto x;
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -69,6 +70,7 @@ x: goto x;
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {

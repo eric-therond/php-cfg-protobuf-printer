@@ -15,6 +15,7 @@ echo $a;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -94,6 +95,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Expr_Array",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -212,6 +214,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Iterator_Reset",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -271,6 +274,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -331,6 +335,7 @@ echo $a;
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -381,6 +386,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Iterator_Valid",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -447,6 +453,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -520,6 +527,7 @@ echo $a;
                 {
                     "ops": [
                         {
+                            "kind": "Iterator_Value",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -586,6 +594,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -663,6 +672,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_Greater",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -742,6 +752,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -813,6 +824,7 @@ echo $a;
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -876,6 +888,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -895,6 +908,7 @@ echo $a;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Plus",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -976,6 +990,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1053,6 +1068,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {

@@ -16,6 +16,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Function",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -206,6 +207,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                             }
                         },
                         {
+                            "kind": "Stmt_Function",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -486,6 +488,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                             }
                         },
                         {
+                            "kind": "Stmt_Function",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -546,6 +549,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -568,6 +572,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -590,6 +595,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -612,6 +618,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Param",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -813,6 +820,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

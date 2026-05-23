@@ -96,6 +96,7 @@ class Protobuf extends Printer
             $pbops = [];
             foreach ($ops as $op) {
                 $pbop = new PBOp();
+                $pbop->setKind($op['kind']);
                 $pbop->setLabel($op['label']);
 
                 $childpbblocks = [];

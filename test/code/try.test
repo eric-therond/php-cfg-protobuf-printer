@@ -15,6 +15,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Try",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -116,6 +117,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -187,6 +189,7 @@ try {
                             }
                         },
                         {
+                            "kind": "Terminal_Throw",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -276,6 +279,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -361,6 +365,7 @@ try {
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -442,6 +447,7 @@ try {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -464,6 +470,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -535,6 +542,7 @@ try {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -557,6 +565,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

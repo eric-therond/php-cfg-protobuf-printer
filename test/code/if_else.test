@@ -14,6 +14,7 @@ echo "c";
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -86,6 +87,7 @@ echo "c";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -157,6 +159,7 @@ echo "c";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -220,6 +223,7 @@ echo "c";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -291,6 +295,7 @@ echo "c";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -354,6 +359,7 @@ echo "c";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -425,6 +431,7 @@ echo "c";
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

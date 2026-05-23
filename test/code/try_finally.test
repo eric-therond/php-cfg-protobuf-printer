@@ -15,6 +15,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Try",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -105,6 +106,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -188,6 +190,7 @@ try {
                             }
                         },
                         {
+                            "kind": "Terminal_Throw",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -273,6 +276,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -347,6 +351,7 @@ try {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "attribute": {

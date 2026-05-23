@@ -11,6 +11,7 @@ if (isset($a, $b, $c)) {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Isset",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -109,6 +110,7 @@ if (isset($a, $b, $c)) {
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -177,6 +179,7 @@ if (isset($a, $b, $c)) {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -248,6 +251,7 @@ if (isset($a, $b, $c)) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -311,6 +315,7 @@ if (isset($a, $b, $c)) {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

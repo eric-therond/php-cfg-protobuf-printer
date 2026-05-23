@@ -23,6 +23,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Try",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -113,6 +114,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -184,6 +186,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -273,6 +276,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -334,6 +338,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -413,6 +418,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -484,6 +490,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -512,6 +519,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -595,6 +603,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Terminal_Throw",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -680,6 +689,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -751,6 +761,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -840,6 +851,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -911,6 +923,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -930,6 +943,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1001,6 +1015,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1082,6 +1097,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1153,6 +1169,7 @@ echo "next";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1234,6 +1251,7 @@ echo "next";
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {

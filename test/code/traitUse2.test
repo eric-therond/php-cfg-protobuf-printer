@@ -20,6 +20,7 @@ class MyClass2 {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Trait",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -83,6 +84,7 @@ class MyClass2 {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -149,6 +151,7 @@ class MyClass2 {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -215,6 +218,7 @@ class MyClass2 {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -231,6 +235,7 @@ class MyClass2 {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -301,6 +306,7 @@ class MyClass2 {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_TraitUse",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -405,6 +411,7 @@ class MyClass2 {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_TraitUse",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -524,6 +531,7 @@ class MyClass2 {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -595,6 +603,7 @@ class MyClass2 {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

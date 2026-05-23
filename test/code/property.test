@@ -23,6 +23,7 @@ class A {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -89,6 +90,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -105,6 +107,7 @@ class A {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -191,6 +194,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -275,6 +279,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -349,6 +354,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -423,6 +429,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -497,6 +504,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -571,6 +579,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -645,6 +654,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -939,6 +949,7 @@ class A {
                             }
                         },
                         {
+                            "kind": "Terminal_Const",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1020,6 +1031,7 @@ class A {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Plus",
                             "label": {
                                 "value": {
                                     "attribute": {

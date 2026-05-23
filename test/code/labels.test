@@ -18,6 +18,7 @@ echo "C";
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Function",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -78,6 +79,7 @@ echo "C";
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -149,6 +151,7 @@ echo "C";
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -209,6 +212,7 @@ echo "C";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -280,6 +284,7 @@ echo "C";
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -305,6 +310,7 @@ echo "C";
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -365,6 +371,7 @@ echo "C";
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -436,6 +443,7 @@ echo "C";
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

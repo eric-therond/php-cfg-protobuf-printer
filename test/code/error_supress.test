@@ -12,6 +12,7 @@ echo $dbname;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -91,6 +92,7 @@ echo $dbname;
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -151,6 +153,7 @@ echo $dbname;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Print",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -219,6 +222,7 @@ echo $dbname;
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -282,6 +286,7 @@ echo $dbname;
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
