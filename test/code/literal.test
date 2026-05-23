@@ -12,6 +12,7 @@ $d = "aaaa'')";
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -91,6 +92,7 @@ $d = "aaaa'')";
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -170,6 +172,7 @@ $d = "aaaa'')";
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -249,6 +252,7 @@ $d = "aaaa'')";
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -328,6 +332,7 @@ $d = "aaaa'')";
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

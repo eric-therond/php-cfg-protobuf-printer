@@ -10,6 +10,7 @@ $a("some string");
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -89,6 +90,7 @@ $a("some string");
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -174,6 +176,7 @@ $a("some string");
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

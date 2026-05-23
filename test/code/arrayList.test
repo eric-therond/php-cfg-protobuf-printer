@@ -9,6 +9,7 @@
                 {
                     "ops": [
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -93,6 +94,7 @@
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -175,6 +177,7 @@
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -259,6 +262,7 @@
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -341,6 +345,7 @@
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -425,6 +430,7 @@
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -505,6 +511,7 @@
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -587,6 +594,7 @@
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

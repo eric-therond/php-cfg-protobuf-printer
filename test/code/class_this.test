@@ -13,6 +13,7 @@ class NameOfClass {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -79,6 +80,7 @@ class NameOfClass {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -95,6 +97,7 @@ class NameOfClass {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -171,6 +174,7 @@ class NameOfClass {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_MethodCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -251,6 +255,7 @@ class NameOfClass {
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -310,6 +315,7 @@ class NameOfClass {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

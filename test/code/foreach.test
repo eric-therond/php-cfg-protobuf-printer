@@ -11,6 +11,7 @@ foreach ($a as $b) {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Array",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -81,6 +82,7 @@ foreach ($a as $b) {
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -158,6 +160,7 @@ foreach ($a as $b) {
                             }
                         },
                         {
+                            "kind": "Iterator_Reset",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -221,6 +224,7 @@ foreach ($a as $b) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -281,6 +285,7 @@ foreach ($a as $b) {
                 {
                     "ops": [
                         {
+                            "kind": "Iterator_Valid",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -351,6 +356,7 @@ foreach ($a as $b) {
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -423,6 +429,7 @@ foreach ($a as $b) {
                 {
                     "ops": [
                         {
+                            "kind": "Iterator_Value",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -493,6 +500,7 @@ foreach ($a as $b) {
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -570,6 +578,7 @@ foreach ($a as $b) {
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -633,6 +642,7 @@ foreach ($a as $b) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -666,6 +676,7 @@ foreach ($a as $b) {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

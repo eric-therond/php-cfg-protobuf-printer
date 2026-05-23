@@ -9,6 +9,7 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -81,6 +82,7 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -158,6 +160,7 @@ $a = $b ?: ($b ?: $c);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -221,6 +224,7 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -296,6 +300,7 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -334,6 +339,7 @@ $a = $b ?: ($b ?: $c);
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -411,6 +417,7 @@ $a = $b ?: ($b ?: $c);
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -431,6 +438,7 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -508,6 +516,7 @@ $a = $b ?: ($b ?: $c);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -571,6 +580,7 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -648,6 +658,7 @@ $a = $b ?: ($b ?: $c);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -711,6 +722,7 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -749,6 +761,7 @@ $a = $b ?: ($b ?: $c);
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -822,6 +835,7 @@ $a = $b ?: ($b ?: $c);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {

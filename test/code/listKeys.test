@@ -10,6 +10,7 @@ list('a' => $a, $key => $b) = $array;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -89,6 +90,7 @@ list('a' => $a, $key => $b) = $array;
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -173,6 +175,7 @@ list('a' => $a, $key => $b) = $array;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -255,6 +258,7 @@ list('a' => $a, $key => $b) = $array;
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -341,6 +345,7 @@ list('a' => $a, $key => $b) = $array;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -423,6 +428,7 @@ list('a' => $a, $key => $b) = $array;
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

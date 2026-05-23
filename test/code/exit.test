@@ -10,6 +10,7 @@ echo $a;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -89,6 +90,7 @@ echo $a;
                             }
                         },
                         {
+                            "kind": "Terminal_Exit",
                             "label": {
                                 "value": {
                                     "attribute": {

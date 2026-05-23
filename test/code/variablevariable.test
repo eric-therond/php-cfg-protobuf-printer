@@ -17,6 +17,7 @@ echo $foo->{$arr}[1];
                 {
                     "ops": [
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -87,6 +88,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -162,6 +164,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_Concat",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -241,6 +244,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_Concat",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -318,6 +322,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -384,6 +389,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -459,6 +465,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -529,6 +536,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -604,6 +612,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -674,6 +683,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -740,6 +750,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -806,6 +817,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -872,6 +884,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -938,6 +951,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_VarVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1004,6 +1018,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1079,6 +1094,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1158,6 +1174,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_PropertyFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1235,6 +1252,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1294,6 +1312,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_Concat",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1375,6 +1394,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_PropertyFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1452,6 +1472,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1511,6 +1532,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1590,6 +1612,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_PropertyFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1667,6 +1690,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1726,6 +1750,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_PropertyFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1807,6 +1832,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1882,6 +1908,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1941,6 +1968,7 @@ echo $foo->{$arr}[1];
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

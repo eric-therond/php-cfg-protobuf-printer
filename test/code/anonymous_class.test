@@ -14,6 +14,7 @@ $instance = new #[Attr('foo')] class {};
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -80,6 +81,7 @@ $instance = new #[Attr('foo')] class {};
                             }
                         },
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -151,6 +153,7 @@ $instance = new #[Attr('foo')] class {};
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -228,6 +231,7 @@ $instance = new #[Attr('foo')] class {};
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -415,6 +419,7 @@ $instance = new #[Attr('foo')] class {};
                             }
                         },
                         {
+                            "kind": "Expr_New",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -486,6 +491,7 @@ $instance = new #[Attr('foo')] class {};
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -563,6 +569,7 @@ $instance = new #[Attr('foo')] class {};
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -579,6 +586,7 @@ $instance = new #[Attr('foo')] class {};
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -658,6 +666,7 @@ $instance = new #[Attr('foo')] class {};
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -729,6 +738,7 @@ $instance = new #[Attr('foo')] class {};
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

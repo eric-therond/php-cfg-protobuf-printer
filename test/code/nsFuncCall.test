@@ -10,6 +10,7 @@ call();
                 {
                     "ops": [
                         {
+                            "kind": "Expr_NsFuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -90,6 +91,7 @@ call();
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

@@ -11,6 +11,7 @@ $c = ~3;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_UnaryPlus",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -79,6 +80,7 @@ $c = ~3;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -156,6 +158,7 @@ $c = ~3;
                             }
                         },
                         {
+                            "kind": "Expr_UnaryMinus",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -224,6 +227,7 @@ $c = ~3;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -301,6 +305,7 @@ $c = ~3;
                             }
                         },
                         {
+                            "kind": "Expr_BitwiseNot",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -369,6 +374,7 @@ $c = ~3;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -446,6 +452,7 @@ $c = ~3;
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

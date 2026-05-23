@@ -11,6 +11,7 @@ require_once($foo);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Include",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -86,6 +87,7 @@ require_once($foo);
                             }
                         },
                         {
+                            "kind": "Expr_Include",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -161,6 +163,7 @@ require_once($foo);
                             }
                         },
                         {
+                            "kind": "Expr_Include",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -236,6 +239,7 @@ require_once($foo);
                             }
                         },
                         {
+                            "kind": "Expr_Include",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -311,6 +315,7 @@ require_once($foo);
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

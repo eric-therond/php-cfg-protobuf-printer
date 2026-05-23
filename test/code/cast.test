@@ -9,6 +9,7 @@ $a = (string) 12;
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Cast_String",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -82,6 +83,7 @@ $a = (string) 12;
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -159,6 +161,7 @@ $a = (string) 12;
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

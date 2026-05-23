@@ -36,6 +36,7 @@ class NameOfClass6 {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -208,6 +209,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -404,6 +406,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -679,6 +682,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -907,6 +911,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Expr_ClassConstFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -984,6 +989,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Expr_ClassConstFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1061,6 +1067,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_BitwiseOr",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1134,6 +1141,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1319,6 +1327,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Stmt_Class",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1605,6 +1614,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -1621,6 +1631,7 @@ class NameOfClass6 {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1842,6 +1853,7 @@ class NameOfClass6 {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Param",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -2043,6 +2055,7 @@ class NameOfClass6 {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

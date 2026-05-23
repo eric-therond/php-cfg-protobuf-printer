@@ -9,6 +9,7 @@ $x = a() && b();
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -80,6 +81,7 @@ $x = a() && b();
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -107,6 +109,7 @@ $x = a() && b();
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -178,6 +181,7 @@ $x = a() && b();
                             }
                         },
                         {
+                            "kind": "Expr_Cast_Bool",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -203,6 +207,7 @@ $x = a() && b();
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -225,6 +230,7 @@ $x = a() && b();
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -265,6 +271,7 @@ $x = a() && b();
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -342,6 +349,7 @@ $x = a() && b();
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

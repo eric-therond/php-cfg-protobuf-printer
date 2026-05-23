@@ -9,6 +9,7 @@ $x ??= a();
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -80,6 +81,7 @@ $x ??= a();
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_Coalesce",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -157,6 +159,7 @@ $x ??= a();
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -234,6 +237,7 @@ $x ??= a();
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

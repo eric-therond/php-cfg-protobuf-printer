@@ -12,6 +12,7 @@ var_dump($a);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -97,6 +98,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -124,6 +126,7 @@ var_dump($a);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assertion",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -166,6 +169,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -188,6 +192,7 @@ var_dump($a);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assertion",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -236,6 +241,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -321,6 +327,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Expr_Cast_Bool",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -346,6 +353,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -368,6 +376,7 @@ var_dump($a);
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -408,6 +417,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -458,6 +468,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -530,6 +541,7 @@ var_dump($a);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assertion",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -593,6 +605,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -656,6 +669,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -719,6 +733,7 @@ var_dump($a);
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assertion",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -788,6 +803,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -851,6 +867,7 @@ var_dump($a);
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -901,6 +918,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -986,6 +1004,7 @@ var_dump($a);
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

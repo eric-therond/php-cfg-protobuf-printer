@@ -9,6 +9,7 @@
                 {
                     "ops": [
                         {
+                            "kind": "Expr_ConcatList",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -94,6 +95,7 @@
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -175,6 +177,7 @@
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

@@ -11,6 +11,7 @@ interface Test {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Interface",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -77,6 +78,7 @@ interface Test {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -93,6 +95,7 @@ interface Test {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_ClassMethod",
                             "label": {
                                 "value": {
                                     "attribute": {

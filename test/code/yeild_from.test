@@ -18,6 +18,7 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Function",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -78,6 +79,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Stmt_Function",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -138,6 +140,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -160,6 +163,7 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -239,6 +243,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -299,6 +304,7 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
+                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -349,6 +355,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Expr_BinaryOp_SmallerOrEqual",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -428,6 +435,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -500,6 +508,7 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Yield",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -570,6 +579,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -603,6 +613,7 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -622,6 +633,7 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_BinaryOp_Plus",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -701,6 +713,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -778,6 +791,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -847,6 +861,7 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Yield",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -915,6 +930,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -986,6 +1002,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Expr_YieldFrom",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1052,6 +1069,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Expr_Yield",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1120,6 +1138,7 @@ function gen_zero_four() {
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

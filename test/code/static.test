@@ -9,6 +9,7 @@ echo $flag;
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_StaticVar",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -85,6 +86,7 @@ echo $flag;
                             }
                         },
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -149,6 +151,7 @@ echo $flag;
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

@@ -10,6 +10,7 @@ var_dump(empty($a['b']));
                 {
                     "ops": [
                         {
+                            "kind": "Expr_Empty",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -80,6 +81,7 @@ var_dump(empty($a['b']));
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -161,6 +163,7 @@ var_dump(empty($a['b']));
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -240,6 +243,7 @@ var_dump(empty($a['b']));
                             }
                         },
                         {
+                            "kind": "Expr_Empty",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -306,6 +310,7 @@ var_dump(empty($a['b']));
                             }
                         },
                         {
+                            "kind": "Expr_FuncCall",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -387,6 +392,7 @@ var_dump(empty($a['b']));
                             }
                         },
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

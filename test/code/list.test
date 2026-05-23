@@ -10,6 +10,7 @@ foreach ($a as list($b, $c));
                 {
                     "ops": [
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -94,6 +95,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -176,6 +178,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -260,6 +263,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -342,6 +346,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -426,6 +431,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -506,6 +512,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -588,6 +595,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -668,6 +676,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -750,6 +759,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Iterator_Reset",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -813,6 +823,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -873,6 +884,7 @@ foreach ($a as list($b, $c));
                 {
                     "ops": [
                         {
+                            "kind": "Iterator_Valid",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -943,6 +955,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Stmt_JumpIf",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1015,6 +1028,7 @@ foreach ($a as list($b, $c));
                 {
                     "ops": [
                         {
+                            "kind": "Iterator_Value",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1085,6 +1099,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1165,6 +1180,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1247,6 +1263,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_ArrayDimFetch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1327,6 +1344,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Expr_Assign",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1409,6 +1427,7 @@ foreach ($a as list($b, $c));
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -1442,6 +1461,7 @@ foreach ($a as list($b, $c));
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {

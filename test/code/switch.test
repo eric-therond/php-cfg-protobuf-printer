@@ -19,6 +19,7 @@ switch ($i) {
                 {
                     "ops": [
                         {
+                            "kind": "Stmt_Switch",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -136,6 +137,7 @@ switch ($i) {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -207,6 +209,7 @@ switch ($i) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -270,6 +273,7 @@ switch ($i) {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -341,6 +345,7 @@ switch ($i) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -404,6 +409,7 @@ switch ($i) {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Echo",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -475,6 +481,7 @@ switch ($i) {
                             }
                         },
                         {
+                            "kind": "Stmt_Jump",
                             "label": {
                                 "value": {
                                     "kind": {
@@ -497,6 +504,7 @@ switch ($i) {
                 {
                     "ops": [
                         {
+                            "kind": "Terminal_Return",
                             "label": {
                                 "value": {
                                     "kind": {
