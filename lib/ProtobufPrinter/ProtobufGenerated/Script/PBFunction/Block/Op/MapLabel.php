@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.Op.MapLabel</code>
@@ -47,7 +47,7 @@ class MapLabel extends \Google\Protobuf\Internal\Message
      * @param array|\Google\Protobuf\Internal\MapField $var
      * @return $this
      */
-    public function setValue($var)
+    public function setValue(array|\Google\Protobuf\Internal\MapField $var)
     {
         $arr = GPBUtil::checkMapField($var, \Google\Protobuf\Internal\GPBType::STRING, \Google\Protobuf\Internal\GPBType::MESSAGE, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\OneLabelType::class);
         $this->value = $arr;

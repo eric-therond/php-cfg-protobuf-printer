@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.CatchTarget</code>
@@ -57,9 +57,9 @@ class CatchTarget extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setType($var)
+    public function setType(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->type = $var;
 
         return $this;
@@ -89,9 +89,8 @@ class CatchTarget extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand $var
      * @return $this
      */
-    public function setVar($var)
+    public function setVar(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand::class);
         $this->var = $var;
 
         return $this;
@@ -111,7 +110,7 @@ class CatchTarget extends \Google\Protobuf\Internal\Message
      * @param int $var
      * @return $this
      */
-    public function setBlockId($var)
+    public function setBlockId(int $var)
     {
         GPBUtil::checkUint32($var);
         $this->blockId = $var;

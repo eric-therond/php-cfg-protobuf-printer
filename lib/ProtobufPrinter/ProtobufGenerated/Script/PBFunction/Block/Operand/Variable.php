@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.Operand.Variable</code>
@@ -62,9 +62,9 @@ class Variable extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setType($var)
+    public function setType(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->type = $var;
 
         return $this;
@@ -84,9 +84,9 @@ class Variable extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setName($var)
+    public function setName(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->name = $var;
 
         return $this;
@@ -116,9 +116,9 @@ class Variable extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setScope($var)
+    public function setScope(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->scope = $var;
 
         return $this;
@@ -148,9 +148,8 @@ class Variable extends \Google\Protobuf\Internal\Message
      * @param bool $var
      * @return $this
      */
-    public function setReference($var)
+    public function setReference(bool $var)
     {
-        GPBUtil::checkBool($var);
         $this->reference = $var;
 
         return $this;

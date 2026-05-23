@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.Op</code>
@@ -62,9 +62,8 @@ class Op extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel $var
      * @return $this
      */
-    public function setLabel($var)
+    public function setLabel(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel::class);
         $this->label = $var;
 
         return $this;
@@ -84,7 +83,7 @@ class Op extends \Google\Protobuf\Internal\Message
      * @param array|\Google\Protobuf\Internal\MapField $var
      * @return $this
      */
-    public function setChildBlocks($var)
+    public function setChildBlocks(array|\Google\Protobuf\Internal\MapField $var)
     {
         $arr = GPBUtil::checkMapField($var, \Google\Protobuf\Internal\GPBType::STRING, \Google\Protobuf\Internal\GPBType::UINT32);
         $this->childBlocks = $arr;

@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.Operand.Temporary</code>
@@ -57,9 +57,9 @@ class Temporary extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setType($var)
+    public function setType(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->type = $var;
 
         return $this;
@@ -79,7 +79,7 @@ class Temporary extends \Google\Protobuf\Internal\Message
      * @param int $var
      * @return $this
      */
-    public function setId($var)
+    public function setId(int $var)
     {
         GPBUtil::checkUint32($var);
         $this->id = $var;
@@ -111,9 +111,8 @@ class Temporary extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Variable $var
      * @return $this
      */
-    public function setOriginal($var)
+    public function setOriginal(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Variable|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Variable::class);
         $this->original = $var;
 
         return $this;

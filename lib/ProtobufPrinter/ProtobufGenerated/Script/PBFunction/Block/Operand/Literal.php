@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.Operand.Literal</code>
@@ -52,9 +52,9 @@ class Literal extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setType($var)
+    public function setType(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->type = $var;
 
         return $this;
@@ -84,9 +84,8 @@ class Literal extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\PrimitiveType $var
      * @return $this
      */
-    public function setValue($var)
+    public function setValue(\ProtobufPrinter\ProtobufGenerated\PrimitiveType|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\PrimitiveType::class);
         $this->value = $var;
 
         return $this;

@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.Operand.OneOperand</code>
@@ -52,9 +52,8 @@ class OneOperand extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\PBNull $var
      * @return $this
      */
-    public function setNull($var)
+    public function setNull(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\PBNull|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\PBNull::class);
         $this->writeOneof(1, $var);
 
         return $this;
@@ -79,9 +78,8 @@ class OneOperand extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Literal $var
      * @return $this
      */
-    public function setLiteral($var)
+    public function setLiteral(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Literal|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Literal::class);
         $this->writeOneof(2, $var);
 
         return $this;
@@ -106,9 +104,8 @@ class OneOperand extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Temporary $var
      * @return $this
      */
-    public function setTemporary($var)
+    public function setTemporary(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Temporary|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Temporary::class);
         $this->writeOneof(3, $var);
 
         return $this;
@@ -133,9 +130,8 @@ class OneOperand extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Variable $var
      * @return $this
      */
-    public function setVariable($var)
+    public function setVariable(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Variable|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\Variable::class);
         $this->writeOneof(4, $var);
 
         return $this;

@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.PrimitiveType</code>
@@ -52,9 +52,9 @@ class PrimitiveType extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setString($var)
+    public function setString(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->writeOneof(1, $var);
 
         return $this;
@@ -79,9 +79,8 @@ class PrimitiveType extends \Google\Protobuf\Internal\Message
      * @param float $var
      * @return $this
      */
-    public function setFloat($var)
+    public function setFloat(float $var)
     {
-        GPBUtil::checkFloat($var);
         $this->writeOneof(2, $var);
 
         return $this;
@@ -106,7 +105,7 @@ class PrimitiveType extends \Google\Protobuf\Internal\Message
      * @param int $var
      * @return $this
      */
-    public function setInt($var)
+    public function setInt(int $var)
     {
         GPBUtil::checkUint32($var);
         $this->writeOneof(3, $var);
@@ -133,9 +132,8 @@ class PrimitiveType extends \Google\Protobuf\Internal\Message
      * @param bool $var
      * @return $this
      */
-    public function setBool($var)
+    public function setBool(bool $var)
     {
-        GPBUtil::checkBool($var);
         $this->writeOneof(4, $var);
 
         return $this;

@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.FinallyTarget</code>
@@ -47,7 +47,7 @@ class FinallyTarget extends \Google\Protobuf\Internal\Message
      * @param int $var
      * @return $this
      */
-    public function setBlockId($var)
+    public function setBlockId(int $var)
     {
         GPBUtil::checkUint32($var);
         $this->blockId = $var;
