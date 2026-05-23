@@ -23,7 +23,7 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
      *     Optional. Data for populating the Message object.
      *
      *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel $map
-     *     @type \ProtobufPrinter\ProtobufGenerated\PrimitiveType $primitive
+     *     @type \ProtobufPrinter\ProtobufGenerated\Scalar $scalar
      *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand $operand
      * }
      */
@@ -59,25 +59,25 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.PrimitiveType primitive = 2;</code>
-     * @return \ProtobufPrinter\ProtobufGenerated\PrimitiveType|null
+     * Generated from protobuf field <code>.protos.Scalar scalar = 2;</code>
+     * @return \ProtobufPrinter\ProtobufGenerated\Scalar|null
      */
-    public function getPrimitive()
+    public function getScalar()
     {
         return $this->readOneof(2);
     }
 
-    public function hasPrimitive()
+    public function hasScalar()
     {
         return $this->hasOneof(2);
     }
 
     /**
-     * Generated from protobuf field <code>.protos.PrimitiveType primitive = 2;</code>
-     * @param \ProtobufPrinter\ProtobufGenerated\PrimitiveType $var
+     * Generated from protobuf field <code>.protos.Scalar scalar = 2;</code>
+     * @param \ProtobufPrinter\ProtobufGenerated\Scalar $var
      * @return $this
      */
-    public function setPrimitive(\ProtobufPrinter\ProtobufGenerated\PrimitiveType|null $var)
+    public function setScalar(\ProtobufPrinter\ProtobufGenerated\Scalar|null $var)
     {
         $this->writeOneof(2, $var);
 

@@ -22,47 +22,47 @@ echo "a";
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 3
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 4
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 12
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 3
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 4
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 14
                                                     }
                                                 },
                                                 "kind": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 2
                                                     }
                                                 },
                                                 "rawValue": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "\"a\""
                                                     }
                                                 }
@@ -70,7 +70,7 @@ echo "a";
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Terminal_Echo"
                                         }
                                     },
@@ -93,37 +93,37 @@ echo "a";
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 5
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 9
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 5
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 13
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 31
                                                     }
                                                 }
@@ -131,7 +131,7 @@ echo "a";
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_Assign"
                                         }
                                     },
@@ -169,7 +169,7 @@ echo "a";
                             "label": {
                                 "value": {
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Terminal_Return"
                                         }
                                     }

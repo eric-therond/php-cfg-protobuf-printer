@@ -20,37 +20,37 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 2
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 7
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 17
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 6
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 26
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 80
                                                     }
                                                 }
@@ -61,12 +61,12 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {}
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "{anonymousClass}#1"
                                         }
                                     },
@@ -86,37 +86,37 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 2
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 5
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 13
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 6
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 26
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 80
                                                     }
                                                 }
@@ -124,7 +124,7 @@ $instance = new #[Attr('foo')] class {};
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_New"
                                         }
                                     },
@@ -157,37 +157,37 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 2
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 1
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 6
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 6
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 26
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 80
                                                     }
                                                 }
@@ -195,7 +195,7 @@ $instance = new #[Attr('foo')] class {};
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_Assign"
                                         }
                                     },
@@ -234,37 +234,37 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 8
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 35
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 100
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 8
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 45
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 122
                                                     }
                                                 }
@@ -281,37 +281,37 @@ $instance = new #[Attr('foo')] class {};
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 8
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 35
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 100
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 8
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 40
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 113
                                                                             }
                                                                         }
@@ -325,37 +325,37 @@ $instance = new #[Attr('foo')] class {};
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 8
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 36
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 102
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 8
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 39
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 112
                                                                                         }
                                                                                     }
@@ -396,12 +396,12 @@ $instance = new #[Attr('foo')] class {};
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "{anonymousClass}#2"
                                         }
                                     },
@@ -421,37 +421,37 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 8
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 33
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 96
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 8
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 45
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 122
                                                     }
                                                 }
@@ -459,7 +459,7 @@ $instance = new #[Attr('foo')] class {};
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_New"
                                         }
                                     },
@@ -492,37 +492,37 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 8
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 29
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 84
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 8
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 45
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 122
                                                     }
                                                 }
@@ -530,7 +530,7 @@ $instance = new #[Attr('foo')] class {};
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_Assign"
                                         }
                                     },
@@ -566,7 +566,7 @@ $instance = new #[Attr('foo')] class {};
                             "label": {
                                 "value": {
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Terminal_Return"
                                         }
                                     }
@@ -585,37 +585,37 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 3
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 11
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 27
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 5
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 24
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 78
                                                     }
                                                 }
@@ -626,17 +626,17 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {}
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_ClassMethod"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "doSomething"
                                         }
                                     },
                                     "flags": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "public"
                                         }
                                     }
@@ -664,47 +664,47 @@ $instance = new #[Attr('foo')] class {};
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 4
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 21
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 61
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 4
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 21
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 73
                                                     }
                                                 },
                                                 "kind": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 2
                                                     }
                                                 },
                                                 "rawValue": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "\"Hello World\""
                                                     }
                                                 }
@@ -712,7 +712,7 @@ $instance = new #[Attr('foo')] class {};
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Terminal_Echo"
                                         }
                                     },
@@ -732,7 +732,7 @@ $instance = new #[Attr('foo')] class {};
                             "label": {
                                 "value": {
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Terminal_Return"
                                         }
                                     }

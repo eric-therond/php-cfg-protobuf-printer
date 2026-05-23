@@ -42,37 +42,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 3
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 2
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 7
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 8
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 42
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 160
                                                     }
                                                 }
@@ -89,37 +89,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 3
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 2
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 7
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 3
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 4
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 24
                                                                             }
                                                                         }
@@ -133,37 +133,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 3
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 3
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 9
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 3
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 3
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 23
                                                                                         }
                                                                                     }
@@ -189,12 +189,12 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "NameOfClass1"
                                         }
                                     },
@@ -214,37 +214,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 10
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 44
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 163
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 12
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 60
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 218
                                                     }
                                                 }
@@ -261,37 +261,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 10
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 44
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 163
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 10
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 52
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 195
                                                                             }
                                                                         }
@@ -305,37 +305,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 10
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 45
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 165
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 10
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 51
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 194
                                                                                         }
                                                                                     }
@@ -385,12 +385,12 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "NameOfClass2"
                                         }
                                     },
@@ -410,37 +410,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 14
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 62
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 221
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 17
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 76
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 261
                                                     }
                                                 }
@@ -457,37 +457,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 14
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 62
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 221
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 14
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 64
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 227
                                                                             }
                                                                         }
@@ -501,37 +501,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 14
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 63
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 223
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 14
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 63
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 226
                                                                                         }
                                                                                     }
@@ -560,37 +560,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 15
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 66
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 229
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 15
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 68
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 238
                                                                             }
                                                                         }
@@ -604,37 +604,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 15
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 67
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 231
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 15
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 67
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 237
                                                                                         }
                                                                                     }
@@ -660,12 +660,12 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "NameOfClass3"
                                         }
                                     },
@@ -685,37 +685,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 19
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 78
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 264
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 21
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 91
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 302
                                                     }
                                                 }
@@ -732,37 +732,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 19
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 78
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 264
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 19
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 83
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 279
                                                                             }
                                                                         }
@@ -776,37 +776,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 19
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 79
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 266
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 19
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 79
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 269
                                                                                         }
                                                                                     }
@@ -832,37 +832,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 19
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 82
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 272
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 19
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 82
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 278
                                                                                         }
                                                                                     }
@@ -888,12 +888,12 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "NameOfClass4"
                                         }
                                     },
@@ -913,37 +913,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 96
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 317
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 98
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 339
                                                     }
                                                 }
@@ -951,7 +951,7 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_ClassConstFetch"
                                         }
                                     },
@@ -990,37 +990,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 102
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 343
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 104
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 366
                                                     }
                                                 }
@@ -1028,7 +1028,7 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_ClassConstFetch"
                                         }
                                     },
@@ -1067,37 +1067,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 96
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 317
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 104
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 366
                                                     }
                                                 }
@@ -1105,7 +1105,7 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_BinaryOp_BitwiseOr"
                                         }
                                     },
@@ -1140,37 +1140,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 23
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 93
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 305
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 25
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 114
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 391
                                                     }
                                                 }
@@ -1187,37 +1187,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 23
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 93
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 305
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 23
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 106
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 368
                                                                             }
                                                                         }
@@ -1231,37 +1231,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 23
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 94
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 307
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 23
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 105
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 367
                                                                                         }
                                                                                     }
@@ -1300,12 +1300,12 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "NameOfClass5"
                                         }
                                     },
@@ -1325,37 +1325,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 27
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 116
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 394
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 30
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 133
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 450
                                                     }
                                                 }
@@ -1372,37 +1372,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 27
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 116
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 394
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 27
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 118
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 405
                                                                             }
                                                                         }
@@ -1416,37 +1416,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 27
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 117
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 396
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 27
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 117
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 404
                                                                                         }
                                                                                     }
@@ -1475,37 +1475,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 28
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 120
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 407
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 28
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 125
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 427
                                                                             }
                                                                         }
@@ -1519,37 +1519,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 28
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 121
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 409
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 28
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 124
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 426
                                                                                         }
                                                                                     }
@@ -1586,12 +1586,12 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_Class"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "NameOfClass6"
                                         }
                                     },
@@ -1608,7 +1608,7 @@ class NameOfClass6 {
                             "label": {
                                 "value": {
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Terminal_Return"
                                         }
                                     }
@@ -1627,37 +1627,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 5
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 12
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 51
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 7
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 40
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 158
                                                     }
                                                 }
@@ -1674,37 +1674,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 5
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 12
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 51
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 5
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 20
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 89
                                                                             }
                                                                         }
@@ -1718,37 +1718,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 5
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 13
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 53
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 5
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 19
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 88
                                                                                         }
                                                                                     }
@@ -1798,17 +1798,17 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Stmt_ClassMethod"
                                         }
                                     },
                                     "name": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "method1"
                                         }
                                     },
                                     "flags": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "private"
                                         }
                                     }
@@ -1848,37 +1848,37 @@ class NameOfClass6 {
                                         "map": {
                                             "value": {
                                                 "filename": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "string": "foo.php"
                                                     }
                                                 },
                                                 "startLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 6
                                                     }
                                                 },
                                                 "startTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 28
                                                     }
                                                 },
                                                 "startFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 120
                                                     }
                                                 },
                                                 "endLine": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 6
                                                     }
                                                 },
                                                 "endTokenPos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 35
                                                     }
                                                 },
                                                 "endFilePos": {
-                                                    "primitive": {
+                                                    "scalar": {
                                                         "int": 149
                                                     }
                                                 }
@@ -1895,37 +1895,37 @@ class NameOfClass6 {
                                                                 "map": {
                                                                     "value": {
                                                                         "filename": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "string": "foo.php"
                                                                             }
                                                                         },
                                                                         "startLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 6
                                                                             }
                                                                         },
                                                                         "startTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 28
                                                                             }
                                                                         },
                                                                         "startFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 120
                                                                             }
                                                                         },
                                                                         "endLine": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 6
                                                                             }
                                                                         },
                                                                         "endTokenPos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 33
                                                                             }
                                                                         },
                                                                         "endFilePos": {
-                                                                            "primitive": {
+                                                                            "scalar": {
                                                                                 "int": 144
                                                                             }
                                                                         }
@@ -1939,37 +1939,37 @@ class NameOfClass6 {
                                                                             "map": {
                                                                                 "value": {
                                                                                     "filename": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "string": "foo.php"
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 6
                                                                                         }
                                                                                     },
                                                                                     "startTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 29
                                                                                         }
                                                                                     },
                                                                                     "startFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 122
                                                                                         }
                                                                                     },
                                                                                     "endLine": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 6
                                                                                         }
                                                                                     },
                                                                                     "endTokenPos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 32
                                                                                         }
                                                                                     },
                                                                                     "endFilePos": {
-                                                                                        "primitive": {
+                                                                                        "scalar": {
                                                                                             "int": 143
                                                                                         }
                                                                                     }
@@ -2010,12 +2010,12 @@ class NameOfClass6 {
                                         }
                                     },
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Expr_Param"
                                         }
                                     },
                                     "declaredType": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "mixed"
                                         }
                                     },
@@ -2046,7 +2046,7 @@ class NameOfClass6 {
                             "label": {
                                 "value": {
                                     "kind": {
-                                        "primitive": {
+                                        "scalar": {
                                             "string": "Terminal_Return"
                                         }
                                     }

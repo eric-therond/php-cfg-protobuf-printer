@@ -19,7 +19,7 @@ class Literal extends \Google\Protobuf\Internal\Message
      */
     protected $type = '';
     /**
-     * Generated from protobuf field <code>.protos.PrimitiveType value = 2;</code>
+     * Generated from protobuf field <code>.protos.Scalar value = 2;</code>
      */
     protected $value = null;
 
@@ -30,7 +30,7 @@ class Literal extends \Google\Protobuf\Internal\Message
      *     Optional. Data for populating the Message object.
      *
      *     @type string $type
-     *     @type \ProtobufPrinter\ProtobufGenerated\PrimitiveType $value
+     *     @type \ProtobufPrinter\ProtobufGenerated\Scalar $value
      * }
      */
     public function __construct($data = NULL) {
@@ -61,8 +61,8 @@ class Literal extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.PrimitiveType value = 2;</code>
-     * @return \ProtobufPrinter\ProtobufGenerated\PrimitiveType|null
+     * Generated from protobuf field <code>.protos.Scalar value = 2;</code>
+     * @return \ProtobufPrinter\ProtobufGenerated\Scalar|null
      */
     public function getValue()
     {
@@ -80,11 +80,11 @@ class Literal extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.PrimitiveType value = 2;</code>
-     * @param \ProtobufPrinter\ProtobufGenerated\PrimitiveType $var
+     * Generated from protobuf field <code>.protos.Scalar value = 2;</code>
+     * @param \ProtobufPrinter\ProtobufGenerated\Scalar $var
      * @return $this
      */
-    public function setValue(\ProtobufPrinter\ProtobufGenerated\PrimitiveType|null $var)
+    public function setValue(\ProtobufPrinter\ProtobufGenerated\Scalar|null $var)
     {
         $this->value = $var;
 

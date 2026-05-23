@@ -1,4 +1,3 @@
-
 syntax = "proto3";
 
 package protos;
@@ -6,7 +5,7 @@ package protos;
 option php_namespace = "ProtobufPrinter\\ProtobufGenerated";
 option php_metadata_namespace = "ProtobufPrinter\\ProtobufGenerated";
 
-message PrimitiveType {
+message Scalar {
   oneof value {
     string string = 1;
     float float = 2;
@@ -47,7 +46,7 @@ message Script {
 
         message Literal {
           string type = 1;
-          PrimitiveType value = 2;
+          Scalar value = 2;
         }
 
         message Temporary {
@@ -81,7 +80,7 @@ message Script {
         message OneLabelType {
           oneof value {
             MapLabel map = 1;
-            PrimitiveType primitive = 2;
+            Scalar scalar = 2;
             Operand.OneOperand operand = 3;
           }
         }

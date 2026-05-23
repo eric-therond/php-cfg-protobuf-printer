@@ -10,9 +10,9 @@ use Google\Protobuf\Internal\GPBUtil;
 use Google\Protobuf\RepeatedField;
 
 /**
- * Generated from protobuf message <code>protos.PrimitiveType</code>
+ * Generated from protobuf message <code>protos.Scalar</code>
  */
-class PrimitiveType extends \Google\Protobuf\Internal\Message
+class Scalar extends \Google\Protobuf\Internal\Message
 {
     protected $value;
 
