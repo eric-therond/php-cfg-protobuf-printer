@@ -27,8 +27,5 @@
         "psr-4": {
             "ProtobufPrinter\\": "lib/ProtobufPrinter/"
         }
-    },
-    "bin": [
-        "bin/printer"
-    ]
+    }
 }
