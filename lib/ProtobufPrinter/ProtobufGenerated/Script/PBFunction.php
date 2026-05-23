@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function</code>
@@ -37,7 +37,7 @@ class PBFunction extends \Google\Protobuf\Internal\Message
      * @param array $data {
      *     Optional. Data for populating the Message object.
      *
-     *     @type array<\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block>|\Google\Protobuf\Internal\RepeatedField $blocks
+     *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block[] $blocks
      *     @type string $name
      *     @type string $class
      *     @type string $returnType
@@ -50,7 +50,7 @@ class PBFunction extends \Google\Protobuf\Internal\Message
 
     /**
      * Generated from protobuf field <code>repeated .protos.Script.Function.Block blocks = 1;</code>
-     * @return \Google\Protobuf\Internal\RepeatedField
+     * @return RepeatedField<\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block>
      */
     public function getBlocks()
     {
@@ -59,10 +59,10 @@ class PBFunction extends \Google\Protobuf\Internal\Message
 
     /**
      * Generated from protobuf field <code>repeated .protos.Script.Function.Block blocks = 1;</code>
-     * @param array<\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block>|\Google\Protobuf\Internal\RepeatedField $var
+     * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block[] $var
      * @return $this
      */
-    public function setBlocks($var)
+    public function setBlocks(array|RepeatedField $var)
     {
         $arr = GPBUtil::checkRepeatedField($var, \Google\Protobuf\Internal\GPBType::MESSAGE, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block::class);
         $this->blocks = $arr;
@@ -84,9 +84,9 @@ class PBFunction extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setName($var)
+    public function setName(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->name = $var;
 
         return $this;
@@ -116,9 +116,9 @@ class PBFunction extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setClass($var)
+    public function setClass(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->class = $var;
 
         return $this;
@@ -138,9 +138,9 @@ class PBFunction extends \Google\Protobuf\Internal\Message
      * @param string $var
      * @return $this
      */
-    public function setReturnType($var)
+    public function setReturnType(string $var)
     {
-        GPBUtil::checkString($var, True);
+        GPBUtil::checkString($var, true);
         $this->returnType = $var;
 
         return $this;

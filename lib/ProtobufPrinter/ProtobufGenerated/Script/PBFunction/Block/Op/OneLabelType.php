@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script.Function.Block.Op.OneLabelType</code>
@@ -51,9 +51,8 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel $var
      * @return $this
      */
-    public function setMap($var)
+    public function setMap(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel::class);
         $this->writeOneof(1, $var);
 
         return $this;
@@ -78,9 +77,8 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\PrimitiveType $var
      * @return $this
      */
-    public function setPrimitive($var)
+    public function setPrimitive(\ProtobufPrinter\ProtobufGenerated\PrimitiveType|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\PrimitiveType::class);
         $this->writeOneof(2, $var);
 
         return $this;
@@ -105,9 +103,8 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand $var
      * @return $this
      */
-    public function setOperand($var)
+    public function setOperand(\ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand|null $var)
     {
-        GPBUtil::checkMessage($var, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand::class);
         $this->writeOneof(3, $var);
 
         return $this;

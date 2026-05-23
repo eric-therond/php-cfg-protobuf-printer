@@ -6,8 +6,8 @@
 namespace ProtobufPrinter\ProtobufGenerated;
 
 use Google\Protobuf\Internal\GPBType;
-use Google\Protobuf\Internal\RepeatedField;
 use Google\Protobuf\Internal\GPBUtil;
+use Google\Protobuf\RepeatedField;
 
 /**
  * Generated from protobuf message <code>protos.Script</code>
@@ -25,7 +25,7 @@ class Script extends \Google\Protobuf\Internal\Message
      * @param array $data {
      *     Optional. Data for populating the Message object.
      *
-     *     @type array<\ProtobufPrinter\ProtobufGenerated\Script\PBFunction>|\Google\Protobuf\Internal\RepeatedField $functions
+     *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction[] $functions
      * }
      */
     public function __construct($data = NULL) {
@@ -35,7 +35,7 @@ class Script extends \Google\Protobuf\Internal\Message
 
     /**
      * Generated from protobuf field <code>repeated .protos.Script.Function functions = 1;</code>
-     * @return \Google\Protobuf\Internal\RepeatedField
+     * @return RepeatedField<\ProtobufPrinter\ProtobufGenerated\Script\PBFunction>
      */
     public function getFunctions()
     {
@@ -44,10 +44,10 @@ class Script extends \Google\Protobuf\Internal\Message
 
     /**
      * Generated from protobuf field <code>repeated .protos.Script.Function functions = 1;</code>
-     * @param array<\ProtobufPrinter\ProtobufGenerated\Script\PBFunction>|\Google\Protobuf\Internal\RepeatedField $var
+     * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction[] $var
      * @return $this
      */
-    public function setFunctions($var)
+    public function setFunctions(array|RepeatedField $var)
     {
         $arr = GPBUtil::checkRepeatedField($var, \Google\Protobuf\Internal\GPBType::MESSAGE, \ProtobufPrinter\ProtobufGenerated\Script\PBFunction::class);
         $this->functions = $arr;
