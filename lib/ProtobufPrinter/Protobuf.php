@@ -16,7 +16,7 @@ use PHPCfg\Func;
 use PHPCfg\Script;
 use PHPCfg\Operand;
 use PHPCfg\Printer\Printer;
-use ProtobufPrinter\ProtobufGenerated\PrimitiveType as PBPrimitiveType;
+use ProtobufPrinter\ProtobufGenerated\Scalar as PBScalar;
 use ProtobufPrinter\ProtobufGenerated\Script as PBScript;
 use ProtobufPrinter\ProtobufGenerated\Script\PBFunction;
 use ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block as PBBlock;
@@ -132,9 +132,9 @@ class Protobuf extends Printer
                     $pboneOperand = new PBOneOperand();
                     $literaloperand = new PBLiteral();
                     $literaloperand->setType($type);
-                    $primitive = $this->renderPrimitiveType($result["value"]);
-                    if ($primitive) {
-                        $literaloperand->setValue($primitive);
+                    $scalar = $this->renderScalar($result["value"]);
+                    if ($scalar) {
+                        $literaloperand->setValue($scalar);
                     }
                     $pboneOperand->setLiteral($literaloperand);
                     return $pboneOperand;
@@ -167,30 +167,30 @@ class Protobuf extends Printer
         throw new LogicException("Unknown operand rendering: " . get_class($var));
     }
 
-    public function renderPrimitiveType(string|float|int|bool $value): ?PBPrimitiveType
+    public function renderScalar(string|float|int|bool $value): ?PBScalar
     {
         if (is_string($value)) {
-            $primitive = new PBPrimitiveType();
+            $scalar = new PBScalar();
             try {
                 GPBUtil::checkString($value, true);
             } catch (\Exception $e) {
                 $value = "";
             }
 
-            $primitive->setString($value);
-            return $primitive;
+            $scalar->setString($value);
+            return $scalar;
         } elseif (is_bool($value)) {
-            $primitive = new PBPrimitiveType();
-            $primitive->setBool($value);
-            return $primitive;
+            $scalar = new PBScalar();
+            $scalar->setBool($value);
+            return $scalar;
         } elseif (is_float($value)) {
-            $primitive = new PBPrimitiveType();
-            $primitive->setFloat($value);
-            return $primitive;
+            $scalar = new PBScalar();
+            $scalar->setFloat($value);
+            return $scalar;
         } elseif (is_int($value)) {
-            $primitive = new PBPrimitiveType();
-            $primitive->setInt($value);
-            return $primitive;
+            $scalar = new PBScalar();
+            $scalar->setInt($value);
+            return $scalar;
         }
 
         return null;
@@ -212,9 +212,9 @@ class Protobuf extends Printer
         } elseif ($value instanceof PBOneOperand) {
             $result->setOperand($value);
         } else {
-            $primitive = $this->renderPrimitiveType($value);
-            if ($primitive) {
-                $result->setPrimitive($primitive);
+            $scalar = $this->renderScalar($value);
+            if ($scalar) {
+                $result->setScalar($scalar);
             }
         }
 
@@ -232,7 +232,7 @@ class Protobuf extends Printer
                 }
             } else {
                 $stringlabel = new PBOneLabelType();
-                $primitive = new PBPrimitiveType();
+                $scalar = new PBScalar();
 
                 // https://pigweed.googlesource.com/third_party/github/protocolbuffers/protobuf/+/refs/heads/upstream/main-tmp-2/php/src/Google/Protobuf/Internal/GPBUtil.php?autodive=0%2F%2F%2F%2F
                 // we need to ensure the value is utf8 otherwise it throws an exception at parser/cli level
@@ -241,8 +241,8 @@ class Protobuf extends Printer
                 } catch (\Exception $e) {
                     $val = "";
                 }
-                $primitive->setString($val);
-                $stringlabel->setPrimitive($primitive);
+                $scalar->setString($val);
+                $stringlabel->setScalar($scalar);
                 $map[$name] = $stringlabel;
             }
         }

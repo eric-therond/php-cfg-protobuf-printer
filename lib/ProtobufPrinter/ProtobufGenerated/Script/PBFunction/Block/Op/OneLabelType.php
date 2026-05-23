@@ -23,7 +23,7 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
      *     Optional. Data for populating the Message object.
      *
      *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel $map
-     *     @type \ProtobufPrinter\ProtobufGenerated\ScalarType $scalar
+     *     @type \ProtobufPrinter\ProtobufGenerated\Scalar $scalar
      *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Operand\OneOperand $operand
      * }
      */
@@ -59,8 +59,8 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.ScalarType scalar = 2;</code>
-     * @return \ProtobufPrinter\ProtobufGenerated\ScalarType|null
+     * Generated from protobuf field <code>.protos.Scalar scalar = 2;</code>
+     * @return \ProtobufPrinter\ProtobufGenerated\Scalar|null
      */
     public function getScalar()
     {
@@ -73,11 +73,11 @@ class OneLabelType extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.ScalarType scalar = 2;</code>
-     * @param \ProtobufPrinter\ProtobufGenerated\ScalarType $var
+     * Generated from protobuf field <code>.protos.Scalar scalar = 2;</code>
+     * @param \ProtobufPrinter\ProtobufGenerated\Scalar $var
      * @return $this
      */
-    public function setScalar(\ProtobufPrinter\ProtobufGenerated\ScalarType|null $var)
+    public function setScalar(\ProtobufPrinter\ProtobufGenerated\Scalar|null $var)
     {
         $this->writeOneof(2, $var);
 
