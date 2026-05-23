@@ -15,11 +15,15 @@ use Google\Protobuf\RepeatedField;
 class Op extends \Google\Protobuf\Internal\Message
 {
     /**
-     * Generated from protobuf field <code>.protos.Script.Function.Block.Op.MapLabel label = 1;</code>
+     * Generated from protobuf field <code>string kind = 1;</code>
+     */
+    protected $kind = '';
+    /**
+     * Generated from protobuf field <code>.protos.Script.Function.Block.Op.MapLabel label = 2;</code>
      */
     protected $label = null;
     /**
-     * Generated from protobuf field <code>map<string, uint32> childBlocks = 2;</code>
+     * Generated from protobuf field <code>map<string, uint32> childBlocks = 3;</code>
      */
     private $childBlocks;
 
@@ -29,6 +33,7 @@ class Op extends \Google\Protobuf\Internal\Message
      * @param array $data {
      *     Optional. Data for populating the Message object.
      *
+     *     @type string $kind
      *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel $label
      *     @type array|\Google\Protobuf\Internal\MapField $childBlocks
      * }
@@ -39,7 +44,29 @@ class Op extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.Script.Function.Block.Op.MapLabel label = 1;</code>
+     * Generated from protobuf field <code>string kind = 1;</code>
+     * @return string
+     */
+    public function getKind()
+    {
+        return $this->kind;
+    }
+
+    /**
+     * Generated from protobuf field <code>string kind = 1;</code>
+     * @param string $var
+     * @return $this
+     */
+    public function setKind(string $var)
+    {
+        GPBUtil::checkString($var, true);
+        $this->kind = $var;
+
+        return $this;
+    }
+
+    /**
+     * Generated from protobuf field <code>.protos.Script.Function.Block.Op.MapLabel label = 2;</code>
      * @return \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel|null
      */
     public function getLabel()
@@ -58,7 +85,7 @@ class Op extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.Script.Function.Block.Op.MapLabel label = 1;</code>
+     * Generated from protobuf field <code>.protos.Script.Function.Block.Op.MapLabel label = 2;</code>
      * @param \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel $var
      * @return $this
      */
@@ -70,7 +97,7 @@ class Op extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>map<string, uint32> childBlocks = 2;</code>
+     * Generated from protobuf field <code>map<string, uint32> childBlocks = 3;</code>
      * @return \Google\Protobuf\Internal\MapField
      */
     public function getChildBlocks()
@@ -79,7 +106,7 @@ class Op extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>map<string, uint32> childBlocks = 2;</code>
+     * Generated from protobuf field <code>map<string, uint32> childBlocks = 3;</code>
      * @param array|\Google\Protobuf\Internal\MapField $var
      * @return $this
      */
