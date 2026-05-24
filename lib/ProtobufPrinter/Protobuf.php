@@ -179,6 +179,8 @@ class Protobuf extends Printer
                 return PBOpKind::Expr_ClassConstFetch;
             case "Expr_Include":
                 return PBOpKind::Expr_Include;
+            case "Expr_Eval":
+                return PBOpKind::Expr_Eval;
             case "Expr_YieldFrom":
                 return PBOpKind::Expr_YieldFrom;
             case "Expr_AssignOp_BitwiseAnd":
@@ -325,6 +327,8 @@ class Protobuf extends Printer
                 return PBOpKind::Terminal_StaticVar;
             case "Terminal_Const":
                 return PBOpKind::Terminal_Const;
+            case "Terminal_Unset":
+                return PBOpKind::Terminal_Unset;
 
 
             default:

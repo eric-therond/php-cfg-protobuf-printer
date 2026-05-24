@@ -70,6 +70,7 @@ enum OpKind {
   Expr_ClassConstFetch = 71;
   Expr_Include = 72;
   Expr_YieldFrom = 73;
+  Expr_Eval = 74;
 
   Expr_AssignOp_BitwiseAnd = 100;
   Expr_AssignOp_BitwiseOr = 101;
@@ -155,6 +156,7 @@ enum OpKind {
   Terminal_StaticVar = 605;
   Terminal_Const = 606;
   Terminal_Echo = 607;
+  Terminal_Unset = 608;
 }
 
 message Scalar {
