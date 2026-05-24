@@ -22,7 +22,7 @@ echo "c";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -60,7 +60,7 @@ echo "c";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -95,7 +95,7 @@ echo "c";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -135,7 +135,7 @@ echo "c";
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"a\""
+                                                        "string": "ImEi"
                                                     }
                                                 }
                                             }
@@ -143,14 +143,14 @@ echo "c";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "a"
+                                                    "string": "YQ=="
                                                 }
                                             }
                                         }
@@ -167,7 +167,7 @@ echo "c";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -205,7 +205,7 @@ echo "c";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -231,7 +231,7 @@ echo "c";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -271,7 +271,7 @@ echo "c";
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"b\""
+                                                        "string": "ImIi"
                                                     }
                                                 }
                                             }
@@ -279,14 +279,14 @@ echo "c";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "b"
+                                                    "string": "Yg=="
                                                 }
                                             }
                                         }
@@ -303,7 +303,7 @@ echo "c";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -341,7 +341,7 @@ echo "c";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -367,7 +367,7 @@ echo "c";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -407,7 +407,7 @@ echo "c";
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"c\""
+                                                        "string": "ImMi"
                                                     }
                                                 }
                                             }
@@ -415,14 +415,14 @@ echo "c";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "c"
+                                                    "string": "Yw=="
                                                 }
                                             }
                                         }
@@ -436,7 +436,7 @@ echo "c";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

@@ -18,7 +18,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -61,7 +61,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -103,7 +103,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -146,7 +146,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -186,7 +186,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -229,7 +229,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -271,7 +271,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -314,7 +314,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -354,7 +354,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -397,7 +397,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -439,7 +439,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -482,7 +482,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -520,7 +520,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -563,7 +563,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -603,7 +603,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -646,7 +646,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -684,7 +684,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -727,7 +727,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -767,7 +767,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -805,7 +805,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Iterator_Reset"
+                                            "string": "SXRlcmF0b3JfUmVzZXQ="
                                         }
                                     },
                                     "var": {
@@ -831,7 +831,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -869,7 +869,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -892,7 +892,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -930,7 +930,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Iterator_Valid"
+                                            "string": "SXRlcmF0b3JfVmFsaWQ="
                                         }
                                     },
                                     "var": {
@@ -963,7 +963,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1001,7 +1001,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -1036,7 +1036,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1074,7 +1074,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Iterator_Value"
+                                            "string": "SXRlcmF0b3JfVmFsdWU="
                                         }
                                     },
                                     "var": {
@@ -1107,7 +1107,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1150,7 +1150,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -1188,7 +1188,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1231,7 +1231,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -1271,7 +1271,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1314,7 +1314,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -1352,7 +1352,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1395,7 +1395,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -1435,7 +1435,7 @@ foreach ($a as list($b, $c));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 }
                                             }
@@ -1443,7 +1443,7 @@ foreach ($a as list($b, $c));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -1466,7 +1466,7 @@ foreach ($a as list($b, $c));
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

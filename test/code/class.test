@@ -42,7 +42,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -83,12 +83,12 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Interface"
+                                            "string": "U3RtdF9JbnRlcmZhY2U="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NS\\Iface"
+                                            "string": "TlNcSWZhY2U="
                                         }
                                     },
                                     "extends": {
@@ -96,12 +96,12 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "0": {
                                                     "scalar": {
-                                                        "string": "A"
+                                                        "string": "QQ=="
                                                     }
                                                 },
                                                 "1": {
                                                     "scalar": {
-                                                        "string": "B"
+                                                        "string": "Qg=="
                                                     }
                                                 }
                                             }
@@ -122,7 +122,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -163,17 +163,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NS\\NameOfClass"
+                                            "string": "TlNcTmFtZU9mQ2xhc3M="
                                         }
                                     },
                                     "extends": {
                                         "scalar": {
-                                            "string": "X"
+                                            "string": "WA=="
                                         }
                                     },
                                     "implements": {
@@ -181,7 +181,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "0": {
                                                     "scalar": {
-                                                        "string": "NS\\Iface"
+                                                        "string": "TlNcSWZhY2U="
                                                     }
                                                 }
                                             }
@@ -202,7 +202,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -240,14 +240,14 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_New"
+                                            "string": "RXhwcl9OZXc="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "NS\\NameOfClass"
+                                                    "string": "TlNcTmFtZU9mQ2xhc3M="
                                                 }
                                             }
                                         }
@@ -274,7 +274,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -312,7 +312,7 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -349,7 +349,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -372,7 +372,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -413,17 +413,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "doSomething"
+                                            "string": "ZG9Tb21ldGhpbmc="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "public"
+                                            "string": "cHVibGlj"
                                         }
                                     }
                                 }
@@ -438,7 +438,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -479,17 +479,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method1"
+                                            "string": "bWV0aG9kMQ=="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "private"
+                                            "string": "cHJpdmF0ZQ=="
                                         }
                                     }
                                 }
@@ -504,7 +504,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -545,17 +545,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method2"
+                                            "string": "bWV0aG9kMg=="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "protected"
+                                            "string": "cHJvdGVjdGVk"
                                         }
                                     }
                                 }
@@ -570,7 +570,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -611,17 +611,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method3"
+                                            "string": "bWV0aG9kMw=="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "static|private"
+                                            "string": "c3RhdGljfHByaXZhdGU="
                                         }
                                     }
                                 }
@@ -636,7 +636,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -677,17 +677,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method4"
+                                            "string": "bWV0aG9kNA=="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "final|private"
+                                            "string": "ZmluYWx8cHJpdmF0ZQ=="
                                         }
                                     }
                                 }
@@ -702,7 +702,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -743,17 +743,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method5"
+                                            "string": "bWV0aG9kNQ=="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "abstract|private"
+                                            "string": "YWJzdHJhY3R8cHJpdmF0ZQ=="
                                         }
                                     }
                                 }
@@ -768,7 +768,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -809,17 +809,17 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method6"
+                                            "string": "bWV0aG9kNg=="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "abstract|static|protected"
+                                            "string": "YWJzdHJhY3R8c3RhdGljfHByb3RlY3RlZA=="
                                         }
                                     }
                                 }
@@ -845,7 +845,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -885,7 +885,7 @@ $obj = new NameOfClass();
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"Hello World\""
+                                                        "string": "IkhlbGxvIFdvcmxkIg=="
                                                     }
                                                 }
                                             }
@@ -893,14 +893,14 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Hello World"
+                                                    "string": "SGVsbG8gV29ybGQ="
                                                 }
                                             }
                                         }
@@ -914,7 +914,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -938,7 +938,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -962,7 +962,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -986,7 +986,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -1010,7 +1010,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -1034,7 +1034,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -1058,7 +1058,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

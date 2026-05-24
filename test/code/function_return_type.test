@@ -18,7 +18,7 @@ function foo(string $a): string {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -59,12 +59,12 @@ function foo(string $a): string {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Function"
+                                            "string": "U3RtdF9GdW5jdGlvbg=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "foo"
+                                            "string": "Zm9v"
                                         }
                                     }
                                 }
@@ -76,7 +76,7 @@ function foo(string $a): string {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -102,7 +102,7 @@ function foo(string $a): string {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -143,19 +143,19 @@ function foo(string $a): string {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Param"
+                                            "string": "RXhwcl9QYXJhbQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "string"
+                                            "string": "c3RyaW5n"
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "a"
+                                                    "string": "YQ=="
                                                 }
                                             }
                                         }
@@ -183,7 +183,7 @@ function foo(string $a): string {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -221,7 +221,7 @@ function foo(string $a): string {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     },
                                     "expr": {

@@ -31,7 +31,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -72,12 +72,12 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "A"
+                                            "string": "QQ=="
                                         }
                                     },
                                     "implements": {
@@ -95,7 +95,7 @@ class A {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -115,7 +115,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -156,24 +156,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "public"
+                                            "string": "cHVibGlj"
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "prop"
+                                                    "string": "cHJvcA=="
                                                 }
                                             }
                                         }
@@ -202,7 +202,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -243,24 +243,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "private"
+                                            "string": "cHJpdmF0ZQ=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "prop2"
+                                                    "string": "cHJvcDI="
                                                 }
                                             }
                                         }
@@ -287,7 +287,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -328,24 +328,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "readonly|private"
+                                            "string": "cmVhZG9ubHl8cHJpdmF0ZQ=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "prop3"
+                                                    "string": "cHJvcDM="
                                                 }
                                             }
                                         }
@@ -362,7 +362,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -403,24 +403,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "readonly|private"
+                                            "string": "cmVhZG9ubHl8cHJpdmF0ZQ=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "prop4"
+                                                    "string": "cHJvcDQ="
                                                 }
                                             }
                                         }
@@ -437,7 +437,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -478,24 +478,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "readonly|static|private"
+                                            "string": "cmVhZG9ubHl8c3RhdGljfHByaXZhdGU="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "prop5"
+                                                    "string": "cHJvcDU="
                                                 }
                                             }
                                         }
@@ -512,7 +512,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -553,24 +553,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "static|public"
+                                            "string": "c3RhdGljfHB1YmxpYw=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "prop6"
+                                                    "string": "cHJvcDY="
                                                 }
                                             }
                                         }
@@ -587,7 +587,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -628,24 +628,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "protected"
+                                            "string": "cHJvdGVjdGVk"
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "prop7"
+                                                    "string": "cHJvcDc="
                                                 }
                                             }
                                         }
@@ -662,7 +662,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -709,7 +709,7 @@ class A {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -753,7 +753,7 @@ class A {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -793,7 +793,7 @@ class A {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "ConstAttr"
+                                                                                        "string": "Q29uc3RBdHRy"
                                                                                     }
                                                                                 }
                                                                             }
@@ -812,7 +812,7 @@ class A {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -856,7 +856,7 @@ class A {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -896,7 +896,7 @@ class A {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "FooAttribute"
+                                                                                        "string": "Rm9vQXR0cmlidXRl"
                                                                                     }
                                                                                 }
                                                                             }
@@ -923,24 +923,24 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "string"
+                                            "string": "c3RyaW5n"
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "private"
+                                            "string": "cHJpdmF0ZQ=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "foo5"
+                                                    "string": "Zm9vNQ=="
                                                 }
                                             }
                                         }
@@ -957,7 +957,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -995,14 +995,14 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Const"
+                                            "string": "VGVybWluYWxfQ29uc3Q="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "FOO"
+                                                    "string": "Rk9P"
                                                 }
                                             }
                                         }
@@ -1011,7 +1011,7 @@ class A {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "foo"
+                                                    "string": "Zm9v"
                                                 }
                                             }
                                         }
@@ -1039,7 +1039,7 @@ class A {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1077,7 +1077,7 @@ class A {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Plus"
+                                            "string": "RXhwcl9CaW5hcnlPcF9QbHVz"
                                         }
                                     },
                                     "left": {

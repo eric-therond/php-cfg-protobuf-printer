@@ -15,7 +15,7 @@ throw new \InvalidArgumentException("foo");
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -42,12 +42,11 @@ throw new \InvalidArgumentException("foo");
                 {
                     "ops": [
                         {
-                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Phi"
+                                            "string": "UGhp"
                                         }
                                     },
                                     "vars": {
@@ -91,7 +90,7 @@ throw new \InvalidArgumentException("foo");
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -129,14 +128,14 @@ throw new \InvalidArgumentException("foo");
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_New"
+                                            "string": "RXhwcl9OZXc="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "InvalidArgumentException"
+                                                    "string": "SW52YWxpZEFyZ3VtZW50RXhjZXB0aW9u"
                                                 }
                                             }
                                         }
@@ -148,7 +147,7 @@ throw new \InvalidArgumentException("foo");
                                                     "operand": {
                                                         "literal": {
                                                             "value": {
-                                                                "string": "foo"
+                                                                "string": "Zm9v"
                                                             }
                                                         }
                                                     }
@@ -175,7 +174,7 @@ throw new \InvalidArgumentException("foo");
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -213,7 +212,7 @@ throw new \InvalidArgumentException("foo");
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Throw"
+                                            "string": "VGVybWluYWxfVGhyb3c="
                                         }
                                     },
                                     "expr": {
@@ -243,7 +242,7 @@ throw new \InvalidArgumentException("foo");
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -281,14 +280,14 @@ throw new \InvalidArgumentException("foo");
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_New"
+                                            "string": "RXhwcl9OZXc="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Exception"
+                                                    "string": "RXhjZXB0aW9u"
                                                 }
                                             }
                                         }
@@ -300,7 +299,7 @@ throw new \InvalidArgumentException("foo");
                                                     "operand": {
                                                         "literal": {
                                                             "value": {
-                                                                "string": "foo"
+                                                                "string": "Zm9v"
                                                             }
                                                         }
                                                     }
@@ -327,7 +326,7 @@ throw new \InvalidArgumentException("foo");
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -365,7 +364,7 @@ throw new \InvalidArgumentException("foo");
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Throw"
+                                            "string": "VGVybWluYWxfVGhyb3c="
                                         }
                                     },
                                     "expr": {

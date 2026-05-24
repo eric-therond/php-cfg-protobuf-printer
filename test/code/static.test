@@ -17,7 +17,7 @@ echo $flag;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -55,7 +55,7 @@ echo $flag;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_StaticVar"
+                                            "string": "VGVybWluYWxfU3RhdGljVmFy"
                                         }
                                     },
                                     "var": {
@@ -94,7 +94,7 @@ echo $flag;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -132,7 +132,7 @@ echo $flag;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
@@ -156,7 +156,7 @@ echo $flag;
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

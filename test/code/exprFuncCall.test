@@ -18,7 +18,7 @@ $a("some string");
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -56,7 +56,7 @@ $a("some string");
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -74,7 +74,7 @@ $a("some string");
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "print_r"
+                                                    "string": "cHJpbnRfcg=="
                                                 }
                                             }
                                         }
@@ -98,7 +98,7 @@ $a("some string");
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -136,7 +136,7 @@ $a("some string");
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
@@ -157,7 +157,7 @@ $a("some string");
                                                     "operand": {
                                                         "literal": {
                                                             "value": {
-                                                                "string": "some string"
+                                                                "string": "c29tZSBzdHJpbmc="
                                                             }
                                                         }
                                                     }
@@ -181,7 +181,7 @@ $a("some string");
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

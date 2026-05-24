@@ -27,7 +27,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -65,7 +65,7 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Equal"
+                                            "string": "RXhwcl9CaW5hcnlPcF9FcXVhbA=="
                                         }
                                     },
                                     "left": {
@@ -106,7 +106,7 @@ echo "D";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -137,7 +137,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -177,7 +177,7 @@ echo "D";
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"A\""
+                                                        "string": "IkEi"
                                                     }
                                                 }
                                             }
@@ -185,14 +185,14 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "A"
+                                                    "string": "QQ=="
                                                 }
                                             }
                                         }
@@ -206,7 +206,7 @@ echo "D";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -234,7 +234,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -272,7 +272,7 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Equal"
+                                            "string": "RXhwcl9CaW5hcnlPcF9FcXVhbA=="
                                         }
                                     },
                                     "left": {
@@ -313,7 +313,7 @@ echo "D";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -347,7 +347,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -387,7 +387,7 @@ echo "D";
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"B\""
+                                                        "string": "IkIi"
                                                     }
                                                 }
                                             }
@@ -395,14 +395,14 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "B"
+                                                    "string": "Qg=="
                                                 }
                                             }
                                         }
@@ -419,7 +419,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -457,7 +457,7 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -484,7 +484,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -522,7 +522,7 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Equal"
+                                            "string": "RXhwcl9CaW5hcnlPcF9FcXVhbA=="
                                         }
                                     },
                                     "left": {
@@ -563,7 +563,7 @@ echo "D";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -597,7 +597,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -637,7 +637,7 @@ echo "D";
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"D\""
+                                                        "string": "IkQi"
                                                     }
                                                 }
                                             }
@@ -645,14 +645,14 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "D"
+                                                    "string": "RA=="
                                                 }
                                             }
                                         }
@@ -666,7 +666,7 @@ echo "D";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -690,7 +690,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -728,7 +728,7 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Equal"
+                                            "string": "RXhwcl9CaW5hcnlPcF9FcXVhbA=="
                                         }
                                     },
                                     "left": {
@@ -769,7 +769,7 @@ echo "D";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -803,7 +803,7 @@ echo "D";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -843,7 +843,7 @@ echo "D";
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"C\""
+                                                        "string": "IkMi"
                                                     }
                                                 }
                                             }
@@ -851,14 +851,14 @@ echo "D";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "C"
+                                                    "string": "Qw=="
                                                 }
                                             }
                                         }
@@ -872,7 +872,7 @@ echo "D";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }

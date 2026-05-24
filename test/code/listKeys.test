@@ -18,7 +18,7 @@ list('a' => $a, $key => $b) = $array;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -56,7 +56,7 @@ list('a' => $a, $key => $b) = $array;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -74,7 +74,7 @@ list('a' => $a, $key => $b) = $array;
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "b"
+                                                    "string": "Yg=="
                                                 }
                                             }
                                         }
@@ -98,7 +98,7 @@ list('a' => $a, $key => $b) = $array;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -141,7 +141,7 @@ list('a' => $a, $key => $b) = $array;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -159,7 +159,7 @@ list('a' => $a, $key => $b) = $array;
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "a"
+                                                    "string": "YQ=="
                                                 }
                                             }
                                         }
@@ -183,7 +183,7 @@ list('a' => $a, $key => $b) = $array;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -226,7 +226,7 @@ list('a' => $a, $key => $b) = $array;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -266,7 +266,7 @@ list('a' => $a, $key => $b) = $array;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -309,7 +309,7 @@ list('a' => $a, $key => $b) = $array;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -353,7 +353,7 @@ list('a' => $a, $key => $b) = $array;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -396,7 +396,7 @@ list('a' => $a, $key => $b) = $array;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -433,7 +433,7 @@ list('a' => $a, $key => $b) = $array;
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

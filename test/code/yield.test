@@ -25,7 +25,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -66,12 +66,12 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Function"
+                                            "string": "U3RtdF9GdW5jdGlvbg=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "gen_one_to_three"
+                                            "string": "Z2VuX29uZV90b190aHJlZQ=="
                                         }
                                     }
                                 }
@@ -86,7 +86,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -124,14 +124,14 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "gen_one_to_three"
+                                                    "string": "Z2VuX29uZV90b190aHJlZQ=="
                                                 }
                                             }
                                         }
@@ -158,7 +158,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -196,7 +196,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -236,7 +236,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -274,7 +274,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Iterator_Reset"
+                                            "string": "SXRlcmF0b3JfUmVzZXQ="
                                         }
                                     },
                                     "var": {
@@ -300,7 +300,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -338,7 +338,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -361,7 +361,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -399,7 +399,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Iterator_Valid"
+                                            "string": "SXRlcmF0b3JfVmFsaWQ="
                                         }
                                     },
                                     "var": {
@@ -432,7 +432,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -470,7 +470,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -505,7 +505,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -543,7 +543,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Iterator_Value"
+                                            "string": "SXRlcmF0b3JfVmFsdWU="
                                         }
                                     },
                                     "var": {
@@ -576,7 +576,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -614,7 +614,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -654,7 +654,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -697,7 +697,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ConcatList"
+                                            "string": "RXhwcl9Db25jYXRMaXN0"
                                         }
                                     },
                                     "list": {
@@ -718,7 +718,7 @@ foreach ($generator as $value) {
                                                     "operand": {
                                                         "literal": {
                                                             "value": {
-                                                                "string": "\n"
+                                                                "string": "Cg=="
                                                             }
                                                         }
                                                     }
@@ -745,7 +745,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -788,7 +788,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
@@ -810,7 +810,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 }
                                             }
@@ -818,7 +818,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -841,7 +841,7 @@ foreach ($generator as $value) {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -870,7 +870,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -908,7 +908,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -950,7 +950,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -988,7 +988,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -1003,12 +1003,11 @@ foreach ($generator as $value) {
                 {
                     "ops": [
                         {
-                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Phi"
+                                            "string": "UGhp"
                                         }
                                     },
                                     "vars": {
@@ -1062,7 +1061,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1100,7 +1099,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_SmallerOrEqual"
+                                            "string": "RXhwcl9CaW5hcnlPcF9TbWFsbGVyT3JFcXVhbA=="
                                         }
                                     },
                                     "left": {
@@ -1142,7 +1141,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1180,7 +1179,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -1215,7 +1214,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1253,7 +1252,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Yield"
+                                            "string": "RXhwcl9ZaWVsZA=="
                                         }
                                     },
                                     "key": {
@@ -1286,7 +1285,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 }
                                             }
@@ -1294,7 +1293,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -1317,7 +1316,7 @@ foreach ($generator as $value) {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -1340,7 +1339,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1378,7 +1377,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Plus"
+                                            "string": "RXhwcl9CaW5hcnlPcF9QbHVz"
                                         }
                                     },
                                     "left": {
@@ -1420,7 +1419,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1458,7 +1457,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -1498,7 +1497,7 @@ foreach ($generator as $value) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1536,7 +1535,7 @@ foreach ($generator as $value) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }

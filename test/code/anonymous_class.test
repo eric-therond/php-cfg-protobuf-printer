@@ -22,7 +22,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -63,12 +63,12 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "{anonymousClass}#1"
+                                            "string": "e2Fub255bW91c0NsYXNzfSMx"
                                         }
                                     },
                                     "implements": {
@@ -89,7 +89,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -127,14 +127,14 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_New"
+                                            "string": "RXhwcl9OZXc="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "{anonymousClass}#1"
+                                                    "string": "e2Fub255bW91c0NsYXNzfSMx"
                                                 }
                                             }
                                         }
@@ -161,7 +161,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -199,7 +199,7 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -239,7 +239,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -286,7 +286,7 @@ $instance = new #[Attr('foo')] class {};
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -330,7 +330,7 @@ $instance = new #[Attr('foo')] class {};
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -370,7 +370,7 @@ $instance = new #[Attr('foo')] class {};
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "Attr"
+                                                                                        "string": "QXR0cg=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -382,7 +382,7 @@ $instance = new #[Attr('foo')] class {};
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "foo"
+                                                                                                    "string": "Zm9v"
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -401,12 +401,12 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "{anonymousClass}#2"
+                                            "string": "e2Fub255bW91c0NsYXNzfSMy"
                                         }
                                     },
                                     "implements": {
@@ -427,7 +427,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -465,14 +465,14 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_New"
+                                            "string": "RXhwcl9OZXc="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "{anonymousClass}#2"
+                                                    "string": "e2Fub255bW91c0NsYXNzfSMy"
                                                 }
                                             }
                                         }
@@ -499,7 +499,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -537,7 +537,7 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -574,7 +574,7 @@ $instance = new #[Attr('foo')] class {};
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -594,7 +594,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -635,17 +635,17 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "doSomething"
+                                            "string": "ZG9Tb21ldGhpbmc="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "public"
+                                            "string": "cHVibGlj"
                                         }
                                     }
                                 }
@@ -674,7 +674,7 @@ $instance = new #[Attr('foo')] class {};
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -714,7 +714,7 @@ $instance = new #[Attr('foo')] class {};
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"Hello World\""
+                                                        "string": "IkhlbGxvIFdvcmxkIg=="
                                                     }
                                                 }
                                             }
@@ -722,14 +722,14 @@ $instance = new #[Attr('foo')] class {};
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Hello World"
+                                                    "string": "SGVsbG8gV29ybGQ="
                                                 }
                                             }
                                         }
@@ -743,7 +743,7 @@ $instance = new #[Attr('foo')] class {};
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

@@ -3,6 +3,7 @@
 <phpunit backupGlobals="false"
          processIsolation="false"
          stopOnFailure="false"
+         displayDetailsOnTestsThatTriggerWarnings="true"
          bootstrap="./vendor/autoload.php">
     <testsuites>
         <testsuite name="PHPCfg Tests">

@@ -34,7 +34,7 @@ class Scalar extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>string string = 1;</code>
+     * Generated from protobuf field <code>bytes string = 1;</code>
      * @return string
      */
     public function getString()
@@ -48,13 +48,13 @@ class Scalar extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>string string = 1;</code>
+     * Generated from protobuf field <code>bytes string = 1;</code>
      * @param string $var
      * @return $this
      */
     public function setString(string $var)
     {
-        GPBUtil::checkString($var, true);
+        GPBUtil::checkString($var, false);
         $this->writeOneof(1, $var);
 
         return $this;

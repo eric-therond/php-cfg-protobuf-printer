@@ -17,7 +17,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -55,7 +55,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -90,7 +90,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -128,7 +128,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -168,7 +168,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -206,7 +206,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -232,7 +232,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -270,7 +270,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -300,12 +300,11 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
-                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Phi"
+                                            "string": "UGhp"
                                         }
                                     },
                                     "vars": {
@@ -347,7 +346,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -385,7 +384,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -422,7 +421,7 @@ $a = $b ?: ($b ?: $c);
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -446,7 +445,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -484,7 +483,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -524,7 +523,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -562,7 +561,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -588,7 +587,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -626,7 +625,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -666,7 +665,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -704,7 +703,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -722,12 +721,11 @@ $a = $b ?: ($b ?: $c);
                 {
                     "ops": [
                         {
-                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Phi"
+                                            "string": "UGhp"
                                         }
                                     },
                                     "vars": {
@@ -769,7 +767,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -807,7 +805,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -843,7 +841,7 @@ $a = $b ?: ($b ?: $c);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -881,7 +879,7 @@ $a = $b ?: ($b ?: $c);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }

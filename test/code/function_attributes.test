@@ -24,7 +24,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -71,7 +71,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -115,7 +115,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -155,7 +155,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "ExampleAttribute"
+                                                                                        "string": "RXhhbXBsZUF0dHJpYnV0ZQ=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -167,7 +167,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "foo"
+                                                                                                    "string": "Zm9v"
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -176,7 +176,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "bar"
+                                                                                                    "string": "YmFy"
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -195,12 +195,12 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Function"
+                                            "string": "U3RtdF9GdW5jdGlvbg=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "foo2"
+                                            "string": "Zm9vMg=="
                                         }
                                     }
                                 }
@@ -215,7 +215,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -262,7 +262,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -306,7 +306,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -346,7 +346,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "ConstAttr"
+                                                                                        "string": "Q29uc3RBdHRy"
                                                                                     }
                                                                                 }
                                                                             }
@@ -365,7 +365,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -409,7 +409,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -449,7 +449,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "FooAttribute"
+                                                                                        "string": "Rm9vQXR0cmlidXRl"
                                                                                     }
                                                                                 }
                                                                             }
@@ -476,12 +476,12 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Function"
+                                            "string": "U3RtdF9GdW5jdGlvbg=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "foo5"
+                                            "string": "Zm9vNQ=="
                                         }
                                     }
                                 }
@@ -496,7 +496,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -537,12 +537,12 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Function"
+                                            "string": "U3RtdF9GdW5jdGlvbg=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "foo_func"
+                                            "string": "Zm9vX2Z1bmM="
                                         }
                                     }
                                 }
@@ -554,7 +554,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -577,7 +577,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -600,7 +600,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -626,7 +626,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -673,7 +673,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -717,7 +717,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -757,7 +757,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "FooParamAttrib"
+                                                                                        "string": "Rm9vUGFyYW1BdHRyaWI="
                                                                                     }
                                                                                 }
                                                                             }
@@ -769,7 +769,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "Foo1"
+                                                                                                    "string": "Rm9vMQ=="
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -788,19 +788,19 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Param"
+                                            "string": "RXhwcl9QYXJhbQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "foo"
+                                                    "string": "Zm9v"
                                                 }
                                             }
                                         }
@@ -825,7 +825,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

@@ -1,13 +1,165 @@
 syntax = "proto3";
 
 package protos;
-
 option php_namespace = "ProtobufPrinter\\ProtobufGenerated";
 option php_metadata_namespace = "ProtobufPrinter\\ProtobufGenerated";
+       
+enum OpKind {
+  Phi = 0;
+
+  Expr_Throw = 2;
+  Expr_Query = 3;
+  Expr_Stackalloc = 4;
+  Expr_Sizeof = 5;
+  Expr_IsPattern = 6;
+  Expr_ConstFetch = 7;
+  Expr_AddressOfExpression = 8;
+  Expr_Range = 9;
+  Expr_IndexExpression = 10;
+  Expr_Tuple = 11;
+  Expr_Parenthesized = 12;
+  Expr_InterpolatedString = 13;
+  Expr_Regex = 14;
+  Expr_Empty = 15;
+  Expr_Spread = 16;
+  Expr_ArrayBinding = 17;
+  Expr_ObjectBinding = 18;
+  Expr_ClassExpr = 19;
+  Expr_Continue = 20;
+  Expr_Delete = 21;
+  Expr_Void = 22;
+  Expr_Typeof = 23;
+  Expr_Star = 24;
+  Expr_Starred = 25;
+  Expr_StaticCall = 26;
+  Expr_StaticPropertyFetch = 27;
+  Expr_Slice = 28;
+  Expr_KeyVar = 29;
+  Expr_Closure = 30;
+  Expr_CommandParam = 31;
+  Expr_Switch = 32;
+  Expr_SuppressNullableWarningExpression = 33;
+  Expr_Checked = 34;
+  Expr_Discard = 35;
+  Expr_Binding = 36;
+  Expr_With = 37;
+  Expr_Array = 38;
+  Expr_ArrayDimFetch = 39;
+  Expr_ArrowFunction = 40;
+  Expr_Assign = 50;
+  Expr_AssignRef = 51;
+  Expr_Await = 52;
+  Expr_BitwiseNot = 53;
+  Expr_BooleanNot = 54;
+  Expr_ConcatList = 55;
+  Expr_FuncCall = 56;
+  Expr_InstanceOf = 57;
+  Expr_MethodCall = 58;
+  Expr_New = 59;
+  Expr_Param = 60;
+  Expr_PropertyFetch = 61;
+  Expr_Yield = 62;
+  Expr_Unary = 63;
+  Expr_UnaryMinus = 64;
+  Expr_UnaryPlus = 65;
+  Expr_Isset = 66;
+  Expr_NsFuncCall = 67;
+  Expr_Print = 68;
+  Expr_Assertion = 69;
+  Expr_VarVar = 70;
+  Expr_ClassConstFetch = 71;
+  Expr_Include = 72;
+  Expr_YieldFrom = 73;
+
+  Expr_AssignOp_BitwiseAnd = 100;
+  Expr_AssignOp_BitwiseOr = 101;
+  Expr_AssignOp_Comma = 102;
+
+  Expr_BinaryOp_As = 200;
+  Expr_BinaryOp_Comma = 201;
+  Expr_BinaryOp_First = 202;
+  Expr_BinaryOp_In = 203;
+  Expr_BinaryOp_Is = 204;
+  Expr_BinaryOp_IsNot = 205;
+  Expr_BinaryOp_NotIn = 206;
+  Expr_BinaryOp_BooleanOr = 207;
+  Expr_BinaryOp_BooleanAnd = 208;
+  Expr_BinaryOp_BitwiseAnd = 209;
+  Expr_BinaryOp_BitwiseOr = 210;
+  Expr_BinaryOp_BitwiseXor = 211;
+  Expr_BinaryOp_BitwiseNot = 212;
+  Expr_BinaryOp_BitwiseNotAnd = 213;
+  Expr_BinaryOp_UnsignedRightShift = 214;
+  Expr_BinaryOp_Coalesce = 215;
+  Expr_BinaryOp_Concat = 216;
+  Expr_BinaryOp_Div = 217;
+  Expr_BinaryOp_Equal = 218;
+  Expr_BinaryOp_Greater = 219;
+  Expr_BinaryOp_GreaterOrEqual = 220;
+  Expr_BinaryOp_Identical = 221;
+  Expr_BinaryOp_LogicalXor = 222;
+  Expr_BinaryOp_Minus = 223;
+  Expr_BinaryOp_Mod = 224;
+  Expr_BinaryOp_Mul = 225;
+  Expr_BinaryOp_NotEqual = 226;
+  Expr_BinaryOp_NotIdentical = 227;
+  Expr_BinaryOp_Plus = 228;
+  Expr_BinaryOp_Pow = 229;
+  Expr_BinaryOp_ShiftLeft = 230;
+  Expr_BinaryOp_ShiftRight = 231;
+  Expr_BinaryOp_Smaller = 232;
+  Expr_BinaryOp_SmallerOrEqual = 233;
+  Expr_BinaryOp_Spaceship = 234;
+
+  Expr_Cast_Array = 300;
+  Expr_Cast_Bool = 301;
+  Expr_Cast_Double = 302;
+  Expr_Cast_Int = 303;
+  Expr_Cast_Object = 304;
+  Expr_Cast_String = 305;
+  Expr_Cast_Type = 306;
+  Expr_Cast_Unset = 307;
+
+  Iterator_Key = 401;
+  Iterator_Next = 402;
+  Iterator_Reset = 403;
+  Iterator_Valid = 404;
+  Iterator_Value = 405;
+
+  Stmt_Class = 500;
+  Stmt_ClassMethod = 501;
+  Stmt_Function = 502;
+  Stmt_Import = 503;
+  Stmt_Jump = 504;
+  Stmt_JumpIf = 505;
+  Stmt_Property = 507;
+  Stmt_Switch = 508;
+  Stmt_Try = 509;
+  Stmt_VarDeclaration = 510;
+  Stmt_With = 511;
+  Stmt_Yield = 512;
+  Stmt_Break = 513;
+  Stmt_Interface = 514;
+  Stmt_Export = 515;
+  Stmt_Namespace = 516;
+  Stmt_Use = 517;
+  Stmt_Trait = 518;
+  Stmt_TraitUse = 519;
+  Stmt_MatchTable = 520;
+
+  Terminal_Exit = 600;
+  Terminal_Return = 601;
+  Terminal_Throw = 602;
+  Terminal_GlobalVar = 603;
+  Terminal_MatchError = 604;
+  Terminal_StaticVar = 605;
+  Terminal_Const = 606;
+  Terminal_Echo = 607;
+}
 
 message Scalar {
   oneof value {
-    string string = 1;
+    bytes string = 1;
     float float = 2;
     uint32 int = 3;
     bool bool = 4;
@@ -45,8 +197,7 @@ message Script {
         }
 
         message Literal {
-          string type = 1;
-          Scalar value = 2;
+          Scalar value = 1;
         }
 
         message Temporary {
@@ -85,7 +236,7 @@ message Script {
           }
         }
         
-        string kind = 1;
+        OpKind kind = 1;
         MapLabel label = 2;
         map<string, uint32> childBlocks = 3;
       }

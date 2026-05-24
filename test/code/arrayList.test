@@ -17,7 +17,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "kind": {
@@ -60,7 +60,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -102,7 +102,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "kind": {
@@ -145,7 +145,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -185,7 +185,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "kind": {
@@ -228,7 +228,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -270,7 +270,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "kind": {
@@ -313,7 +313,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -353,7 +353,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "kind": {
@@ -396,7 +396,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -438,7 +438,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "kind": {
@@ -481,7 +481,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -519,7 +519,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "kind": {
@@ -562,7 +562,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -599,7 +599,7 @@
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

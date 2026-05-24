@@ -20,7 +20,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -58,14 +58,14 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Const"
+                                            "string": "VGVybWluYWxfQ29uc3Q="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "A"
+                                                    "string": "QQ=="
                                                 }
                                             }
                                         }
@@ -94,7 +94,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -132,14 +132,14 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Const"
+                                            "string": "VGVybWluYWxfQ29uc3Q="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "B"
+                                                    "string": "Qg=="
                                                 }
                                             }
                                         }
@@ -166,7 +166,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -207,12 +207,12 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "C"
+                                            "string": "Qw=="
                                         }
                                     },
                                     "implements": {
@@ -233,7 +233,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -271,14 +271,14 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ConstFetch"
+                                            "string": "RXhwcl9Db25zdEZldGNo"
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "A"
+                                                    "string": "QQ=="
                                                 }
                                             }
                                         }
@@ -302,7 +302,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -340,14 +340,14 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ClassConstFetch"
+                                            "string": "RXhwcl9DbGFzc0NvbnN0RmV0Y2g="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "C"
+                                                    "string": "Qw=="
                                                 }
                                             }
                                         }
@@ -356,7 +356,7 @@ var_dump(A, C::D);
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "D"
+                                                    "string": "RA=="
                                                 }
                                             }
                                         }
@@ -380,7 +380,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -418,14 +418,14 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -466,7 +466,7 @@ var_dump(A, C::D);
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -489,7 +489,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -527,7 +527,7 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Plus"
+                                            "string": "RXhwcl9CaW5hcnlPcF9QbHVz"
                                         }
                                     },
                                     "left": {
@@ -572,7 +572,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -610,14 +610,14 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Const"
+                                            "string": "VGVybWluYWxfQ29uc3Q="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "D"
+                                                    "string": "RA=="
                                                 }
                                             }
                                         }
@@ -646,7 +646,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -684,14 +684,14 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Const"
+                                            "string": "VGVybWluYWxfQ29uc3Q="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "E"
+                                                    "string": "RQ=="
                                                 }
                                             }
                                         }
@@ -726,7 +726,7 @@ var_dump(A, C::D);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -764,7 +764,7 @@ var_dump(A, C::D);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Plus"
+                                            "string": "RXhwcl9CaW5hcnlPcF9QbHVz"
                                         }
                                     },
                                     "left": {

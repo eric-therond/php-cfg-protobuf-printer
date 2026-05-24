@@ -20,7 +20,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -61,12 +61,12 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NS\\NameOfClass"
+                                            "string": "TlNcTmFtZU9mQ2xhc3M="
                                         }
                                     },
                                     "implements": {
@@ -87,7 +87,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -125,14 +125,14 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_New"
+                                            "string": "RXhwcl9OZXc="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "NS\\NameOfClass"
+                                                    "string": "TlNcTmFtZU9mQ2xhc3M="
                                                 }
                                             }
                                         }
@@ -159,7 +159,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -197,7 +197,7 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -234,7 +234,7 @@ $obj = new NameOfClass();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -254,7 +254,7 @@ $obj = new NameOfClass();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -295,24 +295,24 @@ $obj = new NameOfClass();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Property"
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "?NS\\NameOfClass"
+                                            "string": "P05TXE5hbWVPZkNsYXNz"
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "public"
+                                            "string": "cHVibGlj"
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "self"
+                                                    "string": "c2VsZg=="
                                                 }
                                             }
                                         }

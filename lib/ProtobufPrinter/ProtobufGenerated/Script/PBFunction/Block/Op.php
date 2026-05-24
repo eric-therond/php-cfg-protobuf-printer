@@ -15,9 +15,9 @@ use Google\Protobuf\RepeatedField;
 class Op extends \Google\Protobuf\Internal\Message
 {
     /**
-     * Generated from protobuf field <code>string kind = 1;</code>
+     * Generated from protobuf field <code>.protos.OpKind kind = 1;</code>
      */
-    protected $kind = '';
+    protected $kind = 0;
     /**
      * Generated from protobuf field <code>.protos.Script.Function.Block.Op.MapLabel label = 2;</code>
      */
@@ -33,7 +33,7 @@ class Op extends \Google\Protobuf\Internal\Message
      * @param array $data {
      *     Optional. Data for populating the Message object.
      *
-     *     @type string $kind
+     *     @type int $kind
      *     @type \ProtobufPrinter\ProtobufGenerated\Script\PBFunction\Block\Op\MapLabel $label
      *     @type array|\Google\Protobuf\Internal\MapField $childBlocks
      * }
@@ -44,8 +44,8 @@ class Op extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>string kind = 1;</code>
-     * @return string
+     * Generated from protobuf field <code>.protos.OpKind kind = 1;</code>
+     * @return int one of the values in {@see \ProtobufPrinter\ProtobufGenerated\OpKind}
      */
     public function getKind()
     {
@@ -53,13 +53,13 @@ class Op extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>string kind = 1;</code>
-     * @param string $var
+     * Generated from protobuf field <code>.protos.OpKind kind = 1;</code>
+     * @param int $var one of the values in {@see \ProtobufPrinter\ProtobufGenerated\OpKind}
      * @return $this
      */
-    public function setKind(string $var)
+    public function setKind(int $var)
     {
-        GPBUtil::checkString($var, true);
+        GPBUtil::checkEnum($var, \ProtobufPrinter\ProtobufGenerated\OpKind::class);
         $this->kind = $var;
 
         return $this;

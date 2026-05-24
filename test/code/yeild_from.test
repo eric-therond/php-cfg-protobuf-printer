@@ -26,7 +26,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -67,12 +67,12 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Function"
+                                            "string": "U3RtdF9GdW5jdGlvbg=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "gen_one_to_three"
+                                            "string": "Z2VuX29uZV90b190aHJlZQ=="
                                         }
                                     }
                                 }
@@ -87,7 +87,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -128,12 +128,12 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Function"
+                                            "string": "U3RtdF9GdW5jdGlvbg=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "gen_zero_four"
+                                            "string": "Z2VuX3plcm9fZm91cg=="
                                         }
                                     }
                                 }
@@ -145,7 +145,7 @@ function gen_zero_four() {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -171,7 +171,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -209,7 +209,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -251,7 +251,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -289,7 +289,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -304,12 +304,11 @@ function gen_zero_four() {
                 {
                     "ops": [
                         {
-                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Phi"
+                                            "string": "UGhp"
                                         }
                                     },
                                     "vars": {
@@ -363,7 +362,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -401,7 +400,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_SmallerOrEqual"
+                                            "string": "RXhwcl9CaW5hcnlPcF9TbWFsbGVyT3JFcXVhbA=="
                                         }
                                     },
                                     "left": {
@@ -443,7 +442,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -481,7 +480,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_JumpIf"
+                                            "string": "U3RtdF9KdW1wSWY="
                                         }
                                     },
                                     "cond": {
@@ -516,7 +515,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -554,7 +553,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Yield"
+                                            "string": "RXhwcl9ZaWVsZA=="
                                         }
                                     },
                                     "key": {
@@ -587,7 +586,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 }
                                             }
@@ -595,7 +594,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -618,7 +617,7 @@ function gen_zero_four() {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -641,7 +640,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -679,7 +678,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Plus"
+                                            "string": "RXhwcl9CaW5hcnlPcF9QbHVz"
                                         }
                                     },
                                     "left": {
@@ -721,7 +720,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -759,7 +758,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -799,7 +798,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -837,7 +836,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -869,7 +868,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -907,7 +906,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Yield"
+                                            "string": "RXhwcl9ZaWVsZA=="
                                         }
                                     },
                                     "key": {
@@ -938,7 +937,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -976,14 +975,14 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "gen_one_to_three"
+                                                    "string": "Z2VuX29uZV90b190aHJlZQ=="
                                                 }
                                             }
                                         }
@@ -1010,7 +1009,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1048,7 +1047,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_YieldFrom"
+                                            "string": "RXhwcl9ZaWVsZEZyb20="
                                         }
                                     },
                                     "expr": {
@@ -1077,7 +1076,7 @@ function gen_zero_four() {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1115,7 +1114,7 @@ function gen_zero_four() {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Yield"
+                                            "string": "RXhwcl9ZaWVsZA=="
                                         }
                                     },
                                     "key": {
@@ -1143,7 +1142,7 @@ function gen_zero_four() {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

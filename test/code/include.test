@@ -19,7 +19,7 @@ require_once($foo);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -57,7 +57,7 @@ require_once($foo);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Include"
+                                            "string": "RXhwcl9JbmNsdWRl"
                                         }
                                     },
                                     "expr": {
@@ -80,7 +80,7 @@ require_once($foo);
                                     },
                                     "type": {
                                         "scalar": {
-                                            "string": "include"
+                                            "string": "aW5jbHVkZQ=="
                                         }
                                     }
                                 }
@@ -95,7 +95,7 @@ require_once($foo);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -133,7 +133,7 @@ require_once($foo);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Include"
+                                            "string": "RXhwcl9JbmNsdWRl"
                                         }
                                     },
                                     "expr": {
@@ -156,7 +156,7 @@ require_once($foo);
                                     },
                                     "type": {
                                         "scalar": {
-                                            "string": "include_once"
+                                            "string": "aW5jbHVkZV9vbmNl"
                                         }
                                     }
                                 }
@@ -171,7 +171,7 @@ require_once($foo);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -209,7 +209,7 @@ require_once($foo);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Include"
+                                            "string": "RXhwcl9JbmNsdWRl"
                                         }
                                     },
                                     "expr": {
@@ -232,7 +232,7 @@ require_once($foo);
                                     },
                                     "type": {
                                         "scalar": {
-                                            "string": "require"
+                                            "string": "cmVxdWlyZQ=="
                                         }
                                     }
                                 }
@@ -247,7 +247,7 @@ require_once($foo);
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -285,7 +285,7 @@ require_once($foo);
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Include"
+                                            "string": "RXhwcl9JbmNsdWRl"
                                         }
                                     },
                                     "expr": {
@@ -308,7 +308,7 @@ require_once($foo);
                                     },
                                     "type": {
                                         "scalar": {
-                                            "string": "require_once"
+                                            "string": "cmVxdWlyZV9vbmNl"
                                         }
                                     }
                                 }
@@ -320,7 +320,7 @@ require_once($foo);
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
