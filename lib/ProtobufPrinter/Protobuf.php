@@ -522,14 +522,6 @@ class Protobuf extends Printer
             } else {
                 $stringlabel = new PBOneLabelType();
                 $scalar = new PBScalar();
-
-                // https://pigweed.googlesource.com/third_party/github/protocolbuffers/protobuf/+/refs/heads/upstream/main-tmp-2/php/src/Google/Protobuf/Internal/GPBUtil.php?autodive=0%2F%2F%2F%2F
-                // we need to ensure the value is utf8 otherwise it throws an exception at parser/cli level
-                try {
-                    GPBUtil::checkString($val, true);
-                } catch (\Exception $e) {
-                    $val = "";
-                }
                 $scalar->setString($val);
                 $stringlabel->setScalar($scalar);
                 $map[$name] = $stringlabel;
