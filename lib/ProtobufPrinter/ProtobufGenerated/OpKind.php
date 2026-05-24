@@ -269,6 +269,10 @@ class OpKind
      */
     const Expr_YieldFrom = 73;
     /**
+     * Generated from protobuf enum <code>Expr_Eval = 74;</code>
+     */
+    const Expr_Eval = 74;
+    /**
      * Generated from protobuf enum <code>Expr_AssignOp_BitwiseAnd = 100;</code>
      */
     const Expr_AssignOp_BitwiseAnd = 100;
@@ -584,6 +588,10 @@ class OpKind
      * Generated from protobuf enum <code>Terminal_Echo = 607;</code>
      */
     const Terminal_Echo = 607;
+    /**
+     * Generated from protobuf enum <code>Terminal_Unset = 608;</code>
+     */
+    const Terminal_Unset = 608;
 
     private static $valueToName = [
         self::Phi => 'Phi',
@@ -650,6 +658,7 @@ class OpKind
         self::Expr_ClassConstFetch => 'Expr_ClassConstFetch',
         self::Expr_Include => 'Expr_Include',
         self::Expr_YieldFrom => 'Expr_YieldFrom',
+        self::Expr_Eval => 'Expr_Eval',
         self::Expr_AssignOp_BitwiseAnd => 'Expr_AssignOp_BitwiseAnd',
         self::Expr_AssignOp_BitwiseOr => 'Expr_AssignOp_BitwiseOr',
         self::Expr_AssignOp_Comma => 'Expr_AssignOp_Comma',
@@ -729,6 +738,7 @@ class OpKind
         self::Terminal_StaticVar => 'Terminal_StaticVar',
         self::Terminal_Const => 'Terminal_Const',
         self::Terminal_Echo => 'Terminal_Echo',
+        self::Terminal_Unset => 'Terminal_Unset',
     ];
 
     public static function name($value)
