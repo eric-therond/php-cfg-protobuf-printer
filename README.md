@@ -18,3 +18,9 @@ Cli command to generate protobuf files:
 ```shell
 protoc --proto_path=./ --php_out=./lib/ ./lib/ProtobufPrinter/specs.proto
 ```
+
+### Testing
+
+```shell
+./vendor/bin/phpunit --display-warnings --fail-on-warning --stop-on-warning --display-deprecations
+```

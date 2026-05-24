@@ -20,7 +20,7 @@ echo match(10) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -58,7 +58,7 @@ echo match(10) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_MatchTable"
+                                            "string": "U3RtdF9NYXRjaFRhYmxl"
                                         }
                                     },
                                     "cond": {
@@ -122,7 +122,7 @@ echo match(10) {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -136,7 +136,7 @@ echo match(10) {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "foo"
+                                                    "string": "Zm9v"
                                                 }
                                             }
                                         }
@@ -160,7 +160,7 @@ echo match(10) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -198,7 +198,7 @@ echo match(10) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -221,7 +221,7 @@ echo match(10) {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -235,7 +235,7 @@ echo match(10) {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "bar"
+                                                    "string": "YmFy"
                                                 }
                                             }
                                         }
@@ -259,7 +259,7 @@ echo match(10) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -297,7 +297,7 @@ echo match(10) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -323,7 +323,7 @@ echo match(10) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -361,14 +361,14 @@ echo match(10) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Concat"
+                                            "string": "RXhwcl9CaW5hcnlPcF9Db25jYXQ="
                                         }
                                     },
                                     "left": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "baz"
+                                                    "string": "YmF6"
                                                 }
                                             }
                                         }
@@ -377,7 +377,7 @@ echo match(10) {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "buz"
+                                                    "string": "YnV6"
                                                 }
                                             }
                                         }
@@ -401,7 +401,7 @@ echo match(10) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -439,7 +439,7 @@ echo match(10) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -457,12 +457,11 @@ echo match(10) {
                 {
                     "ops": [
                         {
-                            "kind": "Phi",
                             "label": {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Phi"
+                                            "string": "UGhp"
                                         }
                                     },
                                     "vars": {
@@ -511,7 +510,7 @@ echo match(10) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -549,7 +548,7 @@ echo match(10) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
@@ -568,7 +567,7 @@ echo match(10) {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

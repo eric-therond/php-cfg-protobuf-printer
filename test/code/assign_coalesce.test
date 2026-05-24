@@ -17,7 +17,7 @@ $x ??= a();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -55,14 +55,14 @@ $x ??= a();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "a"
+                                                    "string": "YQ=="
                                                 }
                                             }
                                         }
@@ -89,7 +89,7 @@ $x ??= a();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -127,7 +127,7 @@ $x ??= a();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_Coalesce"
+                                            "string": "RXhwcl9CaW5hcnlPcF9Db2FsZXNjZQ=="
                                         }
                                     },
                                     "left": {
@@ -167,7 +167,7 @@ $x ??= a();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -205,7 +205,7 @@ $x ??= a();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -242,7 +242,7 @@ $x ??= a();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

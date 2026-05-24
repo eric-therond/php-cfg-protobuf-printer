@@ -44,7 +44,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -91,7 +91,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -135,7 +135,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -175,7 +175,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "NameOfAttribute"
+                                                                                        "string": "TmFtZU9mQXR0cmlidXRl"
                                                                                     }
                                                                                 }
                                                                             }
@@ -191,12 +191,12 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NameOfClass1"
+                                            "string": "TmFtZU9mQ2xhc3Mx"
                                         }
                                     },
                                     "implements": {
@@ -217,7 +217,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -264,7 +264,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -308,7 +308,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -348,7 +348,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "ExampleAttribute"
+                                                                                        "string": "RXhhbXBsZUF0dHJpYnV0ZQ=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -360,7 +360,7 @@ class NameOfClass6 {
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "foo"
+                                                                                                    "string": "Zm9v"
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -369,7 +369,7 @@ class NameOfClass6 {
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "bar"
+                                                                                                    "string": "YmFy"
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -388,12 +388,12 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NameOfClass2"
+                                            "string": "TmFtZU9mQ2xhc3My"
                                         }
                                     },
                                     "implements": {
@@ -414,7 +414,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -461,7 +461,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -505,7 +505,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -545,7 +545,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "Attr"
+                                                                                        "string": "QXR0cg=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -564,7 +564,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -608,7 +608,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -648,7 +648,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "FooAttr"
+                                                                                        "string": "Rm9vQXR0cg=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -664,12 +664,12 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NameOfClass3"
+                                            "string": "TmFtZU9mQ2xhc3Mz"
                                         }
                                     },
                                     "implements": {
@@ -690,7 +690,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -737,7 +737,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -781,7 +781,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -821,7 +821,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "Attr"
+                                                                                        "string": "QXR0cg=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -837,7 +837,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -877,7 +877,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "FooAttr"
+                                                                                        "string": "Rm9vQXR0cg=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -893,12 +893,12 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NameOfClass4"
+                                            "string": "TmFtZU9mQ2xhc3M0"
                                         }
                                     },
                                     "implements": {
@@ -919,7 +919,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -957,14 +957,14 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ClassConstFetch"
+                                            "string": "RXhwcl9DbGFzc0NvbnN0RmV0Y2g="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Attribute"
+                                                    "string": "QXR0cmlidXRl"
                                                 }
                                             }
                                         }
@@ -973,7 +973,7 @@ class NameOfClass6 {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "TARGET_CLASS"
+                                                    "string": "VEFSR0VUX0NMQVNT"
                                                 }
                                             }
                                         }
@@ -997,7 +997,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1035,14 +1035,14 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ClassConstFetch"
+                                            "string": "RXhwcl9DbGFzc0NvbnN0RmV0Y2g="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Attribute"
+                                                    "string": "QXR0cmlidXRl"
                                                 }
                                             }
                                         }
@@ -1051,7 +1051,7 @@ class NameOfClass6 {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "TARGET_METHOD"
+                                                    "string": "VEFSR0VUX01FVEhPRA=="
                                                 }
                                             }
                                         }
@@ -1075,7 +1075,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1113,7 +1113,7 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BinaryOp_BitwiseOr"
+                                            "string": "RXhwcl9CaW5hcnlPcF9CaXR3aXNlT3I="
                                         }
                                     },
                                     "left": {
@@ -1149,7 +1149,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1196,7 +1196,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -1240,7 +1240,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -1280,7 +1280,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "Attribute"
+                                                                                        "string": "QXR0cmlidXRl"
                                                                                     }
                                                                                 }
                                                                             }
@@ -1309,12 +1309,12 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NameOfClass5"
+                                            "string": "TmFtZU9mQ2xhc3M1"
                                         }
                                     },
                                     "implements": {
@@ -1335,7 +1335,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1382,7 +1382,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -1426,7 +1426,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -1466,7 +1466,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "ConstAttr"
+                                                                                        "string": "Q29uc3RBdHRy"
                                                                                     }
                                                                                 }
                                                                             }
@@ -1485,7 +1485,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -1529,7 +1529,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -1569,7 +1569,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "FooAttribute"
+                                                                                        "string": "Rm9vQXR0cmlidXRl"
                                                                                     }
                                                                                 }
                                                                             }
@@ -1596,12 +1596,12 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NameOfClass6"
+                                            "string": "TmFtZU9mQ2xhc3M2"
                                         }
                                     },
                                     "implements": {
@@ -1619,7 +1619,7 @@ class NameOfClass6 {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -1639,7 +1639,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1686,7 +1686,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -1730,7 +1730,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -1770,7 +1770,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "ExampleAttributeMethod"
+                                                                                        "string": "RXhhbXBsZUF0dHJpYnV0ZU1ldGhvZA=="
                                                                                     }
                                                                                 }
                                                                             }
@@ -1782,7 +1782,7 @@ class NameOfClass6 {
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "foo"
+                                                                                                    "string": "Zm9v"
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -1791,7 +1791,7 @@ class NameOfClass6 {
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "bar"
+                                                                                                    "string": "YmFy"
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -1810,17 +1810,17 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method1"
+                                            "string": "bWV0aG9kMQ=="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "private"
+                                            "string": "cHJpdmF0ZQ=="
                                         }
                                     }
                                 }
@@ -1861,7 +1861,7 @@ class NameOfClass6 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -1908,7 +1908,7 @@ class NameOfClass6 {
                                                                     "value": {
                                                                         "filename": {
                                                                             "scalar": {
-                                                                                "string": "foo.php"
+                                                                                "string": "Zm9vLnBocA=="
                                                                             }
                                                                         },
                                                                         "startLine": {
@@ -1952,7 +1952,7 @@ class NameOfClass6 {
                                                                                 "value": {
                                                                                     "filename": {
                                                                                         "scalar": {
-                                                                                            "string": "foo.php"
+                                                                                            "string": "Zm9vLnBocA=="
                                                                                         }
                                                                                     },
                                                                                     "startLine": {
@@ -1992,7 +1992,7 @@ class NameOfClass6 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "FooParamAttrib"
+                                                                                        "string": "Rm9vUGFyYW1BdHRyaWI="
                                                                                     }
                                                                                 }
                                                                             }
@@ -2004,7 +2004,7 @@ class NameOfClass6 {
                                                                                         "operand": {
                                                                                             "literal": {
                                                                                                 "value": {
-                                                                                                    "string": "Foo1"
+                                                                                                    "string": "Rm9vMQ=="
                                                                                                 }
                                                                                             }
                                                                                         }
@@ -2023,19 +2023,19 @@ class NameOfClass6 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Param"
+                                            "string": "RXhwcl9QYXJhbQ=="
                                         }
                                     },
                                     "declaredType": {
                                         "scalar": {
-                                            "string": "mixed"
+                                            "string": "bWl4ZWQ="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "foo"
+                                                    "string": "Zm9v"
                                                 }
                                             }
                                         }
@@ -2060,7 +2060,7 @@ class NameOfClass6 {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

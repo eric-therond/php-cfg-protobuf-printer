@@ -27,7 +27,7 @@ switch ($i) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -65,7 +65,7 @@ switch ($i) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Switch"
+                                            "string": "U3RtdF9Td2l0Y2g="
                                         }
                                     },
                                     "cond": {
@@ -145,7 +145,7 @@ switch ($i) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -185,7 +185,7 @@ switch ($i) {
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"0 <= i <= 2\""
+                                                        "string": "IjAgPD0gaSA8PSAyIg=="
                                                     }
                                                 }
                                             }
@@ -193,14 +193,14 @@ switch ($i) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "0 <= i <= 2"
+                                                    "string": "MCA8PSBpIDw9IDI="
                                                 }
                                             }
                                         }
@@ -217,7 +217,7 @@ switch ($i) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -255,7 +255,7 @@ switch ($i) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -281,7 +281,7 @@ switch ($i) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -321,7 +321,7 @@ switch ($i) {
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"i == 3\""
+                                                        "string": "ImkgPT0gMyI="
                                                     }
                                                 }
                                             }
@@ -329,14 +329,14 @@ switch ($i) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "i == 3"
+                                                    "string": "aSA9PSAz"
                                                 }
                                             }
                                         }
@@ -353,7 +353,7 @@ switch ($i) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -391,7 +391,7 @@ switch ($i) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -417,7 +417,7 @@ switch ($i) {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -457,7 +457,7 @@ switch ($i) {
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"i < 0 || i > 3\""
+                                                        "string": "ImkgPCAwIHx8IGkgPiAzIg=="
                                                     }
                                                 }
                                             }
@@ -465,14 +465,14 @@ switch ($i) {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "i < 0 || i > 3"
+                                                    "string": "aSA8IDAgfHwgaSA+IDM="
                                                 }
                                             }
                                         }
@@ -486,7 +486,7 @@ switch ($i) {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -509,7 +509,7 @@ switch ($i) {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

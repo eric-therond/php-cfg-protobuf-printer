@@ -28,7 +28,7 @@ class MyClass2 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -69,12 +69,12 @@ class MyClass2 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Trait"
+                                            "string": "U3RtdF9UcmFpdA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "HelloWorld"
+                                            "string": "SGVsbG9Xb3JsZA=="
                                         }
                                     }
                                 }
@@ -92,7 +92,7 @@ class MyClass2 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -133,12 +133,12 @@ class MyClass2 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "MyClass1"
+                                            "string": "TXlDbGFzczE="
                                         }
                                     },
                                     "implements": {
@@ -159,7 +159,7 @@ class MyClass2 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -200,12 +200,12 @@ class MyClass2 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "MyClass2"
+                                            "string": "TXlDbGFzczI="
                                         }
                                     },
                                     "implements": {
@@ -223,7 +223,7 @@ class MyClass2 {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -243,7 +243,7 @@ class MyClass2 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -284,17 +284,17 @@ class MyClass2 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "sayHello"
+                                            "string": "c2F5SGVsbG8="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "public"
+                                            "string": "cHVibGlj"
                                         }
                                     }
                                 }
@@ -314,7 +314,7 @@ class MyClass2 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -352,7 +352,7 @@ class MyClass2 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_TraitUse"
+                                            "string": "U3RtdF9UcmFpdFVzZQ=="
                                         }
                                     },
                                     "use": {
@@ -362,7 +362,7 @@ class MyClass2 {
                                                     "operand": {
                                                         "literal": {
                                                             "value": {
-                                                                "string": "\\HelloWorld"
+                                                                "string": "XEhlbGxvV29ybGQ="
                                                             }
                                                         }
                                                     }
@@ -383,14 +383,14 @@ class MyClass2 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "sayHello"
+                                                                                        "string": "c2F5SGVsbG8="
                                                                                     }
                                                                                 }
                                                                             }
                                                                         },
                                                                         "newModifier": {
                                                                             "scalar": {
-                                                                                "string": "protected"
+                                                                                "string": "cHJvdGVjdGVk"
                                                                             }
                                                                         }
                                                                     }
@@ -419,7 +419,7 @@ class MyClass2 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -457,7 +457,7 @@ class MyClass2 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_TraitUse"
+                                            "string": "U3RtdF9UcmFpdFVzZQ=="
                                         }
                                     },
                                     "use": {
@@ -467,7 +467,7 @@ class MyClass2 {
                                                     "operand": {
                                                         "literal": {
                                                             "value": {
-                                                                "string": "\\HelloWorld"
+                                                                "string": "XEhlbGxvV29ybGQ="
                                                             }
                                                         }
                                                     }
@@ -488,7 +488,7 @@ class MyClass2 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "sayHello"
+                                                                                        "string": "c2F5SGVsbG8="
                                                                                     }
                                                                                 }
                                                                             }
@@ -497,14 +497,14 @@ class MyClass2 {
                                                                             "operand": {
                                                                                 "literal": {
                                                                                     "value": {
-                                                                                        "string": "myPrivateHello"
+                                                                                        "string": "bXlQcml2YXRlSGVsbG8="
                                                                                     }
                                                                                 }
                                                                             }
                                                                         },
                                                                         "newModifier": {
                                                                             "scalar": {
-                                                                                "string": "private"
+                                                                                "string": "cHJpdmF0ZQ=="
                                                                             }
                                                                         }
                                                                     }
@@ -539,7 +539,7 @@ class MyClass2 {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -579,7 +579,7 @@ class MyClass2 {
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "'Hello World!'"
+                                                        "string": "J0hlbGxvIFdvcmxkISc="
                                                     }
                                                 }
                                             }
@@ -587,14 +587,14 @@ class MyClass2 {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Hello World!"
+                                                    "string": "SGVsbG8gV29ybGQh"
                                                 }
                                             }
                                         }
@@ -608,7 +608,7 @@ class MyClass2 {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

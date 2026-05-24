@@ -20,7 +20,7 @@ $d = "aaaa'')";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -58,7 +58,7 @@ $d = "aaaa'')";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -76,7 +76,7 @@ $d = "aaaa'')";
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "aaaa"
+                                                    "string": "YWFhYQ=="
                                                 }
                                             }
                                         }
@@ -100,7 +100,7 @@ $d = "aaaa'')";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -138,7 +138,7 @@ $d = "aaaa'')";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -156,7 +156,7 @@ $d = "aaaa'')";
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "aaaa')eeee"
+                                                    "string": "YWFhYScpZWVlZQ=="
                                                 }
                                             }
                                         }
@@ -180,7 +180,7 @@ $d = "aaaa'')";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -218,7 +218,7 @@ $d = "aaaa'')";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -236,7 +236,7 @@ $d = "aaaa'')";
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "aaaa')"
+                                                    "string": "YWFhYScp"
                                                 }
                                             }
                                         }
@@ -260,7 +260,7 @@ $d = "aaaa'')";
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -298,7 +298,7 @@ $d = "aaaa'')";
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -316,7 +316,7 @@ $d = "aaaa'')";
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "aaaa'')"
+                                                    "string": "YWFhYScnKQ=="
                                                 }
                                             }
                                         }
@@ -337,7 +337,7 @@ $d = "aaaa'')";
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

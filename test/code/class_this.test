@@ -21,7 +21,7 @@ class NameOfClass {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -62,12 +62,12 @@ class NameOfClass {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Class"
+                                            "string": "U3RtdF9DbGFzcw=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "NameOfClass"
+                                            "string": "TmFtZU9mQ2xhc3M="
                                         }
                                     },
                                     "implements": {
@@ -85,7 +85,7 @@ class NameOfClass {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -105,7 +105,7 @@ class NameOfClass {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -146,17 +146,17 @@ class NameOfClass {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "doSomething"
+                                            "string": "ZG9Tb21ldGhpbmc="
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "public"
+                                            "string": "cHVibGlj"
                                         }
                                     }
                                 }
@@ -182,7 +182,7 @@ class NameOfClass {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -220,7 +220,7 @@ class NameOfClass {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_MethodCall"
+                                            "string": "RXhwcl9NZXRob2RDYWxs"
                                         }
                                     },
                                     "var": {
@@ -236,7 +236,7 @@ class NameOfClass {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "hello"
+                                                    "string": "aGVsbG8="
                                                 }
                                             }
                                         }
@@ -263,7 +263,7 @@ class NameOfClass {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -301,7 +301,7 @@ class NameOfClass {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
@@ -320,7 +320,7 @@ class NameOfClass {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

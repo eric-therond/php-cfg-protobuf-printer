@@ -23,7 +23,7 @@ try {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -61,7 +61,7 @@ try {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Try"
+                                            "string": "U3RtdF9Ucnk="
                                         }
                                     },
                                     "catchTypes": {
@@ -69,12 +69,12 @@ try {
                                             "value": {
                                                 "0": {
                                                     "scalar": {
-                                                        "string": "MyException|MyOtherException"
+                                                        "string": "TXlFeGNlcHRpb258TXlPdGhlckV4Y2VwdGlvbg=="
                                                     }
                                                 },
                                                 "1": {
                                                     "scalar": {
-                                                        "string": "MyException2"
+                                                        "string": "TXlFeGNlcHRpb24y"
                                                     }
                                                 }
                                             }
@@ -125,7 +125,7 @@ try {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -163,14 +163,14 @@ try {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_New"
+                                            "string": "RXhwcl9OZXc="
                                         }
                                     },
                                     "class": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "MyException"
+                                                    "string": "TXlFeGNlcHRpb24="
                                                 }
                                             }
                                         }
@@ -197,7 +197,7 @@ try {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -235,7 +235,7 @@ try {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Throw"
+                                            "string": "VGVybWluYWxfVGhyb3c="
                                         }
                                     },
                                     "expr": {
@@ -287,7 +287,7 @@ try {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -325,14 +325,14 @@ try {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "get_class"
+                                                    "string": "Z2V0X2NsYXNz"
                                                 }
                                             }
                                         }
@@ -373,7 +373,7 @@ try {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -411,14 +411,14 @@ try {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -452,7 +452,7 @@ try {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -478,7 +478,7 @@ try {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -518,7 +518,7 @@ try {
                                                 },
                                                 "rawValue": {
                                                     "scalar": {
-                                                        "string": "\"MyException2\""
+                                                        "string": "Ik15RXhjZXB0aW9uMiI="
                                                     }
                                                 }
                                             }
@@ -526,14 +526,14 @@ try {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "MyException2"
+                                                    "string": "TXlFeGNlcHRpb24y"
                                                 }
                                             }
                                         }
@@ -547,7 +547,7 @@ try {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -570,7 +570,7 @@ try {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

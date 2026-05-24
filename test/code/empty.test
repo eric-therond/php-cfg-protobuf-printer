@@ -18,7 +18,7 @@ var_dump(empty($a['b']));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -56,7 +56,7 @@ var_dump(empty($a['b']));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Empty"
+                                            "string": "RXhwcl9FbXB0eQ=="
                                         }
                                     },
                                     "expr": {
@@ -89,7 +89,7 @@ var_dump(empty($a['b']));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -127,14 +127,14 @@ var_dump(empty($a['b']));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -171,7 +171,7 @@ var_dump(empty($a['b']));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -209,7 +209,7 @@ var_dump(empty($a['b']));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ArrayDimFetch"
+                                            "string": "RXhwcl9BcnJheURpbUZldGNo"
                                         }
                                     },
                                     "var": {
@@ -227,7 +227,7 @@ var_dump(empty($a['b']));
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "b"
+                                                    "string": "Yg=="
                                                 }
                                             }
                                         }
@@ -251,7 +251,7 @@ var_dump(empty($a['b']));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -289,7 +289,7 @@ var_dump(empty($a['b']));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Empty"
+                                            "string": "RXhwcl9FbXB0eQ=="
                                         }
                                     },
                                     "expr": {
@@ -318,7 +318,7 @@ var_dump(empty($a['b']));
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -356,14 +356,14 @@ var_dump(empty($a['b']));
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -397,7 +397,7 @@ var_dump(empty($a['b']));
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

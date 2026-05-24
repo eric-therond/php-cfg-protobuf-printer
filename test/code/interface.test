@@ -19,7 +19,7 @@ interface Test {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -60,12 +60,12 @@ interface Test {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Interface"
+                                            "string": "U3RtdF9JbnRlcmZhY2U="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "Test"
+                                            "string": "VGVzdA=="
                                         }
                                     },
                                     "extends": {
@@ -83,7 +83,7 @@ interface Test {
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
@@ -103,7 +103,7 @@ interface Test {
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -144,17 +144,17 @@ interface Test {
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_ClassMethod"
+                                            "string": "U3RtdF9DbGFzc01ldGhvZA=="
                                         }
                                     },
                                     "name": {
                                         "scalar": {
-                                            "string": "method"
+                                            "string": "bWV0aG9k"
                                         }
                                     },
                                     "flags": {
                                         "scalar": {
-                                            "string": "public"
+                                            "string": "cHVibGlj"
                                         }
                                     }
                                 }

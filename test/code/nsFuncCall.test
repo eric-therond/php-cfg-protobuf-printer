@@ -18,7 +18,7 @@ call();
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -56,14 +56,14 @@ call();
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_NsFuncCall"
+                                            "string": "RXhwcl9Oc0Z1bmNDYWxs"
                                         }
                                     },
                                     "nsName": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Foo\\call"
+                                                    "string": "Rm9vXGNhbGw="
                                                 }
                                             }
                                         }
@@ -72,7 +72,7 @@ call();
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "call"
+                                                    "string": "Y2FsbA=="
                                                 }
                                             }
                                         }
@@ -96,7 +96,7 @@ call();
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

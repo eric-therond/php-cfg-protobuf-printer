@@ -19,7 +19,7 @@ $c = ~3;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -57,7 +57,7 @@ $c = ~3;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_UnaryPlus"
+                                            "string": "RXhwcl9VbmFyeVBsdXM="
                                         }
                                     },
                                     "expr": {
@@ -88,7 +88,7 @@ $c = ~3;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -126,7 +126,7 @@ $c = ~3;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -166,7 +166,7 @@ $c = ~3;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -204,7 +204,7 @@ $c = ~3;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_UnaryMinus"
+                                            "string": "RXhwcl9VbmFyeU1pbnVz"
                                         }
                                     },
                                     "expr": {
@@ -235,7 +235,7 @@ $c = ~3;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -273,7 +273,7 @@ $c = ~3;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -313,7 +313,7 @@ $c = ~3;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -351,7 +351,7 @@ $c = ~3;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_BitwiseNot"
+                                            "string": "RXhwcl9CaXR3aXNlTm90"
                                         }
                                     },
                                     "expr": {
@@ -382,7 +382,7 @@ $c = ~3;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -420,7 +420,7 @@ $c = ~3;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -457,7 +457,7 @@ $c = ~3;
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

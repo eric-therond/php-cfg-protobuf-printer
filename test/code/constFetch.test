@@ -22,7 +22,7 @@ namespace Foo;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -60,14 +60,14 @@ namespace Foo;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ConstFetch"
+                                            "string": "RXhwcl9Db25zdEZldGNo"
                                         }
                                     },
                                     "nsName": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "Foo\\BAR"
+                                                    "string": "Rm9vXEJBUg=="
                                                 }
                                             }
                                         }
@@ -76,7 +76,7 @@ namespace Foo;
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "BAR"
+                                                    "string": "QkFS"
                                                 }
                                             }
                                         }
@@ -100,7 +100,7 @@ namespace Foo;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -138,14 +138,14 @@ namespace Foo;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -182,7 +182,7 @@ namespace Foo;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -220,14 +220,14 @@ namespace Foo;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -266,7 +266,7 @@ namespace Foo;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -304,14 +304,14 @@ namespace Foo;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -350,7 +350,7 @@ namespace Foo;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -388,14 +388,14 @@ namespace Foo;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "var_dump"
+                                                    "string": "dmFyX2R1bXA="
                                                 }
                                             }
                                         }
@@ -427,7 +427,7 @@ namespace Foo;
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

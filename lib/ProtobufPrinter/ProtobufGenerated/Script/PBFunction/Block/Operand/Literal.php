@@ -15,11 +15,7 @@ use Google\Protobuf\RepeatedField;
 class Literal extends \Google\Protobuf\Internal\Message
 {
     /**
-     * Generated from protobuf field <code>string type = 1;</code>
-     */
-    protected $type = '';
-    /**
-     * Generated from protobuf field <code>.protos.Scalar value = 2;</code>
+     * Generated from protobuf field <code>.protos.Scalar value = 1;</code>
      */
     protected $value = null;
 
@@ -29,7 +25,6 @@ class Literal extends \Google\Protobuf\Internal\Message
      * @param array $data {
      *     Optional. Data for populating the Message object.
      *
-     *     @type string $type
      *     @type \ProtobufPrinter\ProtobufGenerated\Scalar $value
      * }
      */
@@ -39,29 +34,7 @@ class Literal extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>string type = 1;</code>
-     * @return string
-     */
-    public function getType()
-    {
-        return $this->type;
-    }
-
-    /**
-     * Generated from protobuf field <code>string type = 1;</code>
-     * @param string $var
-     * @return $this
-     */
-    public function setType(string $var)
-    {
-        GPBUtil::checkString($var, true);
-        $this->type = $var;
-
-        return $this;
-    }
-
-    /**
-     * Generated from protobuf field <code>.protos.Scalar value = 2;</code>
+     * Generated from protobuf field <code>.protos.Scalar value = 1;</code>
      * @return \ProtobufPrinter\ProtobufGenerated\Scalar|null
      */
     public function getValue()
@@ -80,7 +53,7 @@ class Literal extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.Scalar value = 2;</code>
+     * Generated from protobuf field <code>.protos.Scalar value = 1;</code>
      * @param \ProtobufPrinter\ProtobufGenerated\Scalar $var
      * @return $this
      */

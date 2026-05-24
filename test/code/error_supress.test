@@ -20,7 +20,7 @@ echo $dbname;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -58,7 +58,7 @@ echo $dbname;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Assign"
+                                            "string": "RXhwcl9Bc3NpZ24="
                                         }
                                     },
                                     "var": {
@@ -76,7 +76,7 @@ echo $dbname;
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "database name"
+                                                    "string": "ZGF0YWJhc2UgbmFtZQ=="
                                                 }
                                             }
                                         }
@@ -100,7 +100,7 @@ echo $dbname;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -138,7 +138,7 @@ echo $dbname;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Stmt_Jump"
+                                            "string": "U3RtdF9KdW1w"
                                         }
                                     }
                                 }
@@ -161,7 +161,7 @@ echo $dbname;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -199,14 +199,14 @@ echo $dbname;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_Print"
+                                            "string": "RXhwcl9QcmludA=="
                                         }
                                     },
                                     "expr": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "hostname"
+                                                    "string": "aG9zdG5hbWU="
                                                 }
                                             }
                                         }
@@ -230,7 +230,7 @@ echo $dbname;
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -268,7 +268,7 @@ echo $dbname;
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Echo"
+                                            "string": "VGVybWluYWxfRWNobw=="
                                         }
                                     },
                                     "expr": {
@@ -291,7 +291,7 @@ echo $dbname;
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }

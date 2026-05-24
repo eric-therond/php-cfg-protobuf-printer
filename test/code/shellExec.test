@@ -17,7 +17,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -55,7 +55,7 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_ConcatList"
+                                            "string": "RXhwcl9Db25jYXRMaXN0"
                                         }
                                     },
                                     "list": {
@@ -65,7 +65,7 @@
                                                     "operand": {
                                                         "literal": {
                                                             "value": {
-                                                                "string": "ls "
+                                                                "string": "bHMg"
                                                             }
                                                         }
                                                     }
@@ -103,7 +103,7 @@
                                             "value": {
                                                 "filename": {
                                                     "scalar": {
-                                                        "string": "foo.php"
+                                                        "string": "Zm9vLnBocA=="
                                                     }
                                                 },
                                                 "startLine": {
@@ -141,14 +141,14 @@
                                     },
                                     "kind": {
                                         "scalar": {
-                                            "string": "Expr_FuncCall"
+                                            "string": "RXhwcl9GdW5jQ2FsbA=="
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
                                                 "value": {
-                                                    "string": "shell_exec"
+                                                    "string": "c2hlbGxfZXhlYw=="
                                                 }
                                             }
                                         }
@@ -182,7 +182,7 @@
                                 "value": {
                                     "kind": {
                                         "scalar": {
-                                            "string": "Terminal_Return"
+                                            "string": "VGVybWluYWxfUmV0dXJu"
                                         }
                                     }
                                 }
