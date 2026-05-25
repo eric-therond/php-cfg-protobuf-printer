@@ -164,9 +164,7 @@ try {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9CYXI="
-                                                }
+                                                "value": "ZG9CYXI="
                                             }
                                         }
                                     },
@@ -467,9 +465,7 @@ try {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZmluYWxseQ=="
-                                                }
+                                                "value": "ZmluYWxseQ=="
                                             }
                                         }
                                     }
@@ -543,9 +539,7 @@ try {
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "RXhjZXB0aW9u"
-                                                }
+                                                "value": "RXhjZXB0aW9u"
                                             }
                                         }
                                     },
@@ -555,9 +549,7 @@ try {
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "Zm9v"
-                                                            }
+                                                            "value": "Zm9v"
                                                         }
                                                     }
                                                 }
@@ -713,9 +705,7 @@ try {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9Gb28="
-                                                }
+                                                "value": "ZG9Gb28="
                                             }
                                         }
                                     },
@@ -875,9 +865,7 @@ try {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9GaQ=="
-                                                }
+                                                "value": "ZG9GaQ=="
                                             }
                                         }
                                     },
@@ -1029,9 +1017,7 @@ try {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9GaQ=="
-                                                }
+                                                "value": "ZG9GaQ=="
                                             }
                                         }
                                     },

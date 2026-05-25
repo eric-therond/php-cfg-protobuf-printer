@@ -75,9 +75,7 @@ $d = "aaaa'')";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YWFhYQ=="
-                                                }
+                                                "value": "YWFhYQ=="
                                             }
                                         }
                                     },
@@ -155,9 +153,7 @@ $d = "aaaa'')";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YWFhYScpZWVlZQ=="
-                                                }
+                                                "value": "YWFhYScpZWVlZQ=="
                                             }
                                         }
                                     },
@@ -235,9 +231,7 @@ $d = "aaaa'')";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YWFhYScp"
-                                                }
+                                                "value": "YWFhYScp"
                                             }
                                         }
                                     },
@@ -315,9 +309,7 @@ $d = "aaaa'')";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YWFhYScnKQ=="
-                                                }
+                                                "value": "YWFhYScnKQ=="
                                             }
                                         }
                                     },

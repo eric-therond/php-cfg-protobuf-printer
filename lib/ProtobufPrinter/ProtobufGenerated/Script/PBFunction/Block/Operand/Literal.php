@@ -15,9 +15,13 @@ use Google\Protobuf\RepeatedField;
 class Literal extends \Google\Protobuf\Internal\Message
 {
     /**
-     * Generated from protobuf field <code>.protos.Scalar value = 1;</code>
+     * Generated from protobuf field <code>.protos.ScalarType type = 1;</code>
      */
-    protected $value = null;
+    protected $type = 0;
+    /**
+     * Generated from protobuf field <code>bytes value = 2;</code>
+     */
+    protected $value = '';
 
     /**
      * Constructor.
@@ -25,7 +29,8 @@ class Literal extends \Google\Protobuf\Internal\Message
      * @param array $data {
      *     Optional. Data for populating the Message object.
      *
-     *     @type \ProtobufPrinter\ProtobufGenerated\Scalar $value
+     *     @type int $type
+     *     @type string $value
      * }
      */
     public function __construct($data = NULL) {
@@ -34,31 +39,44 @@ class Literal extends \Google\Protobuf\Internal\Message
     }
 
     /**
-     * Generated from protobuf field <code>.protos.Scalar value = 1;</code>
-     * @return \ProtobufPrinter\ProtobufGenerated\Scalar|null
+     * Generated from protobuf field <code>.protos.ScalarType type = 1;</code>
+     * @return int one of the values in {@see \ProtobufPrinter\ProtobufGenerated\ScalarType}
+     */
+    public function getType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * Generated from protobuf field <code>.protos.ScalarType type = 1;</code>
+     * @param int $var one of the values in {@see \ProtobufPrinter\ProtobufGenerated\ScalarType}
+     * @return $this
+     */
+    public function setType(int $var)
+    {
+        GPBUtil::checkEnum($var, \ProtobufPrinter\ProtobufGenerated\ScalarType::class);
+        $this->type = $var;
+
+        return $this;
+    }
+
+    /**
+     * Generated from protobuf field <code>bytes value = 2;</code>
+     * @return string
      */
     public function getValue()
     {
         return $this->value;
     }
 
-    public function hasValue()
-    {
-        return isset($this->value);
-    }
-
-    public function clearValue()
-    {
-        unset($this->value);
-    }
-
     /**
-     * Generated from protobuf field <code>.protos.Scalar value = 1;</code>
-     * @param \ProtobufPrinter\ProtobufGenerated\Scalar $var
+     * Generated from protobuf field <code>bytes value = 2;</code>
+     * @param string $var
      * @return $this
      */
-    public function setValue(\ProtobufPrinter\ProtobufGenerated\Scalar|null $var)
+    public function setValue(string $var)
     {
+        GPBUtil::checkString($var, false);
         $this->value = $var;
 
         return $this;

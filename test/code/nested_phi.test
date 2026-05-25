@@ -78,9 +78,8 @@ echo $a;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -176,27 +175,24 @@ echo $a;
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 1
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "MQ=="
                                                         }
                                                     }
                                                 },
                                                 "1": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 2
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "Mg=="
                                                         }
                                                     }
                                                 },
                                                 "2": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 3
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "Mw=="
                                                         }
                                                     }
                                                 }
@@ -734,9 +730,8 @@ echo $a;
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 0
-                                                }
+                                                "type": "Int",
+                                                "value": "MA=="
                                             }
                                         }
                                     },

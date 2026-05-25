@@ -149,9 +149,7 @@ echo "c";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     }
@@ -285,9 +283,7 @@ echo "c";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yg=="
-                                                }
+                                                "value": "Yg=="
                                             }
                                         }
                                     }
@@ -421,9 +417,7 @@ echo "c";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yw=="
-                                                }
+                                                "value": "Yw=="
                                             }
                                         }
                                     }

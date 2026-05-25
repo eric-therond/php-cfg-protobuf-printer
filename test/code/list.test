@@ -78,9 +78,8 @@ foreach ($a as list($b, $c));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 0
-                                                }
+                                                "type": "Int",
+                                                "value": "MA=="
                                             }
                                         }
                                     },
@@ -246,9 +245,8 @@ foreach ($a as list($b, $c));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 2
-                                                }
+                                                "type": "Int",
+                                                "value": "Mg=="
                                             }
                                         }
                                     },
@@ -414,9 +412,8 @@ foreach ($a as list($b, $c));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 3
-                                                }
+                                                "type": "Int",
+                                                "value": "Mw=="
                                             }
                                         }
                                     },
@@ -495,9 +492,8 @@ foreach ($a as list($b, $c));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 0
-                                                }
+                                                "type": "Int",
+                                                "value": "MA=="
                                             }
                                         }
                                     },
@@ -659,9 +655,8 @@ foreach ($a as list($b, $c));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -1163,9 +1158,8 @@ foreach ($a as list($b, $c));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 0
-                                                }
+                                                "type": "Int",
+                                                "value": "MA=="
                                             }
                                         }
                                     },
@@ -1327,9 +1321,8 @@ foreach ($a as list($b, $c));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },

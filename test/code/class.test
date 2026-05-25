@@ -246,9 +246,7 @@ $obj = new NameOfClass();
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "TlNcTmFtZU9mQ2xhc3M="
-                                                }
+                                                "value": "TlNcTmFtZU9mQ2xhc3M="
                                             }
                                         }
                                     },
@@ -899,9 +897,7 @@ $obj = new NameOfClass();
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "SGVsbG8gV29ybGQ="
-                                                }
+                                                "value": "SGVsbG8gV29ybGQ="
                                             }
                                         }
                                     }

@@ -147,9 +147,7 @@ echo $foo->{$arr}[1];
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YmFy"
-                                                }
+                                                "value": "YmFy"
                                             }
                                         }
                                     },
@@ -227,9 +225,7 @@ echo $foo->{$arr}[1];
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cGx1cw=="
-                                                }
+                                                "value": "cGx1cw=="
                                             }
                                         }
                                     },
@@ -448,9 +444,7 @@ echo $foo->{$arr}[1];
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YmFy"
-                                                }
+                                                "value": "YmFy"
                                             }
                                         }
                                     },
@@ -595,9 +589,7 @@ echo $foo->{$arr}[1];
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YmFy"
-                                                }
+                                                "value": "YmFy"
                                             }
                                         }
                                     },
@@ -1077,9 +1069,7 @@ echo $foo->{$arr}[1];
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yg=="
-                                                }
+                                                "value": "Yg=="
                                             }
                                         }
                                     },
@@ -1157,9 +1147,8 @@ echo $foo->{$arr}[1];
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -1595,9 +1584,8 @@ echo $foo->{$arr}[1];
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -1891,9 +1879,8 @@ echo $foo->{$arr}[1];
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },

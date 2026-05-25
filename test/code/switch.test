@@ -85,36 +85,32 @@ switch ($i) {
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 0
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "MA=="
                                                         }
                                                     }
                                                 },
                                                 "1": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 1
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "MQ=="
                                                         }
                                                     }
                                                 },
                                                 "2": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 2
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "Mg=="
                                                         }
                                                     }
                                                 },
                                                 "3": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 3
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "Mw=="
                                                         }
                                                     }
                                                 }
@@ -199,9 +195,7 @@ switch ($i) {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "MCA8PSBpIDw9IDI="
-                                                }
+                                                "value": "MCA8PSBpIDw9IDI="
                                             }
                                         }
                                     }
@@ -335,9 +329,7 @@ switch ($i) {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "aSA9PSAz"
-                                                }
+                                                "value": "aSA9PSAz"
                                             }
                                         }
                                     }
@@ -471,9 +463,7 @@ switch ($i) {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "aSA8IDAgfHwgaSA+IDM="
-                                                }
+                                                "value": "aSA8IDAgfHwgaSA+IDM="
                                             }
                                         }
                                     }

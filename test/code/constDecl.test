@@ -64,18 +64,15 @@ var_dump(A, C::D);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QQ=="
-                                                }
+                                                "value": "QQ=="
                                             }
                                         }
                                     },
                                     "value": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     }
@@ -138,9 +135,7 @@ var_dump(A, C::D);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Qg=="
-                                                }
+                                                "value": "Qg=="
                                             }
                                         }
                                     },
@@ -277,9 +272,7 @@ var_dump(A, C::D);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QQ=="
-                                                }
+                                                "value": "QQ=="
                                             }
                                         }
                                     },
@@ -346,18 +339,14 @@ var_dump(A, C::D);
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Qw=="
-                                                }
+                                                "value": "Qw=="
                                             }
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "RA=="
-                                                }
+                                                "value": "RA=="
                                             }
                                         }
                                     },
@@ -424,9 +413,7 @@ var_dump(A, C::D);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },
@@ -533,18 +520,16 @@ var_dump(A, C::D);
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 2
-                                                }
+                                                "type": "Int",
+                                                "value": "Mg=="
                                             }
                                         }
                                     },
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 2
-                                                }
+                                                "type": "Int",
+                                                "value": "Mg=="
                                             }
                                         }
                                     },
@@ -616,18 +601,15 @@ var_dump(A, C::D);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "RA=="
-                                                }
+                                                "value": "RA=="
                                             }
                                         }
                                     },
                                     "value": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 3
-                                                }
+                                                "type": "Int",
+                                                "value": "Mw=="
                                             }
                                         }
                                     }
@@ -690,9 +672,7 @@ var_dump(A, C::D);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "RQ=="
-                                                }
+                                                "value": "RQ=="
                                             }
                                         }
                                     },
@@ -770,18 +750,16 @@ var_dump(A, C::D);
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 4
-                                                }
+                                                "type": "Int",
+                                                "value": "NA=="
                                             }
                                         }
                                     },
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 4
-                                                }
+                                                "type": "Int",
+                                                "value": "NA=="
                                             }
                                         }
                                     },

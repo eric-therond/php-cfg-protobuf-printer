@@ -130,9 +130,7 @@ foreach ($generator as $value) {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Z2VuX29uZV90b190aHJlZQ=="
-                                                }
+                                                "value": "Z2VuX29uZV90b190aHJlZQ=="
                                             }
                                         }
                                     },
@@ -717,9 +715,7 @@ foreach ($generator as $value) {
                                                 "1": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "Cg=="
-                                                            }
+                                                            "value": "Cg=="
                                                         }
                                                     }
                                                 }
@@ -925,9 +921,8 @@ foreach ($generator as $value) {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -1116,9 +1111,8 @@ foreach ($generator as $value) {
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 3
-                                                }
+                                                "type": "Int",
+                                                "value": "Mw=="
                                             }
                                         }
                                     },
@@ -1394,9 +1388,8 @@ foreach ($generator as $value) {
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },

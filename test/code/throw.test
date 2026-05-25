@@ -55,9 +55,8 @@ throw new \InvalidArgumentException("foo");
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "bool": true
-                                                            }
+                                                            "type": "Bool",
+                                                            "value": "MQ=="
                                                         }
                                                     }
                                                 },
@@ -134,9 +133,7 @@ throw new \InvalidArgumentException("foo");
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "SW52YWxpZEFyZ3VtZW50RXhjZXB0aW9u"
-                                                }
+                                                "value": "SW52YWxpZEFyZ3VtZW50RXhjZXB0aW9u"
                                             }
                                         }
                                     },
@@ -146,9 +143,7 @@ throw new \InvalidArgumentException("foo");
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "Zm9v"
-                                                            }
+                                                            "value": "Zm9v"
                                                         }
                                                     }
                                                 }
@@ -286,9 +281,7 @@ throw new \InvalidArgumentException("foo");
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "RXhjZXB0aW9u"
-                                                }
+                                                "value": "RXhjZXB0aW9u"
                                             }
                                         }
                                     },
@@ -298,9 +291,7 @@ throw new \InvalidArgumentException("foo");
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "Zm9v"
-                                                            }
+                                                            "value": "Zm9v"
                                                         }
                                                     }
                                                 }

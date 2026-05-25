@@ -77,9 +77,8 @@
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 0
-                                                }
+                                                "type": "Int",
+                                                "value": "MA=="
                                             }
                                         }
                                     },
@@ -245,9 +244,8 @@
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -413,9 +411,8 @@
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 2
-                                                }
+                                                "type": "Int",
+                                                "value": "Mg=="
                                             }
                                         }
                                     },
@@ -494,9 +491,8 @@
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 0
-                                                }
+                                                "type": "Int",
+                                                "value": "MA=="
                                             }
                                         }
                                     },

@@ -241,9 +241,7 @@ if (isset($a, $b, $c)) {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QWxsIHNldAo="
-                                                }
+                                                "value": "QWxsIHNldAo="
                                             }
                                         }
                                     }

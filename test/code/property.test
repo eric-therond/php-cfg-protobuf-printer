@@ -172,18 +172,15 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJvcA=="
-                                                }
+                                                "value": "cHJvcA=="
                                             }
                                         }
                                     },
                                     "defaultVar": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     }
@@ -259,9 +256,7 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJvcDI="
-                                                }
+                                                "value": "cHJvcDI="
                                             }
                                         }
                                     },
@@ -344,9 +339,7 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJvcDM="
-                                                }
+                                                "value": "cHJvcDM="
                                             }
                                         }
                                     }
@@ -419,9 +412,7 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJvcDQ="
-                                                }
+                                                "value": "cHJvcDQ="
                                             }
                                         }
                                     }
@@ -494,9 +485,7 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJvcDU="
-                                                }
+                                                "value": "cHJvcDU="
                                             }
                                         }
                                     }
@@ -569,9 +558,7 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJvcDY="
-                                                }
+                                                "value": "cHJvcDY="
                                             }
                                         }
                                     }
@@ -644,9 +631,7 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJvcDc="
-                                                }
+                                                "value": "cHJvcDc="
                                             }
                                         }
                                     }
@@ -792,9 +777,7 @@ class A {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Q29uc3RBdHRy"
-                                                                                    }
+                                                                                    "value": "Q29uc3RBdHRy"
                                                                                 }
                                                                             }
                                                                         }
@@ -895,9 +878,7 @@ class A {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Rm9vQXR0cmlidXRl"
-                                                                                    }
+                                                                                    "value": "Rm9vQXR0cmlidXRl"
                                                                                 }
                                                                             }
                                                                         },
@@ -939,9 +920,7 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Zm9vNQ=="
-                                                }
+                                                "value": "Zm9vNQ=="
                                             }
                                         }
                                     }
@@ -1001,18 +980,14 @@ class A {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Rk9P"
-                                                }
+                                                "value": "Rk9P"
                                             }
                                         }
                                     },
                                     "value": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Zm9v"
-                                                }
+                                                "value": "Zm9v"
                                             }
                                         }
                                     }
@@ -1083,18 +1058,16 @@ class A {
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },

@@ -66,9 +66,8 @@ $a = (string) 12;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 12
-                                                }
+                                                "type": "Int",
+                                                "value": "MTI="
                                             }
                                         }
                                     },

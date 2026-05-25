@@ -62,18 +62,14 @@ call();
                                     "nsName": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Rm9vXGNhbGw="
-                                                }
+                                                "value": "Rm9vXGNhbGw="
                                             }
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Y2FsbA=="
-                                                }
+                                                "value": "Y2FsbA=="
                                             }
                                         }
                                     },

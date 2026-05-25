@@ -174,9 +174,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "TmFtZU9mQXR0cmlidXRl"
-                                                                                    }
+                                                                                    "value": "TmFtZU9mQXR0cmlidXRl"
                                                                                 }
                                                                             }
                                                                         }
@@ -347,9 +345,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "RXhhbXBsZUF0dHJpYnV0ZQ=="
-                                                                                    }
+                                                                                    "value": "RXhhbXBsZUF0dHJpYnV0ZQ=="
                                                                                 }
                                                                             }
                                                                         },
@@ -359,18 +355,14 @@ class NameOfClass6 {
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "Zm9v"
-                                                                                                }
+                                                                                                "value": "Zm9v"
                                                                                             }
                                                                                         }
                                                                                     },
                                                                                     "1": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "YmFy"
-                                                                                                }
+                                                                                                "value": "YmFy"
                                                                                             }
                                                                                         }
                                                                                     }
@@ -544,9 +536,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "QXR0cg=="
-                                                                                    }
+                                                                                    "value": "QXR0cg=="
                                                                                 }
                                                                             }
                                                                         }
@@ -647,9 +637,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Rm9vQXR0cg=="
-                                                                                    }
+                                                                                    "value": "Rm9vQXR0cg=="
                                                                                 }
                                                                             }
                                                                         }
@@ -820,9 +808,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "QXR0cg=="
-                                                                                    }
+                                                                                    "value": "QXR0cg=="
                                                                                 }
                                                                             }
                                                                         }
@@ -876,9 +862,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Rm9vQXR0cg=="
-                                                                                    }
+                                                                                    "value": "Rm9vQXR0cg=="
                                                                                 }
                                                                             }
                                                                         }
@@ -963,18 +947,14 @@ class NameOfClass6 {
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QXR0cmlidXRl"
-                                                }
+                                                "value": "QXR0cmlidXRl"
                                             }
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "VEFSR0VUX0NMQVNT"
-                                                }
+                                                "value": "VEFSR0VUX0NMQVNT"
                                             }
                                         }
                                     },
@@ -1041,18 +1021,14 @@ class NameOfClass6 {
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QXR0cmlidXRl"
-                                                }
+                                                "value": "QXR0cmlidXRl"
                                             }
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "VEFSR0VUX01FVEhPRA=="
-                                                }
+                                                "value": "VEFSR0VUX01FVEhPRA=="
                                             }
                                         }
                                     },
@@ -1279,9 +1255,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "QXR0cmlidXRl"
-                                                                                    }
+                                                                                    "value": "QXR0cmlidXRl"
                                                                                 }
                                                                             }
                                                                         },
@@ -1465,9 +1439,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Q29uc3RBdHRy"
-                                                                                    }
+                                                                                    "value": "Q29uc3RBdHRy"
                                                                                 }
                                                                             }
                                                                         }
@@ -1568,9 +1540,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Rm9vQXR0cmlidXRl"
-                                                                                    }
+                                                                                    "value": "Rm9vQXR0cmlidXRl"
                                                                                 }
                                                                             }
                                                                         },
@@ -1769,9 +1739,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "RXhhbXBsZUF0dHJpYnV0ZU1ldGhvZA=="
-                                                                                    }
+                                                                                    "value": "RXhhbXBsZUF0dHJpYnV0ZU1ldGhvZA=="
                                                                                 }
                                                                             }
                                                                         },
@@ -1781,18 +1749,14 @@ class NameOfClass6 {
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "Zm9v"
-                                                                                                }
+                                                                                                "value": "Zm9v"
                                                                                             }
                                                                                         }
                                                                                     },
                                                                                     "1": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "YmFy"
-                                                                                                }
+                                                                                                "value": "YmFy"
                                                                                             }
                                                                                         }
                                                                                     }
@@ -1991,9 +1955,7 @@ class NameOfClass6 {
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Rm9vUGFyYW1BdHRyaWI="
-                                                                                    }
+                                                                                    "value": "Rm9vUGFyYW1BdHRyaWI="
                                                                                 }
                                                                             }
                                                                         },
@@ -2003,9 +1965,7 @@ class NameOfClass6 {
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "Rm9vMQ=="
-                                                                                                }
+                                                                                                "value": "Rm9vMQ=="
                                                                                             }
                                                                                         }
                                                                                     }
@@ -2034,9 +1994,7 @@ class NameOfClass6 {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Zm9v"
-                                                }
+                                                "value": "Zm9v"
                                             }
                                         }
                                     },

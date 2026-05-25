@@ -151,9 +151,7 @@ echo "d";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     }
@@ -363,9 +361,7 @@ echo "d";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZA=="
-                                                }
+                                                "value": "ZA=="
                                             }
                                         }
                                     }
@@ -457,9 +453,7 @@ echo "d";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yg=="
-                                                }
+                                                "value": "Yg=="
                                             }
                                         }
                                     }
@@ -593,9 +587,7 @@ echo "d";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yw=="
-                                                }
+                                                "value": "Yw=="
                                             }
                                         }
                                     }

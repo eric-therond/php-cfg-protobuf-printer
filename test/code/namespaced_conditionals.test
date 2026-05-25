@@ -71,9 +71,8 @@ namespace Bar {
                                     "cond": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "bool": true
-                                                }
+                                                "type": "Bool",
+                                                "value": "MQ=="
                                             }
                                         }
                                     }
@@ -152,9 +151,7 @@ namespace Bar {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Zm9v"
-                                                }
+                                                "value": "Zm9v"
                                             }
                                         }
                                     }
@@ -278,9 +275,7 @@ namespace Bar {
                                     "cond": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "bool": false
-                                                }
+                                                "type": "Bool"
                                             }
                                         }
                                     }
@@ -363,9 +358,7 @@ namespace Bar {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YmFy"
-                                                }
+                                                "value": "YmFy"
                                             }
                                         }
                                     }
