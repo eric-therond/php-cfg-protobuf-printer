@@ -78,9 +78,7 @@ echo "a";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     }
@@ -151,9 +149,8 @@ echo "a";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },

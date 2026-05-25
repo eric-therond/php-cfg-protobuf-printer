@@ -154,9 +154,7 @@ function foo(string $a): string {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     },

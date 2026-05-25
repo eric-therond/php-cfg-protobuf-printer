@@ -154,9 +154,7 @@ function foo(array|string|null $string) {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "c3RyaW5n"
-                                                }
+                                                "value": "c3RyaW5n"
                                             }
                                         }
                                     },

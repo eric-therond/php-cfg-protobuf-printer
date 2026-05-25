@@ -63,9 +63,8 @@ $c = ~3;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -210,9 +209,8 @@ $c = ~3;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 2
-                                                }
+                                                "type": "Int",
+                                                "value": "Mg=="
                                             }
                                         }
                                     },
@@ -357,9 +355,8 @@ $c = ~3;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 3
-                                                }
+                                                "type": "Int",
+                                                "value": "Mw=="
                                             }
                                         }
                                     },

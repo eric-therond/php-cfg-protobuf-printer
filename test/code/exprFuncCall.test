@@ -73,9 +73,7 @@ $a("some string");
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "cHJpbnRfcg=="
-                                                }
+                                                "value": "cHJpbnRfcg=="
                                             }
                                         }
                                     },
@@ -156,9 +154,7 @@ $a("some string");
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "c29tZSBzdHJpbmc="
-                                                            }
+                                                            "value": "c29tZSBzdHJpbmc="
                                                         }
                                                     }
                                                 }

@@ -226,9 +226,8 @@ function gen_zero_four() {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -417,9 +416,8 @@ function gen_zero_four() {
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 3
-                                                }
+                                                "type": "Int",
+                                                "value": "Mw=="
                                             }
                                         }
                                     },
@@ -695,9 +693,8 @@ function gen_zero_four() {
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -912,9 +909,8 @@ function gen_zero_four() {
                                     "key": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 0
-                                                }
+                                                "type": "Int",
+                                                "value": "MA=="
                                             }
                                         }
                                     },
@@ -981,9 +977,7 @@ function gen_zero_four() {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Z2VuX29uZV90b190aHJlZQ=="
-                                                }
+                                                "value": "Z2VuX29uZV90b190aHJlZQ=="
                                             }
                                         }
                                     },
@@ -1120,9 +1114,8 @@ function gen_zero_four() {
                                     "key": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 4
-                                                }
+                                                "type": "Int",
+                                                "value": "NA=="
                                             }
                                         }
                                     },

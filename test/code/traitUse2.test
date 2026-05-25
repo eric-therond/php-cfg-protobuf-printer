@@ -361,9 +361,7 @@ class MyClass2 {
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "XEhlbGxvV29ybGQ="
-                                                            }
+                                                            "value": "XEhlbGxvV29ybGQ="
                                                         }
                                                     }
                                                 }
@@ -382,9 +380,7 @@ class MyClass2 {
                                                                         "method": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "c2F5SGVsbG8="
-                                                                                    }
+                                                                                    "value": "c2F5SGVsbG8="
                                                                                 }
                                                                             }
                                                                         },
@@ -466,9 +462,7 @@ class MyClass2 {
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "XEhlbGxvV29ybGQ="
-                                                            }
+                                                            "value": "XEhlbGxvV29ybGQ="
                                                         }
                                                     }
                                                 }
@@ -487,18 +481,14 @@ class MyClass2 {
                                                                         "method": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "c2F5SGVsbG8="
-                                                                                    }
+                                                                                    "value": "c2F5SGVsbG8="
                                                                                 }
                                                                             }
                                                                         },
                                                                         "newName": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "bXlQcml2YXRlSGVsbG8="
-                                                                                    }
+                                                                                    "value": "bXlQcml2YXRlSGVsbG8="
                                                                                 }
                                                                             }
                                                                         },
@@ -593,9 +583,7 @@ class MyClass2 {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "SGVsbG8gV29ybGQh"
-                                                }
+                                                "value": "SGVsbG8gV29ybGQh"
                                             }
                                         }
                                     }

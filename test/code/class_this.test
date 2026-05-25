@@ -235,9 +235,7 @@ class NameOfClass {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "aGVsbG8="
-                                                }
+                                                "value": "aGVsbG8="
                                             }
                                         }
                                     },

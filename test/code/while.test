@@ -125,9 +125,8 @@ echo 2;
                                     "cond": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "bool": true
-                                                }
+                                                "type": "Bool",
+                                                "value": "MQ=="
                                             }
                                         }
                                     }
@@ -210,9 +209,8 @@ echo 2;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     }
@@ -316,9 +314,8 @@ echo 2;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 2
-                                                }
+                                                "type": "Int",
+                                                "value": "Mg=="
                                             }
                                         }
                                     }

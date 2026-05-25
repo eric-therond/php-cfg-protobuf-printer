@@ -78,9 +78,8 @@ var_dump($c);
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -158,9 +157,8 @@ var_dump($c);
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 2
-                                                }
+                                                "type": "Int",
+                                                "value": "Mg=="
                                             }
                                         }
                                     },
@@ -408,9 +406,8 @@ var_dump($c);
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "int": 3
-                                                            }
+                                                            "type": "Int",
+                                                            "value": "Mw=="
                                                         }
                                                     }
                                                 }
@@ -480,9 +477,7 @@ var_dump($c);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },
@@ -597,9 +592,7 @@ var_dump($c);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     },

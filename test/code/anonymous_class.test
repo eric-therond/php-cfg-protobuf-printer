@@ -133,9 +133,7 @@ $instance = new #[Attr('foo')] class {};
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "e2Fub255bW91c0NsYXNzfSMx"
-                                                }
+                                                "value": "e2Fub255bW91c0NsYXNzfSMx"
                                             }
                                         }
                                     },
@@ -369,9 +367,7 @@ $instance = new #[Attr('foo')] class {};
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "QXR0cg=="
-                                                                                    }
+                                                                                    "value": "QXR0cg=="
                                                                                 }
                                                                             }
                                                                         },
@@ -381,9 +377,7 @@ $instance = new #[Attr('foo')] class {};
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "Zm9v"
-                                                                                                }
+                                                                                                "value": "Zm9v"
                                                                                             }
                                                                                         }
                                                                                     }
@@ -471,9 +465,7 @@ $instance = new #[Attr('foo')] class {};
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "e2Fub255bW91c0NsYXNzfSMy"
-                                                }
+                                                "value": "e2Fub255bW91c0NsYXNzfSMy"
                                             }
                                         }
                                     },
@@ -728,9 +720,7 @@ $instance = new #[Attr('foo')] class {};
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "SGVsbG8gV29ybGQ="
-                                                }
+                                                "value": "SGVsbG8gV29ybGQ="
                                             }
                                         }
                                     }

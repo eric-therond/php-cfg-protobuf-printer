@@ -73,9 +73,8 @@ echo $a;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
@@ -142,9 +141,7 @@ echo $a;
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "UXVpdHRpbmcgd2l0aCBtZXNzYWdlOiA="
-                                                }
+                                                "value": "UXVpdHRpbmcgd2l0aCBtZXNzYWdlOiA="
                                             }
                                         }
                                     },

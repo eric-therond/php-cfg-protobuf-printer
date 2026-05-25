@@ -64,9 +64,7 @@ var_dump($a);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "aXNfaW50"
-                                                }
+                                                "value": "aXNfaW50"
                                             }
                                         }
                                     },
@@ -159,9 +157,7 @@ var_dump($a);
                                     "assert": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "aW50"
-                                                }
+                                                "value": "aW50"
                                             }
                                         }
                                     }
@@ -228,9 +224,7 @@ var_dump($a);
                                                 "not": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "aW50"
-                                                            }
+                                                            "value": "aW50"
                                                         }
                                                     }
                                                 }
@@ -293,9 +287,7 @@ var_dump($a);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "aXNfZmxvYXQ="
-                                                }
+                                                "value": "aXNfZmxvYXQ="
                                             }
                                         }
                                     },
@@ -389,9 +381,8 @@ var_dump($a);
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "bool": true
-                                                            }
+                                                            "type": "Bool",
+                                                            "value": "MQ=="
                                                         }
                                                     }
                                                 },
@@ -578,18 +569,14 @@ var_dump($a);
                                                             "0": {
                                                                 "operand": {
                                                                     "literal": {
-                                                                        "value": {
-                                                                            "string": "aW50"
-                                                                        }
+                                                                        "value": "aW50"
                                                                     }
                                                                 }
                                                             },
                                                             "1": {
                                                                 "operand": {
                                                                     "literal": {
-                                                                        "value": {
-                                                                            "string": "ZmxvYXQ="
-                                                                        }
+                                                                        "value": "ZmxvYXQ="
                                                                     }
                                                                 }
                                                             }
@@ -773,18 +760,14 @@ var_dump($a);
                                                                         "0": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "aW50"
-                                                                                    }
+                                                                                    "value": "aW50"
                                                                                 }
                                                                             }
                                                                         },
                                                                         "1": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "ZmxvYXQ="
-                                                                                    }
+                                                                                    "value": "ZmxvYXQ="
                                                                                 }
                                                                             }
                                                                         }
@@ -967,9 +950,7 @@ var_dump($a);
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },

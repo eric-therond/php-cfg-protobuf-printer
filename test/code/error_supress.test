@@ -75,9 +75,7 @@ echo $dbname;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZGF0YWJhc2UgbmFtZQ=="
-                                                }
+                                                "value": "ZGF0YWJhc2UgbmFtZQ=="
                                             }
                                         }
                                     },
@@ -205,9 +203,7 @@ echo $dbname;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "aG9zdG5hbWU="
-                                                }
+                                                "value": "aG9zdG5hbWU="
                                             }
                                         }
                                     },

@@ -74,18 +74,16 @@ echo match(10) {
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 1
-                                                }
+                                                "type": "Int",
+                                                "value": "MQ=="
                                             }
                                         }
                                     },
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 10
-                                                }
+                                                "type": "Int",
+                                                "value": "MTA="
                                             }
                                         }
                                     },
@@ -197,9 +195,7 @@ echo match(10) {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Zm9v"
-                                                }
+                                                "value": "Zm9v"
                                             }
                                         }
                                     },
@@ -299,18 +295,16 @@ echo match(10) {
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 5
-                                                }
+                                                "type": "Int",
+                                                "value": "NQ=="
                                             }
                                         }
                                     },
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 10
-                                                }
+                                                "type": "Int",
+                                                "value": "MTA="
                                             }
                                         }
                                     },
@@ -552,9 +546,7 @@ echo match(10) {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YmFy"
-                                                }
+                                                "value": "YmFy"
                                             }
                                         }
                                     },
@@ -644,18 +636,16 @@ echo match(10) {
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 5
-                                                }
+                                                "type": "Int",
+                                                "value": "NQ=="
                                             }
                                         }
                                     },
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 5
-                                                }
+                                                "type": "Int",
+                                                "value": "NQ=="
                                             }
                                         }
                                     },
@@ -729,9 +719,8 @@ echo match(10) {
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 10
-                                                }
+                                                "type": "Int",
+                                                "value": "MTA="
                                             }
                                         }
                                     },
@@ -870,18 +859,14 @@ echo match(10) {
                                     "left": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YmF6"
-                                                }
+                                                "value": "YmF6"
                                             }
                                         }
                                     },
                                     "right": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YnV6"
-                                                }
+                                                "value": "YnV6"
                                             }
                                         }
                                     },
@@ -930,9 +915,8 @@ echo match(10) {
                                     "cond": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "int": 10
-                                                }
+                                                "type": "Int",
+                                                "value": "MTA="
                                             }
                                         }
                                     }

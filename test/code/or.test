@@ -61,9 +61,7 @@ $x = a() || b();
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     },
@@ -122,9 +120,8 @@ $x = a() || b();
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "bool": true
-                                                            }
+                                                            "type": "Bool",
+                                                            "value": "MQ=="
                                                         }
                                                     }
                                                 },
@@ -300,9 +297,7 @@ $x = a() || b();
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yg=="
-                                                }
+                                                "value": "Yg=="
                                             }
                                         }
                                     },

@@ -169,9 +169,7 @@ try {
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "TXlFeGNlcHRpb24="
-                                                }
+                                                "value": "TXlFeGNlcHRpb24="
                                             }
                                         }
                                     },
@@ -331,9 +329,7 @@ try {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Z2V0X2NsYXNz"
-                                                }
+                                                "value": "Z2V0X2NsYXNz"
                                             }
                                         }
                                     },
@@ -417,9 +413,7 @@ try {
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },
@@ -532,9 +526,7 @@ try {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "TXlFeGNlcHRpb24y"
-                                                }
+                                                "value": "TXlFeGNlcHRpb24y"
                                             }
                                         }
                                     }

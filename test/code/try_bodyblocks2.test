@@ -166,9 +166,7 @@ echo "next";
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9CYXI="
-                                                }
+                                                "value": "ZG9CYXI="
                                             }
                                         }
                                     },
@@ -479,9 +477,7 @@ echo "next";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZmluYWxseQ=="
-                                                }
+                                                "value": "ZmluYWxseQ=="
                                             }
                                         }
                                     }
@@ -570,9 +566,7 @@ echo "next";
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "RXhjZXB0aW9u"
-                                                }
+                                                "value": "RXhjZXB0aW9u"
                                             }
                                         }
                                     },
@@ -582,9 +576,7 @@ echo "next";
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "Zm9v"
-                                                            }
+                                                            "value": "Zm9v"
                                                         }
                                                     }
                                                 }
@@ -740,9 +732,7 @@ echo "next";
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9Gb28="
-                                                }
+                                                "value": "ZG9Gb28="
                                             }
                                         }
                                     },
@@ -912,9 +902,7 @@ echo "next";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "bmV4dA=="
-                                                }
+                                                "value": "bmV4dA=="
                                             }
                                         }
                                     }
@@ -994,9 +982,7 @@ echo "next";
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9GaQ=="
-                                                }
+                                                "value": "ZG9GaQ=="
                                             }
                                         }
                                     },
@@ -1148,9 +1134,7 @@ echo "next";
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "ZG9GaQ=="
-                                                }
+                                                "value": "ZG9GaQ=="
                                             }
                                         }
                                     },

@@ -647,18 +647,14 @@ class Aliased_Talker {
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "XEE="
-                                                            }
+                                                            "value": "XEE="
                                                         }
                                                     }
                                                 },
                                                 "1": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "XEI="
-                                                            }
+                                                            "value": "XEI="
                                                         }
                                                     }
                                                 }
@@ -677,18 +673,14 @@ class Aliased_Talker {
                                                                         "trait": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "XEI="
-                                                                                    }
+                                                                                    "value": "XEI="
                                                                                 }
                                                                             }
                                                                         },
                                                                         "method": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "c21hbGxUYWxr"
-                                                                                    }
+                                                                                    "value": "c21hbGxUYWxr"
                                                                                 }
                                                                             }
                                                                         },
@@ -698,9 +690,7 @@ class Aliased_Talker {
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "XEE="
-                                                                                                }
+                                                                                                "value": "XEE="
                                                                                             }
                                                                                         }
                                                                                     }
@@ -722,18 +712,14 @@ class Aliased_Talker {
                                                                         "trait": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "XEE="
-                                                                                    }
+                                                                                    "value": "XEE="
                                                                                 }
                                                                             }
                                                                         },
                                                                         "method": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "YmlnVGFsaw=="
-                                                                                    }
+                                                                                    "value": "YmlnVGFsaw=="
                                                                                 }
                                                                             }
                                                                         },
@@ -743,9 +729,7 @@ class Aliased_Talker {
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "XEI="
-                                                                                                }
+                                                                                                "value": "XEI="
                                                                                             }
                                                                                         }
                                                                                     }
@@ -825,18 +809,14 @@ class Aliased_Talker {
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "XEE="
-                                                            }
+                                                            "value": "XEE="
                                                         }
                                                     }
                                                 },
                                                 "1": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "XEI="
-                                                            }
+                                                            "value": "XEI="
                                                         }
                                                     }
                                                 }
@@ -855,18 +835,14 @@ class Aliased_Talker {
                                                                         "trait": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "XEI="
-                                                                                    }
+                                                                                    "value": "XEI="
                                                                                 }
                                                                             }
                                                                         },
                                                                         "method": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "c21hbGxUYWxr"
-                                                                                    }
+                                                                                    "value": "c21hbGxUYWxr"
                                                                                 }
                                                                             }
                                                                         },
@@ -876,9 +852,7 @@ class Aliased_Talker {
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "XEE="
-                                                                                                }
+                                                                                                "value": "XEE="
                                                                                             }
                                                                                         }
                                                                                     }
@@ -900,18 +874,14 @@ class Aliased_Talker {
                                                                         "trait": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "XEE="
-                                                                                    }
+                                                                                    "value": "XEE="
                                                                                 }
                                                                             }
                                                                         },
                                                                         "method": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "YmlnVGFsaw=="
-                                                                                    }
+                                                                                    "value": "YmlnVGFsaw=="
                                                                                 }
                                                                             }
                                                                         },
@@ -921,9 +891,7 @@ class Aliased_Talker {
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "XEI="
-                                                                                                }
+                                                                                                "value": "XEI="
                                                                                             }
                                                                                         }
                                                                                     }
@@ -945,27 +913,21 @@ class Aliased_Talker {
                                                                         "trait": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "XEI="
-                                                                                    }
+                                                                                    "value": "XEI="
                                                                                 }
                                                                             }
                                                                         },
                                                                         "method": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "YmlnVGFsaw=="
-                                                                                    }
+                                                                                    "value": "YmlnVGFsaw=="
                                                                                 }
                                                                             }
                                                                         },
                                                                         "newName": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "dGFsaw=="
-                                                                                    }
+                                                                                    "value": "dGFsaw=="
                                                                                 }
                                                                             }
                                                                         },
@@ -1060,9 +1022,7 @@ class Aliased_Talker {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     }
@@ -1156,9 +1116,7 @@ class Aliased_Talker {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QQ=="
-                                                }
+                                                "value": "QQ=="
                                             }
                                         }
                                     }
@@ -1252,9 +1210,7 @@ class Aliased_Talker {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yg=="
-                                                }
+                                                "value": "Yg=="
                                             }
                                         }
                                     }
@@ -1348,9 +1304,7 @@ class Aliased_Talker {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Qg=="
-                                                }
+                                                "value": "Qg=="
                                             }
                                         }
                                     }

@@ -64,9 +64,7 @@
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "string": "bHMg"
-                                                            }
+                                                            "value": "bHMg"
                                                         }
                                                     }
                                                 },
@@ -147,9 +145,7 @@
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "c2hlbGxfZXhlYw=="
-                                                }
+                                                "value": "c2hlbGxfZXhlYw=="
                                             }
                                         }
                                     },

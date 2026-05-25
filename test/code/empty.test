@@ -133,9 +133,7 @@ var_dump(empty($a['b']));
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },
@@ -226,9 +224,7 @@ var_dump(empty($a['b']));
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yg=="
-                                                }
+                                                "value": "Yg=="
                                             }
                                         }
                                     },
@@ -362,9 +358,7 @@ var_dump(empty($a['b']));
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },

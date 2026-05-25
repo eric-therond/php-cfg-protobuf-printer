@@ -66,18 +66,14 @@ namespace Foo;
                                     "nsName": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Rm9vXEJBUg=="
-                                                }
+                                                "value": "Rm9vXEJBUg=="
                                             }
                                         }
                                     },
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QkFS"
-                                                }
+                                                "value": "QkFS"
                                             }
                                         }
                                     },
@@ -144,9 +140,7 @@ namespace Foo;
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },
@@ -226,9 +220,7 @@ namespace Foo;
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },
@@ -238,9 +230,8 @@ namespace Foo;
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "bool": true
-                                                            }
+                                                            "type": "Bool",
+                                                            "value": "MQ=="
                                                         }
                                                     }
                                                 }
@@ -310,9 +301,7 @@ namespace Foo;
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },
@@ -322,9 +311,7 @@ namespace Foo;
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "value": {
-                                                                "bool": false
-                                                            }
+                                                            "type": "Bool"
                                                         }
                                                     }
                                                 }
@@ -394,9 +381,7 @@ namespace Foo;
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "dmFyX2R1bXA="
-                                                }
+                                                "value": "dmFyX2R1bXA="
                                             }
                                         }
                                     },

@@ -131,9 +131,7 @@ $obj = new NameOfClass();
                                     "class": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "TlNcTmFtZU9mQ2xhc3M="
-                                                }
+                                                "value": "TlNcTmFtZU9mQ2xhc3M="
                                             }
                                         }
                                     },
@@ -311,9 +309,7 @@ $obj = new NameOfClass();
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "c2VsZg=="
-                                                }
+                                                "value": "c2VsZg=="
                                             }
                                         }
                                     }

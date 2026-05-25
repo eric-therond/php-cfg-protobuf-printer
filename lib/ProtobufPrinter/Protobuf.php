@@ -16,6 +16,7 @@ use PHPCfg\Func;
 use PHPCfg\Script;
 use PHPCfg\Operand;
 use PHPCfg\Printer\Printer;
+use ProtobufPrinter\ProtobufGenerated\ScalarType as PBScalarType;
 use ProtobufPrinter\ProtobufGenerated\OpKind as PBOpKind;
 use ProtobufPrinter\ProtobufGenerated\Scalar as PBScalar;
 use ProtobufPrinter\ProtobufGenerated\Script as PBScript;
@@ -435,8 +436,19 @@ class Protobuf extends Printer
                 } elseif ($kind == "LITERAL") {
                     $pboneOperand = new PBOneOperand();
                     $literaloperand = new PBLiteral();
-                    $scalar = $this->renderScalar($result["value"]);
-                    $literaloperand->setValue($scalar);
+                    $value = $result["value"];
+
+                    $type_ = PBScalarType::String;
+                    if (is_bool($value)) {
+                        $type_ = PBScalarType::Bool;
+                    } elseif (is_float($value)) {
+                        $type_ = PBScalarType::Float;
+                    } elseif (is_int($value)) {
+                        $type_ = PBScalarType::Int;
+                    }
+
+                    $literaloperand->setType($type_);
+                    $literaloperand->setValue(mb_convert_encoding(strval($value), "UTF-8", "ISO-8859-1"));
                     $pboneOperand->setLiteral($literaloperand);
                     return $pboneOperand;
                 } elseif ($kind == "TEMP") {

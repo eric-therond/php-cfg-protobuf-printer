@@ -73,9 +73,7 @@ list('a' => $a, $key => $b) = $array;
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Yg=="
-                                                }
+                                                "value": "Yg=="
                                             }
                                         }
                                     },
@@ -158,9 +156,7 @@ list('a' => $a, $key => $b) = $array;
                                     "dim": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "YQ=="
-                                                }
+                                                "value": "YQ=="
                                             }
                                         }
                                     },

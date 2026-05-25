@@ -154,9 +154,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "RXhhbXBsZUF0dHJpYnV0ZQ=="
-                                                                                    }
+                                                                                    "value": "RXhhbXBsZUF0dHJpYnV0ZQ=="
                                                                                 }
                                                                             }
                                                                         },
@@ -166,18 +164,14 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "Zm9v"
-                                                                                                }
+                                                                                                "value": "Zm9v"
                                                                                             }
                                                                                         }
                                                                                     },
                                                                                     "1": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "YmFy"
-                                                                                                }
+                                                                                                "value": "YmFy"
                                                                                             }
                                                                                         }
                                                                                     }
@@ -345,9 +339,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Q29uc3RBdHRy"
-                                                                                    }
+                                                                                    "value": "Q29uc3RBdHRy"
                                                                                 }
                                                                             }
                                                                         }
@@ -448,9 +440,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Rm9vQXR0cmlidXRl"
-                                                                                    }
+                                                                                    "value": "Rm9vQXR0cmlidXRl"
                                                                                 }
                                                                             }
                                                                         },
@@ -756,9 +746,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                         "name": {
                                                                             "operand": {
                                                                                 "literal": {
-                                                                                    "value": {
-                                                                                        "string": "Rm9vUGFyYW1BdHRyaWI="
-                                                                                    }
+                                                                                    "value": "Rm9vUGFyYW1BdHRyaWI="
                                                                                 }
                                                                             }
                                                                         },
@@ -768,9 +756,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                                                                     "0": {
                                                                                         "operand": {
                                                                                             "literal": {
-                                                                                                "value": {
-                                                                                                    "string": "Rm9vMQ=="
-                                                                                                }
+                                                                                                "value": "Rm9vMQ=="
                                                                                             }
                                                                                         }
                                                                                     }
@@ -799,9 +785,7 @@ function foo_func(#[FooParamAttrib('Foo1')] $foo) {}
                                     "name": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Zm9v"
-                                                }
+                                                "value": "Zm9v"
                                             }
                                         }
                                     },

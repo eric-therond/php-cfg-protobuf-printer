@@ -73,9 +73,7 @@ echo $flag;
                                     "defaultVar": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "bool": false
-                                                }
+                                                "type": "Bool"
                                             }
                                         }
                                     }

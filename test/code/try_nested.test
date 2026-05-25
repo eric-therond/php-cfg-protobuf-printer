@@ -419,9 +419,7 @@ try {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "bool": false
-                                                }
+                                                "type": "Bool"
                                             }
                                         }
                                     }
@@ -501,9 +499,7 @@ try {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "bmVzdGVkIHRyeQ=="
-                                                }
+                                                "value": "bmVzdGVkIHRyeQ=="
                                             }
                                         }
                                     }
@@ -694,9 +690,8 @@ try {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "bool": true
-                                                }
+                                                "type": "Bool",
+                                                "value": "MQ=="
                                             }
                                         }
                                     }

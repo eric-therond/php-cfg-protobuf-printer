@@ -141,9 +141,7 @@ echo "C";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "QQ=="
-                                                }
+                                                "value": "QQ=="
                                             }
                                         }
                                     }
@@ -274,9 +272,7 @@ echo "C";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "Qw=="
-                                                }
+                                                "value": "Qw=="
                                             }
                                         }
                                     }
@@ -433,9 +429,7 @@ echo "C";
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "value": {
-                                                    "string": "RA=="
-                                                }
+                                                "value": "RA=="
                                             }
                                         }
                                     }
