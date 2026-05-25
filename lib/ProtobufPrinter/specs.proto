@@ -111,6 +111,7 @@ enum OpKind {
   Expr_BinaryOp_Smaller = 232;
   Expr_BinaryOp_SmallerOrEqual = 233;
   Expr_BinaryOp_Spaceship = 234;
+  Expr_BinaryOp_Various = 235;
 
   Expr_Cast_Array = 300;
   Expr_Cast_Bool = 301;

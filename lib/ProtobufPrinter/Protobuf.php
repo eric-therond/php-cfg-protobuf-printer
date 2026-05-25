@@ -246,6 +246,8 @@ class Protobuf extends Printer
                 return PBOpKind::Expr_BinaryOp_SmallerOrEqual;
             case "Expr_BinaryOp_Spaceship":
                 return PBOpKind::Expr_BinaryOp_Spaceship;
+            case "Expr_BinaryOp_Various":
+                return PBOpKind::Expr_BinaryOp_Various;
             case "Expr_Cast_Array":
                 return PBOpKind::Expr_Cast_Array;
             case "Expr_Cast_Bool":

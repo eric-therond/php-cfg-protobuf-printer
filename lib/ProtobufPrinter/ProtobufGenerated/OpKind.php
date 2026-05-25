@@ -425,6 +425,10 @@ class OpKind
      */
     const Expr_BinaryOp_Spaceship = 234;
     /**
+     * Generated from protobuf enum <code>Expr_BinaryOp_Various = 235;</code>
+     */
+    const Expr_BinaryOp_Various = 235;
+    /**
      * Generated from protobuf enum <code>Expr_Cast_Array = 300;</code>
      */
     const Expr_Cast_Array = 300;
@@ -697,6 +701,7 @@ class OpKind
         self::Expr_BinaryOp_Smaller => 'Expr_BinaryOp_Smaller',
         self::Expr_BinaryOp_SmallerOrEqual => 'Expr_BinaryOp_SmallerOrEqual',
         self::Expr_BinaryOp_Spaceship => 'Expr_BinaryOp_Spaceship',
+        self::Expr_BinaryOp_Various => 'Expr_BinaryOp_Various',
         self::Expr_Cast_Array => 'Expr_Cast_Array',
         self::Expr_Cast_Bool => 'Expr_Cast_Bool',
         self::Expr_Cast_Double => 'Expr_Cast_Double',
