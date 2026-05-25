@@ -121,7 +121,7 @@ $x = a() || b();
                                                     "operand": {
                                                         "literal": {
                                                             "type": "Bool",
-                                                            "value": "MQ=="
+                                                            "value": "dHJ1ZQ=="
                                                         }
                                                     }
                                                 },

@@ -72,7 +72,7 @@ namespace Bar {
                                         "operand": {
                                             "literal": {
                                                 "type": "Bool",
-                                                "value": "MQ=="
+                                                "value": "dHJ1ZQ=="
                                             }
                                         }
                                     }
@@ -275,7 +275,8 @@ namespace Bar {
                                     "cond": {
                                         "operand": {
                                             "literal": {
-                                                "type": "Bool"
+                                                "type": "Bool",
+                                                "value": "ZmFsc2U="
                                             }
                                         }
                                     }

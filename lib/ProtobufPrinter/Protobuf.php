@@ -436,19 +436,26 @@ class Protobuf extends Printer
                 } elseif ($kind == "LITERAL") {
                     $pboneOperand = new PBOneOperand();
                     $literaloperand = new PBLiteral();
+
                     $value = $result["value"];
+                    $type = gettype($value);
+                    if (is_bool($value)) {
+                        $value = $value ? "true" : "false";
+                    } else {
+                        $value = strval($value);
+                    }
 
                     $type_ = PBScalarType::String;
-                    if (is_bool($value)) {
+                    if ($type == "boolean") {
                         $type_ = PBScalarType::Bool;
-                    } elseif (is_float($value)) {
+                    } elseif ($type == "double") {
                         $type_ = PBScalarType::Float;
-                    } elseif (is_int($value)) {
+                    } elseif ($type == "integer") {
                         $type_ = PBScalarType::Int;
                     }
 
                     $literaloperand->setType($type_);
-                    $literaloperand->setValue(mb_convert_encoding(strval($value), "UTF-8", "ISO-8859-1"));
+                    $literaloperand->setValue(mb_convert_encoding($value, "UTF-8", "ISO-8859-1"));
                     $pboneOperand->setLiteral($literaloperand);
                     return $pboneOperand;
                 } elseif ($kind == "TEMP") {
