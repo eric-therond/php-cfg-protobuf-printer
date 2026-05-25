@@ -239,7 +239,8 @@ $x = a() && b();
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "type": "Bool"
+                                                            "type": "Bool",
+                                                            "value": "ZmFsc2U="
                                                         }
                                                     }
                                                 },

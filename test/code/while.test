@@ -126,7 +126,7 @@ echo 2;
                                         "operand": {
                                             "literal": {
                                                 "type": "Bool",
-                                                "value": "MQ=="
+                                                "value": "dHJ1ZQ=="
                                             }
                                         }
                                     }

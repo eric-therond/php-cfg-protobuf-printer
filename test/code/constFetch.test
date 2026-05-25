@@ -231,7 +231,7 @@ namespace Foo;
                                                     "operand": {
                                                         "literal": {
                                                             "type": "Bool",
-                                                            "value": "MQ=="
+                                                            "value": "dHJ1ZQ=="
                                                         }
                                                     }
                                                 }
@@ -311,7 +311,8 @@ namespace Foo;
                                                 "0": {
                                                     "operand": {
                                                         "literal": {
-                                                            "type": "Bool"
+                                                            "type": "Bool",
+                                                            "value": "ZmFsc2U="
                                                         }
                                                     }
                                                 }

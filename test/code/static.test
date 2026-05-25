@@ -73,7 +73,8 @@ echo $flag;
                                     "defaultVar": {
                                         "operand": {
                                             "literal": {
-                                                "type": "Bool"
+                                                "type": "Bool",
+                                                "value": "ZmFsc2U="
                                             }
                                         }
                                     }

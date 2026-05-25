@@ -419,7 +419,8 @@ try {
                                     "expr": {
                                         "operand": {
                                             "literal": {
-                                                "type": "Bool"
+                                                "type": "Bool",
+                                                "value": "ZmFsc2U="
                                             }
                                         }
                                     }
@@ -691,7 +692,7 @@ try {
                                         "operand": {
                                             "literal": {
                                                 "type": "Bool",
-                                                "value": "MQ=="
+                                                "value": "dHJ1ZQ=="
                                             }
                                         }
                                     }
