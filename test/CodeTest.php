@@ -32,7 +32,7 @@ class CodeTest extends TestCase
     {
         $astTraverser = new PhpParser\NodeTraverser();
         $astTraverser->addVisitor(new PhpParser\NodeVisitor\NameResolver());
-        $parser = new Parser((new ParserFactory())->createForNewestSupportedVersion(), $astTraverser);
+        $parser = new Parser(new ParserFactory()->createForNewestSupportedVersion(), $astTraverser);
         $traverser = new Traverser();
         $traverser->addVisitor(new Visitor\Simplifier());
         $printer = new Protobuf(Printer\Printer::MODE_RENDER_ATTRIBUTES);
