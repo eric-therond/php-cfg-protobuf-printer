@@ -373,7 +373,7 @@ class Protobuf extends Printer
 
             $pbblockParents = [];
             foreach ($block->parents as $prev) {
-                if ($rendered['blockIds']->contains($prev)) {
+                if ($rendered['blockIds']->offsetExists($prev)) {
                     $pbblockParents[] = $rendered['blockIds'][$prev];
                 }
             }
@@ -389,7 +389,7 @@ class Protobuf extends Printer
                     $pbcatchTargets[] = $pbcatchTarget;
                 }
 
-                if ($rendered['blockIds']->contains($block->catchTarget->finally)) {
+                if ($rendered['blockIds']->offsetExists($block->catchTarget->finally)) {
                     $pbfinallyTarget = new PBFinallyTarget();
                     $pbfinallyTarget->setBlockId($rendered['blockIds'][$block->catchTarget->finally]);
                     $pbblock->setFinallyTarget($pbfinallyTarget);
@@ -470,7 +470,6 @@ class Protobuf extends Printer
                     }
                     $pboneOperand->setTemporary($tempoperand);
                     return $pboneOperand;
-
                 } elseif ($kind == "VARIABLE") {
                     $pboneOperand = new PBOneOperand();
                     $varoperand = new PBVariable();
@@ -522,7 +521,7 @@ class Protobuf extends Printer
             }
 
             $maplabel->setValue($map);
-            $result ->setMap($maplabel);
+            $result->setMap($maplabel);
         } elseif ($value instanceof PBOneOperand) {
             $result->setOperand($value);
         } else {
