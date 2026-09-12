@@ -8,15 +8,9 @@
       "email": "eric.therond.fr@gmail.com"
     }
   ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/eric-therond/php-cfg.git"
-    }
-  ],
   "require": {
     "php": ">=8.4.1",
-    "ircmaxell/php-cfg": "dev-proto_printer_refactor",
+    "ircmaxell/php-cfg": "dev-master",
     "google/protobuf": "5.35.1"
   },
   "require-dev": {

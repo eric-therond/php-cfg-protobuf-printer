@@ -549,7 +549,7 @@ var_dump(A, C::D);
                 {
                     "ops": [
                         {
-                            "kind": "Terminal_Const",
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -593,9 +593,22 @@ var_dump(A, C::D);
                                             }
                                         }
                                     },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
                                     "kind": {
                                         "scalar": {
-                                            "string": "VGVybWluYWxfQ29uc3Q="
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
+                                        }
+                                    },
+                                    "declaredType": {
+                                        "scalar": {
+                                            "string": "bWl4ZWQ="
+                                        }
+                                    },
+                                    "flags": {
+                                        "scalar": {
+                                            "string": "Y29uc3R8cHVibGlj"
                                         }
                                     },
                                     "name": {
@@ -605,7 +618,7 @@ var_dump(A, C::D);
                                             }
                                         }
                                     },
-                                    "value": {
+                                    "defaultVar": {
                                         "operand": {
                                             "literal": {
                                                 "type": "Int",
@@ -616,11 +629,11 @@ var_dump(A, C::D);
                                 }
                             },
                             "childBlocks": {
-                                "valueBlock": 5
+                                "defaultBlock": 5
                             }
                         },
                         {
-                            "kind": "Terminal_Const",
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -664,9 +677,22 @@ var_dump(A, C::D);
                                             }
                                         }
                                     },
+                                    "attrGroup": {
+                                        "map": {}
+                                    },
                                     "kind": {
                                         "scalar": {
-                                            "string": "VGVybWluYWxfQ29uc3Q="
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
+                                        }
+                                    },
+                                    "declaredType": {
+                                        "scalar": {
+                                            "string": "bWl4ZWQ="
+                                        }
+                                    },
+                                    "flags": {
+                                        "scalar": {
+                                            "string": "Y29uc3R8cHVibGlj"
                                         }
                                     },
                                     "name": {
@@ -676,7 +702,7 @@ var_dump(A, C::D);
                                             }
                                         }
                                     },
-                                    "value": {
+                                    "defaultVar": {
                                         "operand": {
                                             "temporary": {
                                                 "id": 5
@@ -686,7 +712,7 @@ var_dump(A, C::D);
                                 }
                             },
                             "childBlocks": {
-                                "valueBlock": 6
+                                "defaultBlock": 6
                             }
                         }
                     ],
