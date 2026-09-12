@@ -928,7 +928,7 @@ class A {
                             }
                         },
                         {
-                            "kind": "Terminal_Const",
+                            "kind": "Stmt_Property",
                             "label": {
                                 "value": {
                                     "attribute": {
@@ -972,9 +972,126 @@ class A {
                                             }
                                         }
                                     },
+                                    "attrGroup": {
+                                        "map": {
+                                            "value": {
+                                                "0": {
+                                                    "map": {
+                                                        "value": {
+                                                            "attribute": {
+                                                                "map": {
+                                                                    "value": {
+                                                                        "filename": {
+                                                                            "scalar": {
+                                                                                "string": "Zm9vLnBocA=="
+                                                                            }
+                                                                        },
+                                                                        "startLine": {
+                                                                            "scalar": {
+                                                                                "int": 15
+                                                                            }
+                                                                        },
+                                                                        "startTokenPos": {
+                                                                            "scalar": {
+                                                                                "int": 78
+                                                                            }
+                                                                        },
+                                                                        "startFilePos": {
+                                                                            "scalar": {
+                                                                                "int": 274
+                                                                            }
+                                                                        },
+                                                                        "endLine": {
+                                                                            "scalar": {
+                                                                                "int": 15
+                                                                            }
+                                                                        },
+                                                                        "endTokenPos": {
+                                                                            "scalar": {
+                                                                                "int": 80
+                                                                            }
+                                                                        },
+                                                                        "endFilePos": {
+                                                                            "scalar": {
+                                                                                "int": 291
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            "0": {
+                                                                "map": {
+                                                                    "value": {
+                                                                        "attribute": {
+                                                                            "map": {
+                                                                                "value": {
+                                                                                    "filename": {
+                                                                                        "scalar": {
+                                                                                            "string": "Zm9vLnBocA=="
+                                                                                        }
+                                                                                    },
+                                                                                    "startLine": {
+                                                                                        "scalar": {
+                                                                                            "int": 15
+                                                                                        }
+                                                                                    },
+                                                                                    "startTokenPos": {
+                                                                                        "scalar": {
+                                                                                            "int": 79
+                                                                                        }
+                                                                                    },
+                                                                                    "startFilePos": {
+                                                                                        "scalar": {
+                                                                                            "int": 276
+                                                                                        }
+                                                                                    },
+                                                                                    "endLine": {
+                                                                                        "scalar": {
+                                                                                            "int": 15
+                                                                                        }
+                                                                                    },
+                                                                                    "endTokenPos": {
+                                                                                        "scalar": {
+                                                                                            "int": 79
+                                                                                        }
+                                                                                    },
+                                                                                    "endFilePos": {
+                                                                                        "scalar": {
+                                                                                            "int": 290
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        "name": {
+                                                                            "operand": {
+                                                                                "literal": {
+                                                                                    "value": "TmFtZU9mQXR0cmlidXRl"
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
                                     "kind": {
                                         "scalar": {
-                                            "string": "VGVybWluYWxfQ29uc3Q="
+                                            "string": "U3RtdF9Qcm9wZXJ0eQ=="
+                                        }
+                                    },
+                                    "declaredType": {
+                                        "scalar": {
+                                            "string": "bWl4ZWQ="
+                                        }
+                                    },
+                                    "flags": {
+                                        "scalar": {
+                                            "string": "Y29uc3R8cHJpdmF0ZQ=="
                                         }
                                     },
                                     "name": {
@@ -984,7 +1101,7 @@ class A {
                                             }
                                         }
                                     },
-                                    "value": {
+                                    "defaultVar": {
                                         "operand": {
                                             "literal": {
                                                 "value": "Zm9v"
@@ -994,7 +1111,7 @@ class A {
                                 }
                             },
                             "childBlocks": {
-                                "valueBlock": 5
+                                "defaultBlock": 5
                             }
                         }
                     ],
